@@ -8,4 +8,4 @@
 [<b>Deviant Art</b>](https://www.deviantart.com/jdm7dv)
 <br>
 <br> 
-[![Jonathan's github stats](https://github-readme-stats.vercel.app/api?username=jonathanchapmanmoore)]]
+[!Jonathan's github stats](https://github-readme-stats.vercel.app/api?username=jonathanchapmanmoore)]
