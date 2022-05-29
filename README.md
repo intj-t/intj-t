@@ -1,6 +1,6 @@
 ### Hi there
 
-Former MSDN Student Ambassador, And Visual Studio Industry Partner
+First school was Sullins Academy pictured below. Former MSDN Student Ambassador, And Visual Studio Industry Partner
 Recived a MSFT Tendor offer in 2006 and pooled together 1.5% stake in Microsoft
 Still hold a 20% per Federal source code policy or private equity in MSFT.
 Windows is 9% contact your Ivy League Proffessor or Dept of Education.
@@ -10,6 +10,7 @@ With the Ribbon Control Library Suite. On Teams. Through their reseller program.
 Shipping the .NET Core 2.1.5, 3.13 and Roslyn and portions of Visual Studio 2019 through the .NET Foundation 
 and upstream and downstream pull requests. And joined the Windows App Developer program in 2019.
 
+![Sullins](images/sullins.png)
   
 [<b>Blog</b>](https://jdm7dvcsmath.blogspot.com/)
 <br>
