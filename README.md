@@ -21,4 +21,3 @@ and upstream and downstream pull requests. And joined the Windows App Developer 
 <br>
 ![](https://komarev.com/ghpvc/?username=jonathanchapmanmoore)
 <br> 
-[![Jonathan's github stats](https://github-readme-stats.vercel.app/api?username=jonathanchapmanmoore)]]
