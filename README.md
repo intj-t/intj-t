@@ -1,7 +1,7 @@
 ### Hi there
 
 Former MSDN Student Ambassador, And Visual Studio Industry Partner
-Recived a MSFT Tendor offer in 2006 and pooled togther 1.5% stake in Microsoft
+Recived a MSFT Tendor offer in 2006 and pooled together 1.5% stake in Microsoft
 
   
 [<b>Blog</b>](https://jdm7dvcsmath.blogspot.com/)
