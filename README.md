@@ -1,4 +1,6 @@
-### Hi there 
+### Hi there
+
+Former MSDN Student Ambassador, And Visual Studio Industry Partner
 
   
 [<b>Blog</b>](https://jdm7dvcsmath.blogspot.com/)
