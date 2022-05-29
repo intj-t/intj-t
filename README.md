@@ -2,6 +2,7 @@
 
 Former MSDN Student Ambassador, And Visual Studio Industry Partner
 Recived a MSFT Tendor offer in 2006 and pooled together 1.5% stake in Microsoft
+Still hold a 20% per Federal Source code policy or private equity in MSFT.
 
   
 [<b>Blog</b>](https://jdm7dvcsmath.blogspot.com/)
