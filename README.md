@@ -10,7 +10,7 @@ With the Ribbon Control Library Suite. On Teams. Through their reseller program.
 Shipping the .NET Core 2.1.5, 3.13 and Roslyn and portions of Visual Studio 2019 through the .NET Foundation 
 and upstream and downstream pull requests. And joined the Windows App Developer program in 2019. And 
 working on a patent protected framework and C# Operating System.
-I've a 2019 Microsoft Bizspark Graduate and new parter Windows App Developer. 
+I've a 2019 Microsoft Bizspark Graduate with graduation email from Midori Lawer and new parter Windows App Developer. 
 
 ![Sullins](images/sullins.jpg)
   
