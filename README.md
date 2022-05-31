@@ -11,7 +11,7 @@ With the Ribbon Control Library Suite. On Teams. Through their reseller program.
 Shipping the .NET Core 2.1.5, 3.13 and Roslyn and portions of Visual Studio 2019 through the .NET Foundation 
 and upstream and downstream pull requests. And joined the Windows App Developer program in 2019. And 
 working on a patent protected framework and C# Operating System.
-I've a 2019 Microsoft Bizspark Graduate with graduation email from Midori Lawler. Favorite Songs are
+I've a 2019 Microsoft Bizspark Graduate with graduation email from Microsoft's Midori Lawler. Favorite Songs are
 Pearl Jam's In My Tree, Public Image, Rearviewmirror, Blood, Dissident, and Betterman. 
 
 ![Sullins](images/sullins.jpg)
