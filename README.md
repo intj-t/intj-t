@@ -13,7 +13,7 @@ Shipping the .NET Core 2.1.5, 3.13 and Roslyn and portions of Visual Studio 2019
 and upstream and downstream pull requests. And joined the Windows App Developer program in 2019.
 * And working on a patent protected framework and C# Operating System. And built the University of Washington's Spin OS on Redhat 4.2
 I've a 2019 Microsoft Bizspark Graduate with graduation email from Microsoft's Midori Lawler, Free Microsoft Tech Support and A Changeset of Verve. 
-* Favorite Songs are Pearl Jam's Why Go, Black, Oceans, Spin the Black Cirlce, MFC(Mini Fast Cars), In My Tree, Fatal, Arms Aloft, Public Image, Rearviewmirror, Blood, Dissident, Leash and Betterman. 
+* Favorite Songs are Pearl Jam's Why Go, Black, Oceans, Spin the Black Cirlce, MFC(Mini Fast Cars), In My Tree, Fatal, Arms Aloft, Public Image, Rearviewmirror, Blood, Dissident, Leash and Betterman. And played Ping Pong with the band after a '98 show.
 
 ![Sullins](images/sullins.jpg)
   
