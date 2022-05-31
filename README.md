@@ -12,7 +12,7 @@ Shipping the .NET Core 2.1.5, 3.13 and Roslyn and portions of Visual Studio 2019
 and upstream and downstream pull requests. And joined the Windows App Developer program in 2019. And 
 working on a patent protected framework and C# Operating System.
 I've a 2019 Microsoft Bizspark Graduate with graduation email from Microsoft's Midori Lawler, Free Microsoft Tech Support and A Changeset of Verve. Favorite Songs are
-Pearl Jam's In My Tree, Public Image, Rearviewmirror, Blood, Dissident, and Betterman. 
+Pearl Jam's In My Tree, Public Image, Rearviewmirror, Blood, Dissident, Leash and Betterman. 
 
 ![Sullins](images/sullins.jpg)
   
