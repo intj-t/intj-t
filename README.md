@@ -1,6 +1,6 @@
 ### Hi there
 
-First school was The English Sullins Academy in 1984 pictured below. UVa Alumni with a C in Operating Systems Theroy And C# and a B in Digital Art with Adobe CS6,
+First school was The English Sullins Academy in 1984 pictured below. UVa Alumni with a C in Operating Systems Theroy, Data Structures and Algorithms And C# and a B in Digital Art with Adobe CS6,
 Accounting and Geology and C/C++. Former MSDN Student Ambassador, And Visual Studio Industry Partner
 Recived a MSFT Tendor offer in 2006 and pooled together 1.5% stake in Microsoft
 Still hold a 20% per Federal source code policy or private equity in MSFT.
