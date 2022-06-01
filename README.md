@@ -4,7 +4,7 @@
 Accounting and Geology and C/C++. Former MSDN Student Ambassador, And Visual Studio Industry Partner.
 * Recived a MSFT Tendor offer in 2006 and pooled together 1.5% stake in Microsoft
 * I participated in the Charlottesville Va, Windows Source program in 2003 at UVa, The Longhorn Migration Program in 2005 and the Windows Kernel Source program in 2009. I still have my MSDN Acedemic Alliance files. 
-* Paid for a 1998 MSDN Library, 2000, 2004 MSDN Enterprise Subscriptions. And 7 2006-2014 Action Packs. With one thre year 2016 Bizspark With ID cards.
+* Paid for a 1998 MSDN Library, 2000, 2004 MSDN Enterprise Subscriptions. And 7 2006-2014 Action Packs. With one three year 2016 Bizspark With ID cards.
 * Went to Microsoft Conferences PDC 2003, MIX 09, and Build 2017
 * Shipped Fluent Control Ribbon 2.0, World Wide Telescope & WPF Toolkit 3.5 & 4.0 
 through Codeplex and Component Source. In 2010 with Xceed & Janus Systems & Software. 
@@ -16,6 +16,7 @@ and upstream and downstream pull requests. And joined the Windows App Developer 
 I'm a 2019 Microsoft Bizspark Graduate with graduation email from Microsoft's Midori Lawler, Free Microsoft Tech Support and A Changeset of Verve. And on the Barrelfish Multi Kernel Microsoft Research Team. 
 * Favorite Songs are Pearl Jam's Why Go, Black, Oceans, Spin the Black Cirlce, I Got I.D., MFC(Mini Fast Car), In My Tree, Fatal, Arms Aloft, Public Image, Rearviewmirror, Blood, Dissident, Leash, Betterman and The End. And played Ping Pong with the band after a '98 show.
 * Favorite Microsoft Books are the .NET developer Series from Addision Wesely
+<br>
 ![Sullins](images/sullins.jpg)
   
 [<b>Blog</b>](https://jdm7dvcsmath.blogspot.com/)
