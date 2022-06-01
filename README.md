@@ -2,7 +2,7 @@
 
 
 
-* First school was The English [Sullins Acadamy](https://www.sullinsacademy.org/our-history) in 1984 pictured below. Used parents TRS-80 for games and parents Dow Jones ID, and bought a IBM Aptivia in 1996 for High School Graduation  UVa Alumni In Computer Science and Digital Design with a C in Operating Systems Theroy, Data Structures and Algorithms And C# and a B in Digital Art with Adobe CS6,
+* First school was The English [Sullins Acadamy](https://www.sullinsacademy.org/our-history) in 1984 pictured below and skipped the 1st grade because of my dinasour studies. Used parents TRS-80 for games and parents Dow Jones ID, and bought a IBM Aptivia in 1996 for High School Graduation  UVa Alumni In Computer Science and Digital Design with a C in Operating Systems Theroy, Data Structures and Algorithms And C# and a B in Digital Art with Adobe CS6,
 Accounting and Geology and C/C++. Former MSDN Student Ambassador, And Visual Studio Industry Partner. In 1985 Had too move from my families mansion to a condo because my mother became ill.
 * Recived a MSFT Tendor offer in 2006 and pooled together 1.5% stake in Microsoft
 * I participated in the Charlottesville Va, Windows Source program in 2003 at UVa, The Longhorn Migration Program in 2005 and the Windows Kernel Source program in 2009. I still have my MSDN Acedemic Alliance files. 
