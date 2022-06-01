@@ -1,5 +1,7 @@
 ### Hi there
 
+![Sullins](images/Sullins.png)
+
 * First school was The English Sullins Academy in 1984 pictured below. UVa Alumni with a C in Operating Systems Theroy, Data Structures and Algorithms And C# and a B in Digital Art with Adobe CS6,
 Accounting and Geology and C/C++. Former MSDN Student Ambassador, And Visual Studio Industry Partner.
 * Recived a MSFT Tendor offer in 2006 and pooled together 1.5% stake in Microsoft
@@ -17,7 +19,7 @@ I'm a 2019 Microsoft Bizspark Graduate with graduation email from Microsoft's Mi
 * Favorite Songs are Pearl Jam's Why Go, Black, Oceans, Spin the Black Cirlce, I Got I.D., MFC(Mini Fast Car), In My Tree, Fatal, Arms Aloft, Public Image, Rearviewmirror, Blood, Dissident, Leash, Betterman, Force of Nature and The End. And played Ping Pong with the band after a '98 show.
 * Favorite Microsoft Books are the .NET developer Series from Addision Wesely
 
-![Sullins](images/sullins.jpg)
+
   
 [<b>Blog</b>](https://jdm7dvcsmath.blogspot.com/)
 <br>
