@@ -3,9 +3,7 @@
 * First school was The English Sullins Academy in 1984 pictured below. UVa Alumni with a C in Operating Systems Theroy, Data Structures and Algorithms And C# and a B in Digital Art with Adobe CS6,
 Accounting and Geology and C/C++. Former MSDN Student Ambassador, And Visual Studio Industry Partner.
 * Recived a MSFT Tendor offer in 2006 and pooled together 1.5% stake in Microsoft
-Still hold a 20% per Federal source code policy or private equity in MSFT.
-Windows is 9% contact your Ivy League Proffessor or Dept of Education.
-I still have my MSDN Acedemic Alliance files. 
+* I participated in the Charlosville Va, Windows Source program in 2003 and the Windows Kernel Source program in 2009. I still have my MSDN Acedemic Alliance files. 
 * Went to Microsoft Conferences PDC 2003, MIX 09, and Build 2017
 * Shipped Fluent Control Ribbon 2.0, World Wide Telescope & WPF Toolkit 3.5 & 4.0 
 through Codeplex and Component Source. In 2010 with Xceed & Janus Systems & Software. 
