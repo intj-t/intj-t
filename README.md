@@ -6,6 +6,7 @@ Accounting and Geology and C/C++. Former MSDN Student Ambassador, And Visual Stu
 Still hold a 20% per Federal source code policy or private equity in MSFT.
 Windows is 9% contact your Ivy League Proffessor or Dept of Education.
 I still have my MSDN Acedemic Alliance files. 
+* Went to Microsoft Conferences PDC 2003, MIX 09, and Build 2017
 * Shipped Fluent Control Ribbon 2.0, World Wide Telescope & WPF Toolkit 3.5 & 4.0 
 through Codeplex and Component Source. In 2010 with Xceed & Janus Systems & Software. 
 With the Ribbon Control Library Suite. On Teams. Through their reseller program. 
@@ -13,7 +14,7 @@ Shipping the .NET Core 2.1.5, 3.13 and Roslyn and portions of Visual Studio 2019
 and upstream and downstream pull requests. And joined the Windows App Developer program in 2019.
 * And working on a patent protected framework and C# Operating System. And built the University of Washington's Spin OS on Redhat 4.2
 I'm a 2019 Microsoft Bizspark Graduate with graduation email from Microsoft's Midori Lawler, Free Microsoft Tech Support and A Changeset of Verve. And on the Barrelfish Multi Kernel Microsoft Research Team. 
-* Favorite Songs are Pearl Jam's Why Go, Black, Oceans, Spin the Black Cirlce, MFC(Mini Fast Car), In My Tree, Fatal, Arms Aloft, Public Image, Rearviewmirror, Blood, Dissident, Leash and Betterman. And played Ping Pong with the band after a '98 show.
+* Favorite Songs are Pearl Jam's Why Go, Black, Oceans, Spin the Black Cirlce, MFC(Mini Fast Car), In My Tree, Fatal, Arms Aloft, Public Image, Rearviewmirror, Blood, Dissident, Leash, Betterman and The End. And played Ping Pong with the band after a '98 show.
 
 ![Sullins](images/sullins.jpg)
   
