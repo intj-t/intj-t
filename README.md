@@ -39,6 +39,8 @@ I'm a 2019 Microsoft Bizspark Graduate with graduation email from Microsoft's Mi
 <br>
 [<b>Microsoft Announces Preliminary Results of Tender Offer</b>](https://news.microsoft.com/2006/08/18/microsoft-announces-preliminary-results-of-tender-offer/)
 <br>
+[<b>Assessing the stability of egocentric networks over time using the digital participant-aided sociogram tool Network Canvas</b>](papers\assessing_the_stability_of_egocentric_networks_over_time_using_the_digital_participantaided_sociogram_tool_network_canvas.pdf)
+<br>
 <br>
 ![](https://komarev.com/ghpvc/?username=jonathanchapmanmoore)
 <br> 
