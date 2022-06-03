@@ -4,6 +4,7 @@
 
 * First school was The English [Sullins Acadamy](https://www.sullinsacademy.org/our-history) in 1984 pictured below and skipped the 1st grade because of my dinasour studies. Used parents TRS-80 for games and parents Dow Jones ID, and bought a IBM Aptivia in 1996 for High School Graduation  UVa Alumni In Computer Science and Digital Design with a C in Operating Systems Theroy, Data Structures and Algorithms And C# and a B in Digital Art with Adobe CS6,
 Accounting and Geology and C/C++. Former MSDN Student Ambassador, And Visual Studio Industry Partner. 27 Years Experiance in DOS and Windows begining with 3.1 In 1985 Had too move from my families mansion to a condo because my mother became ill.
+* Homeschooled persoal finance.
 * Recived a MSFT Tendor offer in 2006 and pooled together 1.5% stake in Microsoft. Been a victim of two Zero Days. And paid Microsoft Tech Support for over 65 support cases.
 * I participated in the Charlottesville Va, Windows Source program in 2003 at UVa, The Longhorn Migration Program in 2005 and the Windows Kernel Source program in 2009. I still have my MSDN Acedemic Alliance files. 
 * Paid for a 1998 MSDN Library, 2000, 2004 MSDN Enterprise Subscriptions. And 7 2006-2014 Action Packs. With one three year 2016 Bizspark With ID cards.
