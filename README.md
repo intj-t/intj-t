@@ -24,6 +24,7 @@ I'm a 2019 Microsoft Bizspark Graduate with graduation email from Microsoft's Mi
 * Read the Prinction Paper "Competition in Consumption as Viewed by Jewish Law"
 * I use Microsoft Dynamics NAV 2017, Power BI, Cyan Spring and Metatrader for FOREX for Investments and investing in the S&P 500 and 100. Grew up on CNBC in the 90's
 * I made ambient music on Bandcamp but after sales failures had to pull my catalog for BMI.
+* Now studying Heterogeneous Systems and Adaptive systems.
 
 
   
