@@ -34,6 +34,7 @@ I'm a 2019 Microsoft Bizspark Graduate with graduation email from Microsoft's Mi
 <br>
 [<b>Our .NET Referance Source Incedent</b>](https://referencesource.microsoft.com)
 <br>
+[<b>Microsoft Announces Preliminary Results of Tender Offer</b>](https://referencesource.microsoft.com)
 <br>
 ![](https://komarev.com/ghpvc/?username=jonathanchapmanmoore)
 <br> 
