@@ -55,12 +55,10 @@ I'm a 2019 Microsoft Bizspark Graduate with graduation email from Microsoft's Mi
 <br>
 * Network Analysis
 [<b>Stanford Network Analysis Project</b>](http://snap.stanford.edu/)
-<br>
 * Artificial Nerual Networks
 [<b>Microsoft researchers win ImageNet computer vision challenge</b>](https://blogs.microsoft.com/ai/microsoft-researchers-win-imagenet-computer-vision-challenge/)
-<br>
 [<b>Deep Neural Networks for Indoor Localization Using WiFi Fingerprints</b>](https://link.springer.com/chapter/10.1007/978-3-030-22885-9_21)
-<br>
+
 [<b>Experimenting with Spirituality: Analyzing The God Gene in a Nonmajors Laboratory Course</b>](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2262126/)
 <br>
 <br>
