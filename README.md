@@ -29,7 +29,7 @@ I'm a 2019 Microsoft Bizspark Graduate with graduation email from Microsoft's Mi
 * I made ambient music on Bandcamp but after sales failures had to pull my catalog for BMI.
 * Now studying Heterogeneous Systems and Adaptive systems.
 * IRC nick 'jdm7dv'
-* I did test as a INTJ and am accusing Southwest Virgina Doctors of abuse against the gifted.
+* I did test as a INTJ and am accusing Southwest Virgina Doctors of abuse against the gifted. Maybe Dr. OZ wants to show his iPad on TV again.
 
 
   
