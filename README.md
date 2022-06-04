@@ -1,7 +1,5 @@
 ### Hi there
 
-
-
 * First school was The English [Sullins Acadamy](https://www.sullinsacademy.org/our-history) in 1984 pictured below and skipped the 1st grade because of my dinasour studies. Used parents TRS-80 for games and parents Dow Jones ID, and bought a IBM Aptivia in 1996 for High School Graduation  UVa Alumni In Computer Science and Digital Design with a C in Operating Systems Theroy, Data Structures and Algorithms And C# and a B in Digital Art with Adobe CS6,
 Accounting and Geology and C/C++. Former MSDN Student Ambassador, And Visual Studio Industry Partner. 27 Years Experiance in DOS and Windows begining with 3.1 In 1985 Had too move from my families mansion to a condo because my mother became ill.
 * Homeschooled personal finance.
@@ -22,7 +20,7 @@ I'm a 2019 Microsoft Bizspark Graduate with graduation email from Microsoft's Mi
 * Favorite Songs are Pearl Jam's Why Go, Black, Oceans, Spin the Black Cirlce, I Got I.D., MFC(Mini Fast Car), In My Tree, Fatal, Arms Aloft, Public Image, Ole´, Rearviewmirror, Blood, Dissident, Leash, Betterman, Patroit, Force of Nature and The End. And played Ping Pong with the band after a '98 show.
   And the self titled Hovercraft album with Jerome Turner, Ryan Campbel, Sadie 7, Paul 4
   Nirvna's Even in His Youth, Fanscis Farmer Will Have Her Revenge on Seattle, Serve the Servants, Pennyroyal Tea, and You know your Right.
-  KMFDM's Anarchy, A Perfect Circle's Thomas, Marylin Manson's Diary Of A Dope Fiend (Social media from 2008-2018), Elyotto The Cops Tiktok Song,Rage Agaisnt the Machine's Vietnow, NIN Zero Sum, Smashing Pumkins's Porcielna of the Vast Oceans, Audioslave's Moth, Bad Religions's Tiny Voices, and Individual, Chris Corrnel's the Promise and Seasons
+  KMFDM's Anarchy, A Perfect Circle's Thomas, Marylin Manson's Diary Of A Dope Fiend (Social media from 2008-2018), Elyotto The Cops Tiktok Song, Rage Agaisnt the Machine's Vietnow, NIN Zero Sum, Smashing Pumkins's Porcielna of the Vast Oceans, Audioslave's Moth, Bad Religions's Tiny Voices, and Individual, Chris Corrnel's the Promise and Seasons
 * Favorite TV shows are the X-Files, Friend's and Web Therapy
 * Favorite Microsoft Books are the .NET developer Series from Addision Wesely
 * Bought and read the Noble Prize winning Book 'Who Gets What and Why' by Alvin Roth and the book ends with engineers.
@@ -36,7 +34,7 @@ I'm a 2019 Microsoft Bizspark Graduate with graduation email from Microsoft's Mi
 * I subscribe to the WSJ and Fair.org awaiting progress with Microsoft University in the Netherlands for which I did a 6th grade book report on.
 * Religion and Biology are acedemic axioms and Mathematics hold proofs
 * Own a Patent throgh Microsoft's .NET patent promise
-* Saving up for a XKL TOAD-2, DEC System and a Mac Pro and a new HP Z8 Desktop in a invesetment vehicle
+* Saving up for a XKL TOAD-2, DEC System and a Mac Pro and a new HP Z8 Desktop and Microsoft, HP, and Apple Software in a renewable invesetment vehicle
 * Jonathan Moore will have his revenge on Southwest Virgina, RIP Pual Allen
 
 
