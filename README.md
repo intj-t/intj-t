@@ -20,7 +20,7 @@ and upstream and downstream pull requests. And joined the Windows App Developer 
 I'm a 2019 Microsoft Bizspark Graduate with graduation email from Microsoft's Midori Lawler, Free Microsoft Tech Support and A Changeset of Verve. And on the Barrelfish Multi Kernel Microsoft Research Team Mailing list. 
 * Favorite Songs are Pearl Jam's Why Go, Black, Oceans, Spin the Black Cirlce, I Got I.D., MFC(Mini Fast Car), In My Tree, Fatal, Arms Aloft, Public Image, Ole´, Rearviewmirror, Blood, Dissident, Leash, Betterman, Force of Nature and The End. And played Ping Pong with the band after a '98 show.
   And the self titled Hovercraft album with Jerome Turner, Ryan Campbel, Sadie 7, Paul 4
-  Nirvna's Even in His Youth, Fanscis Farmer Will Have Her Revenge on Seattle, Pennyroyal Tea, and You know your Right.
+  Nirvna's Even in His Youth, Fanscis Farmer Will Have Her Revenge on Seattle, Serve the Servants, Pennyroyal Tea, and You know your Right.
   KMFDM's Anarchy, A Perfect Circle's Thomas, Marylin Manson's Diary Of A Dope Fiend (My social media from 2008-2018), Elyotto The Cops Tiktok Song, NIN Zero Sum
 * Favorite Microsoft Books are the .NET developer Series from Addision Wesely
 * Bought and read the Noble Prize winning Book 'Who Gets What and Why' by Alvin Roth and the book ends with engineers.
@@ -31,6 +31,7 @@ I'm a 2019 Microsoft Bizspark Graduate with graduation email from Microsoft's Mi
 * IRC nick 'jdm7dv'
 * I did test as a INTJ and am accusing Southwest Virgina Doctors of stigma and discrimination and totalitarianistic against the gifted. Maybe Dr. Oz wants to show his iPad on TV again.
 * I am a current non voter. Democracts are neoliberalists, republicans scare and will end up in assisted living, the green party end up on the street, libritarians with get served somehow and independants ask too much.
+* I subscribe to the WSJ and Fair.org awaiting progress with Microsoft University.
 
 
   
