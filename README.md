@@ -18,9 +18,9 @@ and upstream and downstream pull requests. And joined the Windows App Developer 
 * And working on a patent protected framework and C# Operating System. And built the University of Washington's Spin OS on Redhat 4.2
 I'm a 2019 Microsoft Bizspark Graduate with graduation email from Microsoft's Midori Lawler, Free Microsoft Tech Support and A Changeset of Verve. And on the Barrelfish Multi Kernel Microsoft Research Team Mailing list. 
 * Favorite Songs are Pearl Jam's Why Go, Black, Oceans, Spin the Black Cirlce, I Got I.D., MFC(Mini Fast Car), In My Tree, Fatal, Arms Aloft, Public Image, Ole´, Rearviewmirror, Blood, Dissident, Leash, Betterman, Force of Nature and The End. And played Ping Pong with the band after a '98 show.
-* And the self titled Hovercraft album with Jerome Turner, Ryan Campbel, Sadie 7, Paul 4
-* Nirvna's Even in His Youth, Fanscis Farmer Will Have Her Revenge on Seattle, Pennyroyal Tea, and You know your Right.
-* KMFDM's Anarchy
+  And the self titled Hovercraft album with Jerome Turner, Ryan Campbel, Sadie 7, Paul 4
+  Nirvna's Even in His Youth, Fanscis Farmer Will Have Her Revenge on Seattle, Pennyroyal Tea, and You know your Right.
+  KMFDM's Anarchy, A Perfect Circle's Thomas
 * Favorite Microsoft Books are the .NET developer Series from Addision Wesely
 * Bought and read the Noble Prize winning Book 'Who Gets What and Why' by Alvin Roth and the book ends with engineers.
 * Read the Prinction Paper "Competition in Consumption as Viewed by Jewish Law"
