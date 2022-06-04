@@ -29,7 +29,7 @@ I'm a 2019 Microsoft Bizspark Graduate with graduation email from Microsoft's Mi
 * I made ambient music on Bandcamp but after sales failures had to pull my catalog for BMI.
 * Now studying Heterogeneous Systems and Adaptive systems.
 * IRC nick 'jdm7dv'
-* I did test as a INTJ and am accusing Southwest Virgina Doctors of stigma and discrimination and totalitarianistic behavoir against the gifted. Maybe Dr. Oz wants to show his iPad on TV again. I feminists for instagation.
+* I did test as a INTJ and am accusing Southwest Virgina Doctors of stigma and discrimination and totalitarianistic behavoir against the gifted. Maybe Dr. Oz wants to show his iPad on TV again. I blame feminists for instagation.
 * I am a current non voter. Democracts are neoliberalists, republicans scare and will end up in assisted living, the green party end up on the street, libritarians will get served somehow and independants ask too much.
 * I subscribe to the WSJ and Fair.org awaiting progress with Microsoft University.
 
