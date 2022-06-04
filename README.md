@@ -15,7 +15,7 @@ With the Ribbon Control Library Suite. On Teams. Through their reseller program.
 * Had a Microsoft Social Network on Facebook in College in 2008-2013, worked with Microsoft Reserarch on .NetBio with Rick Bienge and Offical Windows 8 Storyboards before it was hacked my Linux Terrorists.
 Shipped the .NET Core 2.1.5, 3.13 and Roslyn and portions of Visual Studio 2019 through the .NET Foundation 
 and upstream and downstream pull requests. And joined the Windows App Developer program in 2019. And paid for my Windows 11 Features of Demand with Insider Hub to work with PE. 
-* Royal Society of the Arts Fellow Nominated in 2022 for Fellowship Counsel and accepect in RSA in 2018 for the help oft the discovery of the Higgs Boson and Gravataial Waves through Berkeley Open Infustructre. 
+* Royal Society of the Arts Fellow Nominated in 2022 for Fellowship Counsel and accepted in RSA in 2018 for the help of the discovery of the Higgs Boson and Gravataial Waves through Berkeley Open Infustructre. 
 * And working on a patent protected framework and C# Operating System. And built the University of Washington's Spin OS on Redhat 4.2
 I'm a 2019 Microsoft Bizspark Graduate with graduation email from Microsoft's Midori Lawler, Free Microsoft Tech Support and A Changeset of Verve. And on the Barrelfish Multi Kernel Microsoft Research Team Mailing list. 
 * Favorite Songs are Pearl Jam's Why Go, Black, Oceans, Spin the Black Cirlce, I Got I.D., MFC(Mini Fast Car), In My Tree, Fatal, Arms Aloft, Public Image, Ole´, Rearviewmirror, Blood, Dissident, Leash, Betterman, Force of Nature and The End. And played Ping Pong with the band after a '98 show.
