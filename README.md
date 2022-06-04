@@ -21,7 +21,7 @@ I'm a 2019 Microsoft Bizspark Graduate with graduation email from Microsoft's Mi
   And the self titled Hovercraft album with Jerome Turner, Ryan Campbel, Sadie 7, Paul 4
   Nirvana's Even in His Youth, Fanscis Farmer Will Have Her Revenge on Seattle, Serve the Servants, Pennyroyal Tea, and You know your Right, Green Day's Walking Contrdiction
   KMFDM's Anarchy, A Perfect Circle's Thomas, Marylin Manson's Diary Of A Dope Fiend (Social media from 2008-2018), Elyotto The Cops Tiktok Song, Rage Agaisnt the Machine's Vietnow, NIN Zero Sum, Smashing Pumkins's Porcielna of the Vast Oceans, Audioslave's Moth, Bad Religions's Tiny Voices, and Individual, Chris Corrnel's the Promise and Seasons, Orbital's I Dont Know you People, and Style
-* Favorite TV shows and Movies are the X-Files, District 9, Star Wars, Friend's and Web Therapy
+* Favorite TV shows and Movies are the X-Files, District 9, Star Wars, Contact, Elysium, Friend's and Web Therapy
 * Favorite Microsoft Books are the .NET developer Series from Addision Wesely
 * Bought and read the Noble Prize winning Book 'Who Gets What and Why' by Alvin Roth and the book ends with engineers.
 * Read the Prinction Paper "Competition in Consumption as Viewed by Jewish Law"
