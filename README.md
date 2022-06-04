@@ -15,13 +15,13 @@ With the Ribbon Control Library Suite. On Teams. Through their reseller program.
 * Had a Microsoft Social Network on Facebook in College in 2008-2013, worked with Microsoft Reserarch on .NetBio with Rick Bienge and Offical Windows 8 Storyboards before it was hacked my Linux Terrorists.
 Shipped the .NET Core 2.1.5, 3.13 and Roslyn and portions of Visual Studio 2019 through the .NET Foundation 
 and upstream and downstream pull requests. And joined the Windows App Developer program in 2019. And paid for my Windows 11 Features of Demand with Insider Hub to work with PE. 
-* Royal Society of the Arts Fellow Nominated in 2022 for Fellowship Counsel 
+* Royal Society of the Arts Fellow Nominated in 2022 for Fellowship Counsel and accepect in RSA in 2018 for the help oft the discovery of the Higgs Boson and Gravataial Waves through Berkeley Open Infustructre. 
 * And working on a patent protected framework and C# Operating System. And built the University of Washington's Spin OS on Redhat 4.2
 I'm a 2019 Microsoft Bizspark Graduate with graduation email from Microsoft's Midori Lawler, Free Microsoft Tech Support and A Changeset of Verve. And on the Barrelfish Multi Kernel Microsoft Research Team Mailing list. 
 * Favorite Songs are Pearl Jam's Why Go, Black, Oceans, Spin the Black Cirlce, I Got I.D., MFC(Mini Fast Car), In My Tree, Fatal, Arms Aloft, Public Image, Ole´, Rearviewmirror, Blood, Dissident, Leash, Betterman, Force of Nature and The End. And played Ping Pong with the band after a '98 show.
   And the self titled Hovercraft album with Jerome Turner, Ryan Campbel, Sadie 7, Paul 4
   Nirvna's Even in His Youth, Fanscis Farmer Will Have Her Revenge on Seattle, Pennyroyal Tea, and You know your Right.
-  KMFDM's Anarchy, A Perfect Circle's Thomas, Marylin Manson's Diary Of A Dope Fiend (My social media from 2008-2018),Elyotto The Cops Tiktok Song
+  KMFDM's Anarchy, A Perfect Circle's Thomas, Marylin Manson's Diary Of A Dope Fiend (My social media from 2008-2018), Elyotto The Cops Tiktok Song
 * Favorite Microsoft Books are the .NET developer Series from Addision Wesely
 * Bought and read the Noble Prize winning Book 'Who Gets What and Why' by Alvin Roth and the book ends with engineers.
 * Read the Prinction Paper "Competition in Consumption as Viewed by Jewish Law"
@@ -29,6 +29,7 @@ I'm a 2019 Microsoft Bizspark Graduate with graduation email from Microsoft's Mi
 * I made ambient music on Bandcamp but after sales failures had to pull my catalog for BMI.
 * Now studying Heterogeneous Systems and Adaptive systems.
 * IRC nick 'jdm7dv'
+* I did test as a INTJ and am accusing Southwest Virgina Doctors of abuse against the gifted.
 
 
   
