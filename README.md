@@ -10,7 +10,7 @@ Accounting and Geology and C/C++. Former MSDN Student Ambassador, And Visual Stu
 * Shipped Fluent Control Ribbon 2.0, World Wide Telescope & WPF Toolkit 3.5 & 4.0 
 through Codeplex and Component Source. In 2010 with Xceed & Janus Systems & Software. 
 With the Ribbon Control Library Suite. On Teams. Through their reseller program. 
-* Had a Microsoft Social Network on Facebook in College in 2008-2013, worked with Microsoft Reserarch on .NetBio with Rick Bienge and Offical Windows 8 Storyboards before it was hacked by hackers .
+* Had a Microsoft Social Network on Facebook in College in 2008-2013, worked with Microsoft Reserarch on .NetBio with Rick Bienge and Offical Windows 8 Powerpoint Storyboards before it was hacked by hackers .
 Shipped the .NET Core 2.1.5, 3.13 and Roslyn and portions of Visual Studio 2019 through the .NET Foundation 
 and upstream and downstream pull requests. And joined the Windows App Developer program in 2019. And paid for my Windows 11 Features of Demand with Insider Hub to work with PE. 
 * Royal Society of the Arts Fellow Nominated in 2022 for Fellowship Counsel and accepted in RSA in 2018 for the help of the discovery of the Higgs Boson and Gravitational Waves through Berkeley Open Infustructre. 
@@ -32,7 +32,7 @@ I'm a 2019 Microsoft Bizspark Graduate with graduation email from Microsoft's Mi
 * I did test as a INTJ and am accusing Southwest Virgina Doctors of stigma and discrimination and totalitarianistic behavoir against the gifted. Maybe Dr. Oz wants to show his iPad on TV again. I blame feminists for instagation.
 * I am a current non voter. Democracts are neoliberalists, republicans scare and will end up in assisted living, the green party end up on the street, libritarians will get served somehow and independants ask too much. I blame the Beatles, U2 and George W. Bush for the desruction of heritage in all UK familes And want UNESCO in the U.S again. and well at the United Nations. 
 * I subscribe to the WSJ and Fair.org awaiting progress with Microsoft University in the Netherlands for which I did a 6th grade book report on.
-* Religion and Biology are acedemic axioms and Mathematics hold proofs
+* Religion and Biology are acedemic axioms and Mathematics hold proofs and some axioms
 * Own a Patent throgh Microsoft's .NET patent promise
 * Saving up for a XKL TOAD-2, DEC System and a Mac Pro and a new HP Z8 Desktop and Microsoft, HP, and Apple Software in a renewable invesetment vehicle
 * Jonathan Moore will have his revenge on Southwest Virgina, RIP Pual Allen
