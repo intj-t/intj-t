@@ -34,7 +34,7 @@ I'm a 2019 Microsoft Bizspark Graduate with graduation email from Microsoft's Mi
 * I subscribe to the WSJ and Fair.org awaiting progress with Microsoft University in the Netherlands for which I did a 6th grade book report on.
 * Religion and Biology are acedemic axioms and Mathematics hold proofs
 * Own a Patent throgh Microsoft's .NET patent promise
-* Saving up for a XKL TOAD-2, DEC System and a Mac Pro and a new HP Z8 Desktop and Microsoft, HP, and Apple Software in a renewable invesetment vehicle
+* Saving up for a XKL TOAD-2, DEC System and a Mac Pro and a new HP Z8 Desktop, Digital Persona Biometrics and Microsoft, HP, and Apple Software in a renewable invesetment vehicle
 * Jonathan Moore will have his revenge on Southwest Virgina, RIP Pual Allen
 
 
