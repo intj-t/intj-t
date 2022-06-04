@@ -53,9 +53,10 @@ I'm a 2019 Microsoft Bizspark Graduate with graduation email from Microsoft's Mi
 * Social Networks
 [<b>Assessing the stability of egocentric networks over time using the digital participant-aided sociogram tool Network Canvas</b>](papers/assessing_the_stability_of_egocentric_networks_over_time_using_the_digital_participantaided_sociogram_tool_network_canvas.pdf)
 <br>
+* Network Analysis
 [<b>Stanford Network Analysis Project</b>](http://snap.stanford.edu/)
 <br>
- * Artificial Nerual Networks
+* Artificial Nerual Networks
 [<b>Microsoft researchers win ImageNet computer vision challenge</b>](https://blogs.microsoft.com/ai/microsoft-researchers-win-imagenet-computer-vision-challenge/)
 <br>
 [<b>Deep Neural Networks for Indoor Localization Using WiFi Fingerprints</b>](https://link.springer.com/chapter/10.1007/978-3-030-22885-9_21)
