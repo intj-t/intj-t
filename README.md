@@ -26,7 +26,7 @@ I'm a 2019 Microsoft Bizspark Graduate with graduation email from Microsoft's Mi
 * Bought and read the Noble Prize winning Book 'Who Gets What and Why' by Alvin Roth and the book ends with engineers.
 * Read the Prinction Paper "Competition in Consumption as Viewed by Jewish Law"
 * I use Microsoft Dynamics NAV 2017, Power BI, Cyan Spring and Metatrader for FOREX for Investments and investing in the S&P 500 and 100. Grew up on CNBC in the 90's
-* I made ambient music on Bandcamp but after sales failures had to pull my catalog for BMI.
+* I made ambient music on Bandcamp but after sales failures had to pull my catalog from BMI.
 * Now studying Heterogeneous Systems and Adaptive systems.
 * IRC nick 'jdm7dv'
 * I did test as a INTJ and am accusing Southwest Virgina Doctors of stigma and discrimination and totalitarianistic behavoir against the gifted. Maybe Dr. Oz wants to show his iPad on TV again. I blame feminists for instagation.
