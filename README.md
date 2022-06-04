@@ -49,6 +49,7 @@ I'm a 2019 Microsoft Bizspark Graduate with graduation email from Microsoft's Mi
 <br>
 [<b>Stanford Network Analysis Project</b>](http://snap.stanford.edu/)
 <br>
+[<b>Experimenting with Spirituality: Analyzing The God Gene in a Nonmajors Laboratory Course</b>](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2262126/)
 <br>
 ![](https://komarev.com/ghpvc/?username=jonathanchapmanmoore)
 <br> 
