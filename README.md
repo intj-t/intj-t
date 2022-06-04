@@ -10,17 +10,17 @@ Accounting and Geology and C/C++. Former MSDN Student Ambassador, And Visual Stu
 * Shipped Fluent Control Ribbon 2.0, World Wide Telescope & WPF Toolkit 3.5 & 4.0 
 through Codeplex and Component Source. In 2010 with Xceed & Janus Systems & Software. 
 With the Ribbon Control Library Suite. On Teams. Through their reseller program. 
-* Had a Microsoft Social Network on Facebook in College in 2008-2013, worked with Microsoft Reserarch on .NetBio with Rick Bienge and Offical Windows 8 Storyboards before it was hacked my Linux Terrorists.
+* Had a Microsoft Social Network on Facebook in College in 2008-2013, worked with Microsoft Reserarch on .NetBio with Rick Bienge and Offical Windows 8 Storyboards before it was hacked by hackers .
 Shipped the .NET Core 2.1.5, 3.13 and Roslyn and portions of Visual Studio 2019 through the .NET Foundation 
 and upstream and downstream pull requests. And joined the Windows App Developer program in 2019. And paid for my Windows 11 Features of Demand with Insider Hub to work with PE. 
 * Royal Society of the Arts Fellow Nominated in 2022 for Fellowship Counsel and accepted in RSA in 2018 for the help of the discovery of the Higgs Boson and Gravitational Waves through Berkeley Open Infustructre. 
   Studied neontology and was in a GEMSAC biology social network during my time with RSA until now. And I believe Football is bad for society
-* And working on a patent protected framework and C# Operating System. And built the University of Washington's Spin OS on Redhat 4.2
+* And working on a patent protected framework and C# Operating System. And built the University of Washington's Spin OS on Linux 4.2 and my favoride Linux book is Linux Embedded
 I'm a 2019 Microsoft Bizspark Graduate with graduation email from Microsoft's Midori Lawler, Free Microsoft Tech Support and A Changeset of Verve. And on the Barrelfish Multi Kernel Microsoft Research Team Mailing list. 
 * Favorite Songs are Pearl Jam's Why Go, Black, Oceans, Spin the Black Cirlce, I Got I.D., MFC(Mini Fast Car), In My Tree, Fatal, Arms Aloft, Public Image, Ole´, Rearviewmirror, Blood, Dissident, Leash, Betterman, Patroit, Force of Nature and The End. And played Ping Pong with the band after a '98 show.
   And the self titled Hovercraft album with Jerome Turner, Ryan Campbel, Sadie 7, Paul 4
-  Nirvana's Even in His Youth, Fanscis Farmer Will Have Her Revenge on Seattle, Serve the Servants, Pennyroyal Tea, and You know your Right, Green Day's Walking Contradiction
-  KMFDM's Anarchy, A Perfect Circle's Thomas, and Passive, Marylin Manson's Diary Of A Dope Fiend (Social media from 2008-2018), Elyotto The Cops Tiktok Song, Rage Agaisnt the Machine's Vietnow, NIN Zero Sum, Smashing Pumkins's Porcielna of the Vast Oceans, Audioslave's Moth, Bad Religions's Tiny Voices, and Individual, Chris Corrnel's the Promise and Seasons, Orbital's I Dont Know you People, and Style
+  Nirvana's Even in His Youth, Fanscis Farmer Will Have Her Revenge on Seattle, Serve the Servants, Pennyroyal Tea, and You know your Right.
+  KMFDM's Anarchy, A Perfect Circle's Thomas, Marylin Manson's Diary Of A Dope Fiend (Social media from 2008-2018), Elyotto The Cops Tiktok Song, Rage Agaisnt the Machine's Vietnow, NIN Zero Sum, Smashing Pumkins's Porcielna of the Vast Oceans, Audioslave's Moth, Bad Religions's Tiny Voices, and Individual, Chris Corrnel's the Promise and Seasons, Orbital's I Dont Know you People, and Style
 * Favorite TV shows are the X-Files, Friend's and Web Therapy
 * Favorite Microsoft Books are the .NET developer Series from Addision Wesely
 * Bought and read the Noble Prize winning Book 'Who Gets What and Why' by Alvin Roth and the book ends with engineers.
@@ -34,10 +34,10 @@ I'm a 2019 Microsoft Bizspark Graduate with graduation email from Microsoft's Mi
 * I subscribe to the WSJ and Fair.org awaiting progress with Microsoft University in the Netherlands for which I did a 6th grade book report on.
 * Religion and Biology are acedemic axioms and Mathematics hold proofs
 * Own a Patent throgh Microsoft's .NET patent promise
-* Saving up for a XKL TOAD-2, DEC System and a Mac Pro and a new HP Z8 Desktop, Digital Persona Biometrics and Microsoft, HP, and Apple Software in a renewable invesetment vehicle
+* Saving up for a XKL TOAD-2, DEC System and a Mac Pro and a new HP Z8 Desktop and Microsoft, HP, and Apple Software in a renewable invesetment vehicle
 * Jonathan Moore will have his revenge on Southwest Virgina, RIP Pual Allen
 
-* I use [<b>Source Server</b>](https://docs.microsoft.com/en-us/windows/win32/debug/source-server-and-source-indexing) and Subversion
+
   
 [<b>Blog</b>](https://jdm7dvcsmath.blogspot.com/)
 <br>
