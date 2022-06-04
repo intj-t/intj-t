@@ -61,5 +61,6 @@ I'm a 2019 Microsoft Bizspark Graduate with graduation email from Microsoft's Mi
 <br>
 [<b>The Supreme Court pared down a controversial anti-hacking law</b>](https://www.theverge.com/2021/6/5/22491859/supreme-court-van-buren-cfaa-hacking-law-scope-narrowed)
 <br>
+<br>
 ![](https://komarev.com/ghpvc/?username=jonathanchapmanmoore)
 <br> 
