@@ -37,7 +37,7 @@ I'm a 2019 Microsoft Bizspark Graduate with graduation email from Microsoft's Mi
 * Saving up for a XKL TOAD-2, DEC System and a Mac Pro and a new HP Z8 Desktop, Digital Persona Biometrics and Microsoft, HP, and Apple Software in a renewable invesetment vehicle
 * Jonathan Moore will have his revenge on Southwest Virgina, RIP Pual Allen
 
-* I use <b>Source Server</b>(https://docs.microsoft.com/en-us/windows/win32/debug/source-server-and-source-indexing)
+* I use [<b><b>Source Server</b>(https://docs.microsoft.com/en-us/windows/win32/debug/source-server-and-source-indexing) and Subversion
   
 [<b>Blog</b>](https://jdm7dvcsmath.blogspot.com/)
 <br>
