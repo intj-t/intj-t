@@ -35,7 +35,7 @@ I'm a 2019 Microsoft Bizspark Graduate with graduation email from Microsoft's Mi
 * I am a current non voter. Democracts are neoliberalists, republicans scare and will end up in assisted living, the green party end up on the street, libritarians will get served somehow and independants ask too much. I blame the Beatles, U2 and George W. Bush for the desruction of heritage in all UK familes And want UNESCO in the U.S again. and well at the United Nations. 
 * I subscribe to the WSJ and Fair.org awaiting progress with Microsoft University in the Netherlands for which I did a 6th grade book report on.
 * Religion and Biology are acedemic axioms and Mathematics hold proofs
-* Own a Patant throgh Microsoft's .NET patent promise
+* Own a Patent throgh Microsoft's .NET patent promise
 * Jonathan Moore will have his revenge on Southwest Virgina, RIP Pual Allen
 
 
