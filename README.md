@@ -14,7 +14,7 @@ With the Ribbon Control Library Suite. On Teams. Through their reseller program.
 * Had a Microsoft Social Network on Facebook in College in 2008-2013, worked with Microsoft Reserarch on .NetBio with Rick Bienge and Offical Windows 8 Powerpoint Storyboards before it was hacked by hackers .
 Shipped the .NET Core 2.1.5, 3.13 and Roslyn and portions of Visual Studio 2019 through the .NET Foundation 
 and upstream and downstream pull requests. And joined the Windows App Developer program in 2019. And paid for my Windows 11 Features of Demand with Insider Hub to work with PE.
-* Using Microsoft Soloman since 6.0 and in support with Dynamics SL untl 2028.
+* Using Microsoft Soloman since 6.0 and in employee support with Dynamics SL untl 2028.
 * In 2009 I bought from Apple's iTunes the Documentarty 'DMT the Spirit Molecule'
 * Held accounts at Merril Lynch, Edward Jones, Fidelity and now Morgan Stanley. Past and present holdings Stock and FOREX with Onada included HP, Microsoft, Adobe, UBS, Avid, and Macromedia. and earned a Microsoft Tender Offer worth $3.2 Billion in 2006 We held at one time 1.5% shareholder stake in Microsoft I still hold a 20% private equity stake in Microsoft. I also participated in one automated trading championship. Using MetaTrader and MetaStock Starting with 9.0 in 2004 I have a good credit rating thanks to my father it's 720. I still have my Mom and Dad's TRS-80 with Dow Jones ID and paperwork from the 80's 
 * Royal Society of the Arts Fellow Nominated in 2022 for Fellowship Counsel and accepted in RSA in 2018 for the help of the discovery of the Higgs Boson and Gravitational Waves through Berkeley Open Infustructre. 
