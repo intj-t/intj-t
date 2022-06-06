@@ -40,7 +40,7 @@ I'm a 2019 Microsoft Bizspark Graduate with graduation email from Microsoft's Mi
 * Religion and Biology are acedemic axioms and Mathematics hold proofs and some axioms
 * Own a Patent throgh Microsoft's .NET patent promise
 * Saving up for a XKL TOAD-2, DEC System and a Mac Pro and a new HP Z8 Desktop and Microsoft, HP, and Apple Software in a renewable invesetment vehicle
-* Jonathan Moore will have his revenge on Southwest Virgina, RIP Pual Allen
+* Jonathan Moore will have his revenge on Southwest Virgina, RIP Paul Allen
 
 * “…Bill, thank you. The world is a better place, Jobs told Gates after the Microsoft exec agreed to make a $150 million investment in Apple.” --Is our industry Zero Sum?
 
