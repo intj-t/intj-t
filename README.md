@@ -45,7 +45,7 @@ I'm a 2019 Microsoft Bizspark Graduate with graduation email from Microsoft's Mi
 
 * “…Bill, thank you. The world is a better place, Jobs told Gates after the Microsoft exec agreed to make a $150 million investment in Apple.” --Is our industry Zero Sum?
 
-
+[<b>Jonathan Chapman Moore FRSA Website</b>](https://www.jonathanchapmanmoore.org/)
 [<b>Microsoft Employee Login</b>](https://mbs2.microsoft.com/ecsts/login?signin=3d6f8cd7278b5bc09c875b927d7fd571)
 <br>
 [<b>How to pull a Bill Gates and don't let your company drown in cash</b>](https://www.forbes.com/sites/johngreathouse/2015/03/23/pull-a-bill-gates-dont-let-your-company-drown-in-cash/)
