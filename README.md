@@ -46,6 +46,7 @@ I'm a 2019 Microsoft Bizspark Graduate with graduation email from Microsoft's Mi
 
 
 [<b>Microsoft Employee Login</b>](https://mbs2.microsoft.com/ecsts/login?signin=3d6f8cd7278b5bc09c875b927d7fd571)
+<br>
 [<b>Blog</b>](https://jdm7dvcsmath.blogspot.com/)
 <br>
 [<b>Code Project Moderator</b>](https://www.codeproject.com/script/Membership/View.aspx?mid=527156)
