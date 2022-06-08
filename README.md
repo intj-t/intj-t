@@ -48,7 +48,7 @@ I'm a 2019 Microsoft Bizspark Graduate with graduation email from Microsoft's Mi
 
 [<b>Jonathan Chapman Moore FRSA Website</b>](https://www.jonathanchapmanmoore.org/)
 <br>
-[<b>Microsoft Employee Login</b>](https://mbs2.microsoft.com/ecsts/login?signin=3d6f8cd7278b5bc09c875b927d7fd571)
+[<b>Microsoft Employee Login</b>](https://docs.microsoft.com/en-us/dynamics/s-e/howto)
 <br>
 [<b>The Federal Tax Identification Number for Microsoft</b>](https://support.microsoft.com/en-us/topic/the-federal-tax-identification-number-for-microsoft-0c0e93fc-b692-8d0a-748c-86714f1d7cea)
 <br>
