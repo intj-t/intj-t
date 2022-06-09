@@ -48,35 +48,24 @@ I'm a 2019 Microsoft Bizspark Graduate with graduation email from Microsoft's Mi
 
 * “…Bill, thank you. The world is a better place, Jobs told Gates after the Microsoft exec agreed to make a $150 million investment in Apple.” --Is our industry Zero Sum?
 
-[<b>Jonathan Chapman Moore FRSA Website</b>](https://www.jonathanchapmanmoore.org/)
-<br>
-[<b>Microsoft Employee Login</b>](https://docs.microsoft.com/en-us/dynamics/s-e/howto)
-<br>
-[<b>The Federal Tax Identification Number for Microsoft</b>](https://support.microsoft.com/en-us/topic/the-federal-tax-identification-number-for-microsoft-0c0e93fc-b692-8d0a-748c-86714f1d7cea)
-<br>
-[<b>How to pull a Bill Gates and don't let your company drown in cash</b>](https://www.forbes.com/sites/johngreathouse/2015/03/23/pull-a-bill-gates-dont-let-your-company-drown-in-cash/)
-<br>
-[<b>Blog</b>](https://jdm7dvcsmath.blogspot.com/)
-<br>
-[<b>Code Project Moderator</b>](https://www.codeproject.com/script/Membership/View.aspx?mid=527156)
-<br>
-[<b>Deviant Art</b>](https://www.deviantart.com/jdm7dv)
-<br>
-[<b>Our .NET Referance Source Incedent</b>](https://referencesource.microsoft.com)
-<br>
-[<b>Microsoft Announces Preliminary Results of Tender Offer</b>](https://news.microsoft.com/2006/08/18/microsoft-announces-preliminary-results-of-tender-offer/)
-<br>
-[<b>Assessing the stability of egocentric networks over time using the digital participant-aided sociogram tool Network Canvas</b>](papers/assessing_the_stability_of_egocentric_networks_over_time_using_the_digital_participantaided_sociogram_tool_network_canvas.pdf)
-<br>
-[<b>Stanford Network Analysis Project</b>](http://snap.stanford.edu/)
-<br>
-[<b>Microsoft researchers win ImageNet computer vision challenge</b>](https://blogs.microsoft.com/ai/microsoft-researchers-win-imagenet-computer-vision-challenge/)
-<br>
-[<b>Deep Neural Networks for Indoor Localization Using WiFi Fingerprints</b>](https://link.springer.com/chapter/10.1007/978-3-030-22885-9_21)
-<br>
-[<b>Experimenting with Spirituality: Analyzing The God Gene in a Nonmajors Laboratory Course</b>](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2262126/)
-<br>
-[<b>The Supreme Court pared down a controversial anti-hacking law</b>](https://www.theverge.com/2021/6/5/22491859/supreme-court-van-buren-cfaa-hacking-law-scope-narrowed)
+### Personal 
+* [Jonathan Chapman Moore FRSA Website](https://www.jonathanchapmanmoore.org/)
+* [Microsoft Employee Login](https://docs.microsoft.com/en-us/dynamics/s-e/howto)
+* [The Federal Tax Identification Number for Microsoft](https://support.microsoft.com/en-us/topic/the-federal-tax-identification-number-for-microsoft-0c0e93fc-b692-8d0a-748c-86714f1d7cea)
+* [Blog](https://jdm7dvcsmath.blogspot.com/)
+* [Code Project Moderator](https://www.codeproject.com/script/Membership/View.aspx?mid=527156)
+* [Deviant Art](https://www.deviantart.com/jdm7dv)
+* [Our .NET Referance Source Incedent](https://referencesource.microsoft.com)
+* [Microsoft Announces Preliminary Results of Tender Offer](https://news.microsoft.com/2006/08/18/microsoft-announces-preliminary-results-of-tender-offer/)
+
+### Links
+* [How to pull a Bill Gates and don't let your company drown in cash](https://www.forbes.com/sites/johngreathouse/2015/03/23/pull-a-bill-gates-dont-let-your-company-drown-in-cash/)
+* [Assessing the stability of egocentric networks over time using the digital participant-aided sociogram tool Network Canvas](papers/assessing_the_stability_of_egocentric_networks_over_time_using_the_digital_participantaided_sociogram_tool_network_canvas.pdf)
+* [Stanford Network Analysis Project](http://snap.stanford.edu/)
+* [Microsoft researchers win ImageNet computer vision challenge](https://blogs.microsoft.com/ai/microsoft-researchers-win-imagenet-computer-vision-challenge/)
+* [Deep Neural Networks for Indoor Localization Using WiFi Fingerprints](https://link.springer.com/chapter/10.1007/978-3-030-22885-9_21)
+* [Experimenting with Spirituality: Analyzing The God Gene in a Nonmajors Laboratory Course](https://www.ncbi.nlm.nih.gov/pmc/articles/PMC2262126/)
+* [The Supreme Court pared down a controversial anti-hacking law](https://www.theverge.com/2021/6/5/22491859/supreme-court-van-buren-cfaa-hacking-law-scope-narrowed)
 <br>
 <br>
 ![](https://komarev.com/ghpvc/?username=jonathanchapmanmoore)
