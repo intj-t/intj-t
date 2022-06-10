@@ -44,11 +44,11 @@ I'm a 2019 Microsoft Bizspark Graduate with graduation email from Microsoft's Mi
 * Religion and Biology are acedemic axioms and Mathematics hold proofs and some axioms
 * Own a Patent throgh Microsoft's .NET patent promise
 * Saving up for a XKL TOAD-2, DEC System and a Open Server(UNIX) and a new HP Z8 Desktop and Microsoft, HP, and Apple Software in a renewable invesetment vehicle
-* I have a lot is unrealized Cpaital Gains the first 10 Milion is tax free but if you want a positive return in the USA it is income and a W-2 or 1040 and owning the IRS in backtaxes that robbing the prosparity from the future and the thing I can say is off shore accounts and accournt recievable in a trade account. Which I have or setting up.
+* I have a lot is unrealized capital gains the first 10 million is tax free but if you want a positive return or check in the USA it is income and a W-2 or 1040 and owning the IRS in backtaxes that robbing the prosparity from the future and the thing I can say is off shore accounts and accounts recievable in a trade account. Which I have or setting up.
 * Recentley signed a Hollywood Partner Contract as a Engineer
 * Jonathan Moore will have his revenge on Southwest Virgina, RIP Paul Allen
 
-* “…Bill, thank you. The world is a better place, Jobs told Gates after the Microsoft exec agreed to make a $150 million investment in Apple.” --Is our industry Zero Sum?
+* Bill, thank you. The world is a better place, Jobs told Gates after the Microsoft exec agreed to make a $150 million investment in Apple. --Is our industry Zero Sum?
 
 ### Personal 
 * [Jonathan Chapman Moore FRSA Website](https://www.jonathanchapmanmoore.org/)
