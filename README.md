@@ -44,7 +44,7 @@ I'm a 2019 Microsoft Bizspark Graduate with graduation email from Microsoft's Mi
 * Religion and Biology are acedemic axioms and Mathematics hold proofs and some axioms
 * Own a Patent throgh Microsoft's .NET patent promise
 * Saving up for a XKL TOAD-2, DEC System and a Open Server(UNIX) and a new HP Z8 Desktop and Microsoft, HP, and Apple Software in a renewable invesetment vehicle
-* I have a lot is recognizied capital gains from Microsoft and Macromedia because I was a share holder but if you want a million dollar check in the USA it is income and a W-2 or 1040 and owning the IRS in backtaxes that robbing the prosparity from the future and the thing I can say is off shore accounts and accounts recievable in a trade account. Which I have or setting up.
+* I have a lot is recognizied capital gains from Microsoft and Macromedia because I was a share holder using COCOMO II but if you want a million dollar check in the USA it is income and a W-2 or 1040 and owning the IRS in backtaxes that robbing the prosparity from the future and the thing I can say is off shore accounts and accounts recievable in a trade account. Which I have or setting up.
 * Recentley signed a Hollywood Partner Contract as a Engineer
 * Jonathan Moore will have his revenge on Southwest Virgina, RIP Paul Allen
 
