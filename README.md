@@ -46,6 +46,7 @@ I'm a 2019 Microsoft Bizspark Graduate with graduation email from Microsoft's Mi
 * Saving up for a XKL TOAD-2, DEC System and a Open Server(UNIX) and a new HP Z8 Desktop and Microsoft, HP, and Apple Software in a renewable invesetment vehicle
 * I have a lot is recognizied capital gains from Microsoft and Macromedia because I was a share holder using COCOMO II, options, and accounts recievable. zi paid for Microsoft Money Plus and have a 1M capital return.
 * Recentley signed a Hollywood Partner Contract as a Engineer
+* I think crytocurrenccy is a joke
 * Jonathan Moore will have his revenge on Southwest Virgina, RIP Paul Allen
 
 * Bill, thank you. The world is a better place, Jobs told Gates after the Microsoft exec agreed to make a $150 million investment in Apple. --Is our industry Zero Sum?
