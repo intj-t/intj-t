@@ -95,6 +95,9 @@ I'm a 2019 Microsoft Bizspark Graduate with graduation email from Microsoft's Mi
 * [Windows API Code Pack 1.1](https://www.nuget.org/packages/Microsoft-WindowsAPICodePack-Shell/)
 * [Locale Builder 2.0](https://www.microsoft.com/en-us/download/details.aspx?id=41158)
 
+### Microsoft Research
+* [Singularity RDK 2.0](https://github.com/sphinxlogic/Singularity-RDK-2.0)
+
 ### Personal 
 * [Jonathan Chapman Moore FRSA Website](https://www.jonathanchapmanmoore.org/)
 * [Microsoft Employee Login](https://docs.microsoft.com/en-us/dynamics/s-e/howto)
