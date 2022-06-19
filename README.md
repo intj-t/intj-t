@@ -73,6 +73,9 @@ I'm a 2019 Microsoft Bizspark Graduate with graduation email from Microsoft's Mi
 ### Microsoft Reference Source
 * [.NET Referance Source](https://referencesource.microsoft.com)
 
+### Microsoft Windows Kernel Source from MSDNAA
+* [Windows XP Kernel Source, Project OZ, and CRK](https://github.com/sphinxlogic/WindowsResearchKernel)
+
 ### Microsoft SDKs
 * [DirectX](https://archive.org/details/directxsdks)
 * [Windows API Code Pack 1.1](https://www.nuget.org/packages/Microsoft-WindowsAPICodePack-Shell/)
