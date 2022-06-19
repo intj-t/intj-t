@@ -103,6 +103,7 @@ I'm a 2019 Microsoft Bizspark Graduate with graduation email from Microsoft's Mi
 
 ### Sysinternals Suite
 * [Sysinternals Suite](https://docs.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite)
+* [Windows Internals](https://docs.microsoft.com/en-us/sysinternals/resources/windows-internals)
 * [Novels](https://trojanhorsethebook.com/wordpress/books/)
 
 ### Microsoft Reference Source
