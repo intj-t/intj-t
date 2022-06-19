@@ -56,7 +56,7 @@ I'm a 2019 Microsoft Bizspark Graduate with graduation email from Microsoft's Mi
 * [UNIX Heritage Society](https://www.tuhs.org/)
 * [Spin Operating System](http://www-spin.cs.washington.edu/)
 * [OpenVMS Archive](https://www.digiater.nl/)
-* [Windows](https://archive.org/details/full-windows-archive)
+* [Windows RTM Gold Masters and Code Name Betas](https://archive.org/details/full-windows-archive)
 
 ### Windows Builds
 * [Windows 95](https://archive.org/details/microsoftwindowsdetroitbuild1009-1216collection16files)
