@@ -97,6 +97,8 @@ I'm a 2019 Microsoft Bizspark Graduate with graduation email from Microsoft's Mi
 ### Microsoft Enterprise Third Party Disclosures 
 * [Microsoft Third Party Disclosures](https://thirdpartysource.microsoft.com/)
 * [Visual Studio 2017 Third Party Disclosures](https://github.com/jonathanchapmanmoore/VisualStudioDisclosures)
+* [Visual Studio Image Library](https://www.microsoft.com/en-us/download/details.aspx?id=35825)
+* [IcoFX][(https://icofx.ro/)
 
 ### Shared Source Common Langugue Infustructure
 * [SSCLI](https://github.com/sphinxlogic/sscli) 
