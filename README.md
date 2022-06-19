@@ -104,7 +104,7 @@ I'm a 2019 Microsoft Bizspark Graduate with graduation email from Microsoft's Mi
 ### Common Compiler Infustructure
 * [Common Compiler Infustructure](https://github.com/jonathanchapmanmoore/cci)
 
-### Microoft Open Source Teams
+### Microsoft Open Source Teams
 * [PowerShell](https://github.com/PowerShell/PowerShell)
 
 ### Microsoft Windows Kernel Source from MSDNAA
