@@ -46,7 +46,7 @@ I'm a 2019 Microsoft Bizspark Graduate with graduation email from Microsoft's Mi
 * Saving up for a XKL TOAD-2, DEC System a new Mac Pro, vtVAX from AVT and running BSD 4.3Reno for VAX on x86 and a new HP Z8 Desktop and Microsoft, HP, and Apple Software in a renewable invesetment vehicle
 * Your Unisys UNIX is in your Walnut Creek collection.
 * I have a lot is recognizied capital gains from Microsoft and Macromedia because I was a share holder using COCOMO II, options, and accounts recievable. Paid for Microsoft Money Plus and have a 1M capital return.
-* Recentley signed a Hollywood Partner Contract as a Engineer
+* [Medicare for all](https://medicare4all.org/)
 * [I will be Privately Placed by the SEC in 2 Years](https://www.sec.gov/education/smallbusiness/exemptofferings/rule506b)
 * Jonathan Moore will have his revenge on Southwest Virgina, RIP Paul Allen
 
