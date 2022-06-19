@@ -80,6 +80,7 @@ I'm a 2019 Microsoft Bizspark Graduate with graduation email from Microsoft's Mi
 
 ### Shared Source Common Langugue Infustructure
 * [SSCLI](https://github.com/sphinxlogic/sscli) 
+* [Common Type System](https://docs.microsoft.com/en-us/dotnet/standard/base-types/common-type-system)
 
 ### Microsoft Windows Kernel Source from MSDNAA
 * [Windows XP Kernel Source, Project OZ, and CRK](https://github.com/sphinxlogic/WindowsResearchKernel)
