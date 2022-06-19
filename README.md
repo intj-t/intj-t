@@ -48,6 +48,7 @@ I'm a 2019 Microsoft Bizspark Graduate with graduation email from Microsoft's Mi
 * I have a lot is recognizied capital gains from Microsoft and Macromedia because I was a share holder using COCOMO II, options, and accounts recievable. Paid for Microsoft Money Plus and have a 1M capital return.
 * [Medicare for all](https://medicare4all.org/)
 * [I will be Privately Placed by the SEC in 2 Years](https://www.sec.gov/education/smallbusiness/exemptofferings/rule506b)
+* I use Visual Studio 2005, 2010, 2015, 2017, with 2019  and 2022 build tools the 2003, and Vista DDK and SDK's.
 * Jonathan Moore will have his revenge on Southwest Virgina, RIP Paul Allen
 
 * Bill, thank you. The world is a better place, Jobs told Gates after the Microsoft exec agreed to make a $150 million investment in Apple. --Is our industry Zero Sum?
