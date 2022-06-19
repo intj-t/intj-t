@@ -71,7 +71,7 @@ I'm a 2019 Microsoft Bizspark Graduate with graduation email from Microsoft's Mi
 * [Windows 8](https://archive.org/details/os-microsoft-windows-8)
 
 ### Microsoft Reference Source
-* [.NET Referance Source](https://referencesource.microsoft.com)
+* [.NET Reference Source](https://referencesource.microsoft.com)
 
 ### Microsoft Windows Kernel Source from MSDNAA
 * [Windows XP Kernel Source, Project OZ, and CRK](https://github.com/sphinxlogic/WindowsResearchKernel)
