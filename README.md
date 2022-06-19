@@ -65,6 +65,7 @@ I'm a 2019 Microsoft Bizspark Graduate with graduation email from Microsoft's Mi
 
 ### Windows Builds
 * [Windows NT 3.5](https://archive.org/details/3.51.896-multifre-client-workstation-retail-en-us.-7z)
+* [Windows NT 4.0](https://archive.org/details/nt-4-4.00.1166.1)
 * [Windows 95](https://archive.org/details/microsoftwindowsdetroitbuild1009-1216collection16files)
 * [Windows 98](https://archive.org/details/microsoftwindowsmemphisbuild1351-1998collection73files)
 * [Windows Whistler](https://archive.org/details/windows-whistler-collection)
