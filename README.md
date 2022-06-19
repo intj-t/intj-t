@@ -58,6 +58,10 @@ I'm a 2019 Microsoft Bizspark Graduate with graduation email from Microsoft's Mi
 * [OpenVMS Archive](https://www.digiater.nl/)
 * [Windows](https://archive.org/details/full-windows-archive)
 
+### Windows Builds
+* [Whistler](https://archive.org/details/windows-whistler-collection)
+* [Windows Longhorn Build 4084](https://archive.org/details/windows-longhorn-build-4084)
+
 ### Personal 
 * [Jonathan Chapman Moore FRSA Website](https://www.jonathanchapmanmoore.org/)
 * [Microsoft Employee Login](https://docs.microsoft.com/en-us/dynamics/s-e/howto)
