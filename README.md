@@ -69,6 +69,7 @@ I'm a 2019 Microsoft Bizspark Graduate with graduation email from Microsoft's Mi
 
 ### MSDOS
 * [Microsoft Lisp for DOS](http://www.edm2.com/index.php/Microsoft_LISP) 
+* [Microsoft Pascal](https://winworldpc.com/product/microsoft-pascal/40)
 * [Microsoft Fortran for DOS](https://winworldpc.com/product/microsoft-fortran/5x)
 * [MSDOS 3.0](https://archive.org/details/msexe)
 
