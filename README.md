@@ -64,7 +64,16 @@ I'm a 2019 Microsoft Bizspark Graduate with graduation email from Microsoft's Mi
 * [fsck.technology](https://fsck.technology/)
 * [Wallnut Creek Collection](https://archive.org/details/walnutcreekcdrom)
 
+### Xeinx
+* [Microsoft Xeinx](https://archive.org/details/TNM_Xenix_operating_system_-_SCO_20180304_0122/mode/1up)
+
+### MSDOS
+* [Microsoft Lisp for DOS]() 
+* [Microsoft Fortran for DOS](https://winworldpc.com/product/microsoft-fortran/5x)
+* [MSDOS 3.0](https://archive.org/details/msexe)
+
 ### Windows Builds
+* [Windows 1.0](https://archive.org/details/windows-1-0)
 * [Windows 2.03](https://archive.org/details/microsoft-windows-2.03-3.5)
 * [Windows 3.1](https://archive.org/details/windows-3.1-beta-1-build-34f)
 * [Windows NT 3.5](https://archive.org/details/3.51.896-multifre-client-workstation-retail-en-us.-7z)
