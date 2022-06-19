@@ -124,7 +124,7 @@ I'm a 2019 Microsoft Bizspark Graduate with graduation email from Microsoft's Mi
 ### Microsoft Research
 * [Singularity RDK 2.0](https://github.com/sphinxlogic/Singularity-RDK-2.0)
 * [CHESS](https://github.com/jonathanchapmanmoore/Chess)
-* [M#](https://github.com/Geeksltd)
+* [M#](http://licensing.msharp.co.uk/Login.aspx?ReturnUrl=%2fAdmin.aspx)
 * [Microsoft Detours](https://github.com/microsoft/Detours)
 * [Whitewater Foundry Ltd](https://github.com/WhitewaterFoundry)
 
