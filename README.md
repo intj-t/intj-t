@@ -71,7 +71,6 @@ I'm a 2019 Microsoft Bizspark Graduate with graduation email from Microsoft's Mi
 * [Windows Longhorn/Vista](https://archive.org/details/thelonghornarchive)
 * [Windows 7](https://archive.org/details/Microsoft-Windows-7-Build-Collection)
 * [Windows 8](https://archive.org/details/os-microsoft-windows-8)
-
 * [Boot Windows Pre-Installation Environment](https://docs.microsoft.com/en-us/windows-hardware/manufacture/desktop/boot-to-winpe?view=windows-10)
 
 ### macOS Build Collection
