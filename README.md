@@ -101,6 +101,10 @@ I'm a 2019 Microsoft Bizspark Graduate with graduation email from Microsoft's Mi
 * [Features On Demand](https://docs.microsoft.com/en-us/windows-hardware/manufacture/desktop/features-on-demand-v2--capabilities?view=windows-11)
 * [Windows Volume Activation](https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/dn502540(v=ws.11))
 
+### Sysinternals Suite
+* [Sysinternals Suite](https://docs.microsoft.com/en-us/sysinternals/downloads/sysinternals-suite)
+* [Novels]()
+
 ### Microsoft Reference Source
 * [.NET Reference Source](https://referencesource.microsoft.com)
 
