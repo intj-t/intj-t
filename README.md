@@ -142,7 +142,7 @@ I'm a 2019 Microsoft Bizspark Graduate with graduation email from Microsoft's Mi
 * [Nemesis](https://www.cl.cam.ac.uk/research/srg/netos/projects/archive/nemesis/)
 
 ### Operating System Perseve Project
-*[OSPerserve](https://github.com/OSPreservProject)
+* [OSPerserve](https://github.com/OSPreservProject)
 
 ### Personal 
 * [Jonathan Chapman Moore FRSA Website](https://www.jonathanchapmanmoore.org/)
