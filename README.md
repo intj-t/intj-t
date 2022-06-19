@@ -65,6 +65,7 @@ I'm a 2019 Microsoft Bizspark Graduate with graduation email from Microsoft's Mi
 * [Wallnut Creek Collection](https://archive.org/details/walnutcreekcdrom)
 
 ### Windows Builds
+* [Windows 2.03](https://archive.org/details/microsoft-windows-2.03-3.5)
 * [Windows 3.1](https://archive.org/details/windows-3.1-beta-1-build-34f)
 * [Windows NT 3.5](https://archive.org/details/3.51.896-multifre-client-workstation-retail-en-us.-7z)
 * [Windows NT 4.0](https://archive.org/details/nt-4-4.00.1166.1)
