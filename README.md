@@ -8,7 +8,7 @@ Accounting and Geology and C/C++. Former MSDN Student Ambassador, And Visual Stu
 * Joined the National Assoication for the Gifted in 1995 when my mom tested me at a pcyhologist across the street from Sid and Cigerettes.
 * Used the Macromedia Freehand Trace tool at TCAT and ETSU meetings to trace my drawings from paper or sketchpad.
 * In Nondisclosure agreement For Flash Player and SWF Source which is now at the Computer History Museum. Signed by Myself and Mark Walker. Learned Graphic Design from the late Hillman Curtis. Macromedia in the Tri-Cities TN/Va Office as a User Group. Flash Certified 2004 MX Developer with Actionscript with training from the source. Consulted on multimedia with clients from 1999-2004. On fixed media a few of our clients included Avril Lavigine The band Garbage.
-* Entered a Macromedia student design contest and made a UI prototype called Vista.
+* Entered a Macromedia student design contest and made a UI prototype called Vista in 2005.
 * Recived a MSFT Tendor offer in 2006 and pooled together 1.5% stake in Microsoft. Been a victim of two Zero Days. And paid Microsoft Tech Support for over 65 support cases.
 * I participated in the Charlottesville Va, Windows Source program in 2003 at UVa, The Longhorn Migration Program in 2005 and the Windows Kernel Source program in 2009. I still have my MSDN Acedemic Alliance files. 
 * Paid for a 1998 MSDN Library, 2000, 2004 MSDN Enterprise Subscriptions. And 7 2006-2014 Action Packs. With one three year 2016 Bizspark With ID cards.
