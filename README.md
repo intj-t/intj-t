@@ -52,6 +52,11 @@ I'm a 2019 Microsoft Bizspark Graduate with graduation email from Microsoft's Mi
 
 * Bill, thank you. The world is a better place, Jobs told Gates after the Microsoft exec agreed to make a $150 million investment in Apple. --Is our industry Zero Sum?
 
+### Software
+* [UNIX Heritage Society](https://www.tuhs.org/)
+* [OpenVMS Archive](https://www.digiater.nl/)
+* [Windows](https://archive.org/details/full-windows-archive)
+
 ### Personal 
 * [Jonathan Chapman Moore FRSA Website](https://www.jonathanchapmanmoore.org/)
 * [Microsoft Employee Login](https://docs.microsoft.com/en-us/dynamics/s-e/howto)
