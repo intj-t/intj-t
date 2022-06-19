@@ -93,6 +93,7 @@ I'm a 2019 Microsoft Bizspark Graduate with graduation email from Microsoft's Mi
 * [Windows Whistler](https://archive.org/details/windows-whistler-collection)
 * [Windows Longhorn Build 4084](https://archive.org/details/windows-longhorn-build-4084)
 * [Windows Longhorn/Vista](https://archive.org/details/thelonghornarchive)
+* [Windows Longhorn Server](https://archive.org/details/os-microsoft-windows-longhorn-server)
 * [Windows 7](https://archive.org/details/Microsoft-Windows-7-Build-Collection)
 * [Windows 8](https://archive.org/details/os-microsoft-windows-8)
 * [Windows 8.1](https://archive.org/details/os-microsoft-windows-8.1)
