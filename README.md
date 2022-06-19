@@ -70,8 +70,12 @@ I'm a 2019 Microsoft Bizspark Graduate with graduation email from Microsoft's Mi
 * [Windows 7](https://archive.org/details/Microsoft-Windows-7-Build-Collection)
 * [Windows 8](https://archive.org/details/os-microsoft-windows-8)
 
+### Microsoft Reference Source
+* [.NET Referance Source](https://referencesource.microsoft.com)
+
 ### Microsoft SDKs
 * [DirectX](https://archive.org/details/directxsdks)
+* [Windows API Code Pack 1.1](https://www.nuget.org/packages/Microsoft-WindowsAPICodePack-Shell/)
 
 ### Personal 
 * [Jonathan Chapman Moore FRSA Website](https://www.jonathanchapmanmoore.org/)
@@ -80,7 +84,7 @@ I'm a 2019 Microsoft Bizspark Graduate with graduation email from Microsoft's Mi
 * [Blog](https://jdm7dvcsmath.blogspot.com/)
 * [Code Project Moderator](https://www.codeproject.com/script/Membership/View.aspx?mid=527156)
 * [Deviant Art](https://www.deviantart.com/jdm7dv)
-* [Our .NET Referance Source Incedent](https://referencesource.microsoft.com)
+
 * [Microsoft Announces Preliminary Results of Tender Offer](https://news.microsoft.com/2006/08/18/microsoft-announces-preliminary-results-of-tender-offer/)
 * [Volunteered for the Forsight Insitute in 2001](https://foresight.org/our-history/)
 
