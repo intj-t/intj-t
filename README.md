@@ -58,6 +58,8 @@ I'm a 2019 Microsoft Bizspark Graduate with graduation email from Microsoft's Mi
 * [OpenVMS Archive](https://www.digiater.nl/)
 * [Windows RTM Gold Masters and Code Name Betas](https://archive.org/details/full-windows-archive)
 
+* [PTC MKSToolkit for DOS](https://winworldpc.com/product/mks-toolkit/41)
+
 ### Windows Builds
 * [Windows 95](https://archive.org/details/microsoftwindowsdetroitbuild1009-1216collection16files)
 * [Whistler](https://archive.org/details/windows-whistler-collection)
