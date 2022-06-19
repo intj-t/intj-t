@@ -64,9 +64,9 @@ I'm a 2019 Microsoft Bizspark Graduate with graduation email from Microsoft's Mi
 ### Windows Builds
 * [Windows 95](https://archive.org/details/microsoftwindowsdetroitbuild1009-1216collection16files)
 * [Windows 98](https://archive.org/details/microsoftwindowsmemphisbuild1351-1998collection73files)
-* [Whistler](https://archive.org/details/windows-whistler-collection)
+* [Windows Whistler](https://archive.org/details/windows-whistler-collection)
 * [Windows Longhorn Build 4084](https://archive.org/details/windows-longhorn-build-4084)
-* [Longhorn/Vista](https://archive.org/details/thelonghornarchive)
+* [Windows Longhorn/Vista](https://archive.org/details/thelonghornarchive)
 * [Windows 7](https://archive.org/details/Microsoft-Windows-7-Build-Collection)
 * [Windows 8](https://archive.org/details/os-microsoft-windows-8)
 
