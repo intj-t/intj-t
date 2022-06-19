@@ -43,7 +43,7 @@ I'm a 2019 Microsoft Bizspark Graduate with graduation email from Microsoft's Mi
 * I subscribe to the WSJ and Fair.org awaiting progress with Microsoft University in the Netherlands for which I did a 6th grade book report on.
 * Religion and Biology are acedemic axioms and Mathematics hold proofs and some axioms
 * Own a Patent throgh Microsoft's .NET patent promise
-* Saving up for a XKL TOAD-2, DEC System and a Open Server(UNIX) and a new HP Z8 Desktop and Microsoft, HP, and Apple Software in a renewable invesetment vehicle
+* Saving up for a XKL TOAD-2, DEC System a new Mac Pro, vtVAX from AVT and running BSD 4.3Reno for VAX on x86 and a new HP Z8 Desktop and Microsoft, HP, and Apple Software in a renewable invesetment vehicle
 * I have a lot is recognizied capital gains from Microsoft and Macromedia because I was a share holder using COCOMO II, options, and accounts recievable. zi paid for Microsoft Money Plus and have a 1M capital return.
 * Recentley signed a Hollywood Partner Contract as a Engineer
 * I think crytocurrenccy is a joke
