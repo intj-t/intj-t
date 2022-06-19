@@ -78,6 +78,9 @@ I'm a 2019 Microsoft Bizspark Graduate with graduation email from Microsoft's Mi
 ### Microsoft Reference Source
 * [.NET Reference Source](https://referencesource.microsoft.com)
 
+### Microsoft Enterprise Third Party Disclosures 
+* [Microsoft Third Party Disclosures](https://thirdpartysource.microsoft.com/)
+
 ### Shared Source Common Langugue Infustructure
 * [SSCLI](https://github.com/sphinxlogic/sscli) 
 * [Common Type System](https://docs.microsoft.com/en-us/dotnet/standard/base-types/common-type-system)
