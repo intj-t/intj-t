@@ -84,7 +84,6 @@ I'm a 2019 Microsoft Bizspark Graduate with graduation email from Microsoft's Mi
 * [Blog](https://jdm7dvcsmath.blogspot.com/)
 * [Code Project Moderator](https://www.codeproject.com/script/Membership/View.aspx?mid=527156)
 * [Deviant Art](https://www.deviantart.com/jdm7dv)
-
 * [Microsoft Announces Preliminary Results of Tender Offer](https://news.microsoft.com/2006/08/18/microsoft-announces-preliminary-results-of-tender-offer/)
 * [Volunteered for the Forsight Insitute in 2001](https://foresight.org/our-history/)
 
