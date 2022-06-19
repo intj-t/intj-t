@@ -101,6 +101,12 @@ I'm a 2019 Microsoft Bizspark Graduate with graduation email from Microsoft's Mi
 * [SSCLI](https://github.com/sphinxlogic/sscli) 
 * [Common Type System](https://docs.microsoft.com/en-us/dotnet/standard/base-types/common-type-system)
 
+### Common Compiler Infustructure
+* [Common Compiler Infustructure](https://github.com/jonathanchapmanmoore/cci)
+
+### Microoft Open Source Teams
+* [PowerShell](https://github.com/PowerShell/PowerShell)
+
 ### Microsoft Windows Kernel Source from MSDNAA
 * [Windows XP Kernel Source, Project OZ, and CRK](https://github.com/sphinxlogic/WindowsResearchKernel)
 
@@ -112,6 +118,7 @@ I'm a 2019 Microsoft Bizspark Graduate with graduation email from Microsoft's Mi
 ### Microsoft Research
 * [Singularity RDK 2.0](https://github.com/sphinxlogic/Singularity-RDK-2.0)
 * [CHESS](https://github.com/jonathanchapmanmoore/Chess)
+* [Microsoft Detours]()https://github.com/microsoft/Detours
 * [Whitewater Foundry Ltd](https://github.com/WhitewaterFoundry)
 
 ### macOS Build Collection
