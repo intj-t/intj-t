@@ -99,6 +99,7 @@ I'm a 2019 Microsoft Bizspark Graduate with graduation email from Microsoft's Mi
 * [Windows 10](https://archive.org/details/10.0.10014.0.winmain-prs.-150205-1859-amd-64fre-client-professional-retail-en-us) 
 * [Boot Windows Pre-Installation Environment](https://docs.microsoft.com/en-us/windows-hardware/manufacture/desktop/boot-to-winpe?view=windows-10)
 * [Features On Demand](https://docs.microsoft.com/en-us/windows-hardware/manufacture/desktop/features-on-demand-v2--capabilities?view=windows-11)
+* [Windows Volume Activation](https://docs.microsoft.com/en-us/previous-versions/windows/it-pro/windows-server-2012-r2-and-2012/dn502540(v=ws.11))
 
 ### Microsoft Reference Source
 * [.NET Reference Source](https://referencesource.microsoft.com)
