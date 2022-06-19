@@ -4,7 +4,7 @@
 Accounting and Geology and C/C++. Former MSDN Student Ambassador, And Visual Studio Industry Partner. 27 Years Experiance in DOS and Windows begining with 3.1 In 1985 Had too move from my families mansion to a condo because my mother became ill.
 * Homeschooled personal finance.
 * My Aunt is from California
-* Featured in my 5th grade art fair.
+* Featured in my 5th grade art fair. I drew a Helicopter
 * Joined the National Assoication for the Gifted in 1995 when my mom tested me at a pcyhologist across the street from Sid and Cigerettes.
 * In Nondisclosure agreement For Flash Player and SWF Source which is now at the Computer History Museum. Signed by Myself and Mark Walker. Learned Graphic Design from the late Hillman Curtis. Macromedia in the Tri-Cities TN/Va Office as a User Group. Flash Certified 2004 MX Developer with Actionscript with training from the source. Consulted on multimedia with clients from 1999-2004. On fixed media a few of our clients included Avril Lavigine The band Garbage.
 * Recived a MSFT Tendor offer in 2006 and pooled together 1.5% stake in Microsoft. Been a victim of two Zero Days. And paid Microsoft Tech Support for over 65 support cases.
@@ -48,6 +48,7 @@ I'm a 2019 Microsoft Bizspark Graduate with graduation email from Microsoft's Mi
 * Saving up for a XKL TOAD-2, DEC System a new Mac Pro, vtVAX from AVT and running BSD 4.3Reno for VAX on x86 and a new HP Z8 Desktop and Microsoft, HP, and Apple Software in a renewable invesetment vehicle
 * Your Unisys UNIX is in your Walnut Creek collection.
 * I have a lot is recognizied capital gains from Microsoft and Macromedia because I was a share holder using COCOMO II, options, and accounts recievable. Paid for Microsoft Money Plus and have a 1M capital return.
+* Learning Microsoft ESP
 * [Medicare for all](https://medicare4all.org/)
 * [I will be Privately Placed by the SEC in 2 Years and cash out some Startup shares](https://www.sec.gov/education/smallbusiness/exemptofferings/rule506b)
 * I use Visual Studio 2005, 2010, 2015, 2017, with 2019  and 2022 build tools the 2003, and Vista DDK and SDK's.
