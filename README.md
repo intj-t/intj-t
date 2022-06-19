@@ -67,6 +67,7 @@ I'm a 2019 Microsoft Bizspark Graduate with graduation email from Microsoft's Mi
 * [Microsoft Acrchive](https://github.com/microsoftarchive)
 * [BeOS/Haiku](https://www.haiku-os.org/)
 * [Adobe CS2](https://archive.org/details/Adobe-CS2)
+* [Microsoft Expression Studio for XAML Export](https://archive.org/details/microsoft-expression-studio)
 
 ### Xeinx
 * [Microsoft Xeinx](https://archive.org/details/TNM_Xenix_operating_system_-_SCO_20180304_0122/mode/1up)
