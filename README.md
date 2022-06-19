@@ -96,7 +96,7 @@ I'm a 2019 Microsoft Bizspark Graduate with graduation email from Microsoft's Mi
 
 ### Microsoft Research
 * [Singularity RDK 2.0](https://github.com/sphinxlogic/Singularity-RDK-2.0)
-^ [Whitewater Foundry Ltd](https://github.com/WhitewaterFoundry)
+* [Whitewater Foundry Ltd](https://github.com/WhitewaterFoundry)
 
 ### Personal 
 * [Jonathan Chapman Moore FRSA Website](https://www.jonathanchapmanmoore.org/)
