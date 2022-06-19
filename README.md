@@ -58,6 +58,7 @@ I'm a 2019 Microsoft Bizspark Graduate with graduation email from Microsoft's Mi
 * [OpenVMS Archive](https://www.digiater.nl/)
 * [Windows RTM and Code Name Betas](https://archive.org/details/full-windows-archive)
 * [PTC MKSToolkit for DOS](https://winworldpc.com/product/mks-toolkit/41)
+* [Darwin Source Repository Compile for x86 for a Thinkpad](https://osdn.net/projects/sfnet_darwinsource/)
 
 ### Windows Builds
 * [Windows 95](https://archive.org/details/microsoftwindowsdetroitbuild1009-1216collection16files)
