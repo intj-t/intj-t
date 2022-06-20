@@ -8,6 +8,8 @@
 
 <a href="https://upload.wikimedia.org/wikipedia/commons/c/cd/Unix_timeline.en.svg">UNIX Operating System Timeline</a>
 </br>
+<a href="images/windows-8-winrt-win32-framework-stack.jpg">Windows 8 Architectural Stack</a>
+</br>
 <a href="https://upload.wikimedia.org/wikipedia/commons/f/f2/Diagram_of_Mac_OS_X_architecture.svg">macOS Architectural Stack</a>
 </br>
 <a href="docs/Hithere.docx">Hi There Word Document</a>
