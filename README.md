@@ -4,7 +4,7 @@
 body {
   background-color: lightblue;
 }
-<style>
+</style>
 <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/windows.svg" width="50" height="50"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/deviantart.svg" width="50" height="50"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/goodreads.svg" width="50" height="50">
 
 
