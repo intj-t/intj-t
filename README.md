@@ -6,6 +6,8 @@
 <a href="docs/Hithere.docx">Hi There Word Document</a>
 </br>
 <a href="https://www.deviantart.com/jdm7dv">Deviant Art</a>
+</br>
+<a href="docs/Jonathan Chapman Moore FRSA.doc">Resume</a>
 
 
 ### Views
