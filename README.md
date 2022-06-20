@@ -19,7 +19,7 @@
 </br>
 <a href="docs/FavoriteEntertainment.docx">Favorite Entertainment</a>
 </br>
-<a href="docs/Jonathan Chapman Moore FRSA.doc">Resume</a>
+<a href="docs/Jonathan Chapman Moore FRSA.doc">Curriculum Vitae</a>
 </br>
 <a href="https://www.linkedin.com/in/jdm7dv/">Linkedin</a>
 
