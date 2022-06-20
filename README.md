@@ -17,6 +17,8 @@
 </br>
 <a href="https://www.goodreads.com/user/show/72426002-jonathan-moore">Goodreads</a>
 </br>
+<a href="docs/FavoriteEntertainment.docx">Favorite Entertainment</a>
+</br>
 <a href="docs/Jonathan Chapman Moore FRSA.doc">Resume</a>
 </br>
 <a href="https://www.linkedin.com/in/jdm7dv/">Linkedin</a>
