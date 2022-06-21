@@ -1,0 +1,630 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema xmlns:v="urn:schemas-microsoft-com:vml" xmlns:cx7="http://schemas.microsoft.com/office/drawing/2016/5/13/chartex" xmlns:wx="http://schemas.microsoft.com/office/word/2003/auxHint" xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex" xmlns:cx4="http://schemas.microsoft.com/office/drawing/2016/5/10/chartex" xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:wsp="http://schemas.microsoft.com/office/word/2003/wordml/sp2" xmlns:oel="http://schemas.microsoft.com/office/2019/extlst" xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex" xmlns:w="http://schemas.microsoft.com/office/word/2003/wordml" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:sl="http://schemas.microsoft.com/schemaLibrary/2003/core" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:cx8="http://schemas.microsoft.com/office/drawing/2016/5/14/chartex" xmlns:cx5="http://schemas.microsoft.com/office/drawing/2016/5/11/chartex" xmlns:aml="http://schemas.microsoft.com/aml/2001/core" xmlns:cx6="http://schemas.microsoft.com/office/drawing/2016/5/12/chartex" xmlns:cr="http://schemas.microsoft.com/office/comments/2020/reactions" xmlns:cx3="http://schemas.microsoft.com/office/drawing/2016/5/9/chartex" xmlns:cx2="http://schemas.microsoft.com/office/drawing/2015/10/21/chartex" xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882" xmlns:aink="http://schemas.microsoft.com/office/drawing/2016/ink" xmlns:am3d="http://schemas.microsoft.com/office/drawing/2017/model3d" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" attributeFormDefault="unqualified" elementFormDefault="qualified" targetNamespace="http://schemas.microsoft.com/office/word/2003/wordml" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:import namespace="http://www.w3.org/XML/1998/namespace" />
+  <xs:import namespace="urn:schemas-microsoft-com:office:office" />
+  <xs:import namespace="http://schemas.microsoft.com/office/word/2003/auxHint" />
+  <xs:import namespace="http://schemas.microsoft.com/office/word/2003/wordml/sp2" />
+  <xs:import namespace="urn:schemas-microsoft-com:vml" />
+  <xs:element name="wordDocument">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="ignoreSubtree">
+          <xs:complexType>
+            <xs:attribute ref="w:val" use="required" />
+          </xs:complexType>
+        </xs:element>
+        <xs:element ref="o:DocumentProperties" />
+        <xs:element name="fonts">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="defaultFonts">
+                <xs:complexType>
+                  <xs:attribute ref="w:ascii" use="required" />
+                  <xs:attribute ref="w:fareast" use="required" />
+                  <xs:attribute ref="w:h-ansi" use="required" />
+                  <xs:attribute ref="w:cs" use="required" />
+                </xs:complexType>
+              </xs:element>
+              <xs:element maxOccurs="unbounded" name="font">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="panose-1">
+                      <xs:complexType>
+                        <xs:attribute ref="w:val" use="required" />
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="charset">
+                      <xs:complexType>
+                        <xs:attribute ref="w:val" use="required" />
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="family">
+                      <xs:complexType>
+                        <xs:attribute ref="w:val" use="required" />
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="pitch">
+                      <xs:complexType>
+                        <xs:attribute ref="w:val" use="required" />
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element name="sig">
+                      <xs:complexType>
+                        <xs:attribute ref="w:usb-0" use="required" />
+                        <xs:attribute ref="w:usb-1" use="required" />
+                        <xs:attribute ref="w:usb-2" use="required" />
+                        <xs:attribute ref="w:usb-3" use="required" />
+                        <xs:attribute ref="w:csb-0" use="required" />
+                        <xs:attribute ref="w:csb-1" use="required" />
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                  <xs:attribute ref="w:name" use="required" />
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="styles">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="versionOfBuiltInStylenames">
+                <xs:complexType>
+                  <xs:attribute ref="w:val" use="required" />
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="latentStyles">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element maxOccurs="unbounded" name="lsdException">
+                      <xs:complexType>
+                        <xs:attribute ref="w:name" use="required" />
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                  <xs:attribute ref="w:defLockedState" use="required" />
+                  <xs:attribute ref="w:latentStyleCount" use="required" />
+                </xs:complexType>
+              </xs:element>
+              <xs:element maxOccurs="unbounded" name="style">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="name">
+                      <xs:complexType>
+                        <xs:attribute ref="w:val" use="required" />
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element minOccurs="0" ref="wx:uiName" />
+                    <xs:element minOccurs="0" name="basedOn">
+                      <xs:complexType>
+                        <xs:attribute ref="w:val" use="required" />
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element minOccurs="0" name="next">
+                      <xs:complexType>
+                        <xs:attribute ref="w:val" use="required" />
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element minOccurs="0" name="link">
+                      <xs:complexType>
+                        <xs:attribute ref="w:val" use="required" />
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element minOccurs="0" name="rsid">
+                      <xs:complexType>
+                        <xs:attribute ref="w:val" use="required" />
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element minOccurs="0" name="pPr">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:choice maxOccurs="unbounded">
+                            <xs:element name="pBdr">
+                              <xs:complexType>
+                                <xs:sequence>
+                                  <xs:element name="top">
+                                    <xs:complexType>
+                                      <xs:attribute ref="w:val" use="required" />
+                                      <xs:attribute ref="w:sz" use="required" />
+                                      <xs:attribute ref="wx:bdrwidth" use="required" />
+                                      <xs:attribute ref="w:space" use="required" />
+                                      <xs:attribute ref="w:color" use="required" />
+                                    </xs:complexType>
+                                  </xs:element>
+                                  <xs:element name="bottom">
+                                    <xs:complexType>
+                                      <xs:attribute ref="w:val" use="required" />
+                                      <xs:attribute ref="w:sz" use="required" />
+                                      <xs:attribute ref="wx:bdrwidth" use="required" />
+                                      <xs:attribute ref="w:space" use="required" />
+                                      <xs:attribute ref="w:color" use="required" />
+                                    </xs:complexType>
+                                  </xs:element>
+                                </xs:sequence>
+                              </xs:complexType>
+                            </xs:element>
+                            <xs:element name="ind">
+                              <xs:complexType>
+                                <xs:attribute ref="w:left" use="required" />
+                                <xs:attribute ref="w:right" use="optional" />
+                              </xs:complexType>
+                            </xs:element>
+                            <xs:element name="contextualSpacing" />
+                            <xs:element name="keepNext" />
+                            <xs:element name="keepLines" />
+                            <xs:element name="spacing">
+                              <xs:complexType>
+                                <xs:attribute ref="w:after" use="optional" />
+                                <xs:attribute ref="w:line" use="optional" />
+                                <xs:attribute ref="w:line-rule" use="optional" />
+                                <xs:attribute ref="w:before" use="optional" />
+                              </xs:complexType>
+                            </xs:element>
+                            <xs:element name="jc">
+                              <xs:complexType>
+                                <xs:attribute ref="w:val" use="required" />
+                              </xs:complexType>
+                            </xs:element>
+                            <xs:element name="outlineLvl">
+                              <xs:complexType>
+                                <xs:attribute ref="w:val" use="required" />
+                              </xs:complexType>
+                            </xs:element>
+                            <xs:element name="listPr">
+                              <xs:complexType>
+                                <xs:sequence>
+                                  <xs:element name="ilvl">
+                                    <xs:complexType>
+                                      <xs:attribute ref="w:val" use="required" />
+                                    </xs:complexType>
+                                  </xs:element>
+                                </xs:sequence>
+                              </xs:complexType>
+                            </xs:element>
+                          </xs:choice>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element minOccurs="0" name="rPr">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:choice maxOccurs="unbounded">
+                            <xs:element name="rFonts">
+                              <xs:complexType>
+                                <xs:attribute ref="w:ascii" use="required" />
+                                <xs:attribute ref="w:fareast" use="required" />
+                                <xs:attribute ref="w:h-ansi" use="required" />
+                                <xs:attribute ref="w:cs" use="required" />
+                              </xs:complexType>
+                            </xs:element>
+                            <xs:element ref="wx:font" />
+                            <xs:element name="caps">
+                              <xs:complexType>
+                                <xs:attribute ref="w:val" use="optional" />
+                              </xs:complexType>
+                            </xs:element>
+                            <xs:element name="smallCaps" />
+                            <xs:element name="b" />
+                            <xs:element name="b-cs" />
+                            <xs:element name="i" />
+                            <xs:element name="i-cs" />
+                            <xs:element name="color">
+                              <xs:complexType>
+                                <xs:attribute ref="w:val" use="required" />
+                              </xs:complexType>
+                            </xs:element>
+                            <xs:element name="spacing">
+                              <xs:complexType>
+                                <xs:attribute ref="w:val" use="required" />
+                              </xs:complexType>
+                            </xs:element>
+                            <xs:element name="u">
+                              <xs:complexType>
+                                <xs:attribute ref="w:val" use="required" />
+                                <xs:attribute ref="w:color" use="optional" />
+                              </xs:complexType>
+                            </xs:element>
+                            <xs:element name="sz">
+                              <xs:complexType>
+                                <xs:attribute ref="w:val" use="required" />
+                              </xs:complexType>
+                            </xs:element>
+                            <xs:element name="sz-cs">
+                              <xs:complexType>
+                                <xs:attribute ref="w:val" use="required" />
+                              </xs:complexType>
+                            </xs:element>
+                            <xs:element name="lang">
+                              <xs:complexType>
+                                <xs:attribute ref="w:val" use="required" />
+                                <xs:attribute ref="w:fareast" use="required" />
+                                <xs:attribute ref="w:bidi" use="required" />
+                              </xs:complexType>
+                            </xs:element>
+                            <xs:element name="shd">
+                              <xs:complexType>
+                                <xs:attribute ref="w:val" use="required" />
+                                <xs:attribute ref="w:color" use="required" />
+                                <xs:attribute ref="w:fill" use="required" />
+                              </xs:complexType>
+                            </xs:element>
+                          </xs:choice>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                    <xs:element minOccurs="0" name="tblPr">
+                      <xs:complexType>
+                        <xs:sequence>
+                          <xs:element name="tblInd">
+                            <xs:complexType>
+                              <xs:attribute ref="w:w" use="required" />
+                              <xs:attribute ref="w:type" use="required" />
+                            </xs:complexType>
+                          </xs:element>
+                          <xs:element name="tblCellMar">
+                            <xs:complexType>
+                              <xs:sequence>
+                                <xs:element name="top">
+                                  <xs:complexType>
+                                    <xs:attribute ref="w:w" use="required" />
+                                    <xs:attribute ref="w:type" use="required" />
+                                  </xs:complexType>
+                                </xs:element>
+                                <xs:element name="left">
+                                  <xs:complexType>
+                                    <xs:attribute ref="w:w" use="required" />
+                                    <xs:attribute ref="w:type" use="required" />
+                                  </xs:complexType>
+                                </xs:element>
+                                <xs:element name="bottom">
+                                  <xs:complexType>
+                                    <xs:attribute ref="w:w" use="required" />
+                                    <xs:attribute ref="w:type" use="required" />
+                                  </xs:complexType>
+                                </xs:element>
+                                <xs:element name="right">
+                                  <xs:complexType>
+                                    <xs:attribute ref="w:w" use="required" />
+                                    <xs:attribute ref="w:type" use="required" />
+                                  </xs:complexType>
+                                </xs:element>
+                              </xs:sequence>
+                            </xs:complexType>
+                          </xs:element>
+                        </xs:sequence>
+                      </xs:complexType>
+                    </xs:element>
+                  </xs:sequence>
+                  <xs:attribute ref="w:type" use="required" />
+                  <xs:attribute ref="w:default" use="optional" />
+                  <xs:attribute ref="w:styleId" use="required" />
+                </xs:complexType>
+              </xs:element>
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="shapeDefaults">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element ref="o:shapedefaults" />
+              <xs:element ref="o:shapelayout" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="docPr">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element name="view">
+                <xs:complexType>
+                  <xs:attribute ref="w:val" use="required" />
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="zoom">
+                <xs:complexType>
+                  <xs:attribute ref="w:percent" use="required" />
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="doNotEmbedSystemFonts" />
+              <xs:element name="defaultTabStop">
+                <xs:complexType>
+                  <xs:attribute ref="w:val" use="required" />
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="punctuationKerning" />
+              <xs:element name="characterSpacingControl">
+                <xs:complexType>
+                  <xs:attribute ref="w:val" use="required" />
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="optimizeForBrowser" />
+              <xs:element name="allowPNG" />
+              <xs:element name="validateAgainstSchema" />
+              <xs:element name="saveInvalidXML">
+                <xs:complexType>
+                  <xs:attribute ref="w:val" use="required" />
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="ignoreMixedContent">
+                <xs:complexType>
+                  <xs:attribute ref="w:val" use="required" />
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="alwaysShowPlaceholderText">
+                <xs:complexType>
+                  <xs:attribute ref="w:val" use="required" />
+                </xs:complexType>
+              </xs:element>
+              <xs:element name="compat">
+                <xs:complexType>
+                  <xs:sequence>
+                    <xs:element name="breakWrappedTables" />
+                    <xs:element name="snapToGridInCell" />
+                    <xs:element name="wrapTextWithPunct" />
+                    <xs:element name="useAsianBreakRules" />
+                    <xs:element name="dontGrowAutofit" />
+                  </xs:sequence>
+                </xs:complexType>
+              </xs:element>
+              <xs:element ref="wsp:rsids" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="body">
+          <xs:complexType>
+            <xs:sequence>
+              <xs:element ref="wx:sect" />
+            </xs:sequence>
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+      <xs:attribute ref="w:macrosPresent" use="required" />
+      <xs:attribute ref="w:embeddedObjPresent" use="required" />
+      <xs:attribute ref="w:ocxPresent" use="required" />
+      <xs:attribute ref="xml:space" use="required" />
+    </xs:complexType>
+  </xs:element>
+  <xs:attribute name="macrosPresent" type="xs:string" />
+  <xs:attribute name="embeddedObjPresent" type="xs:string" />
+  <xs:attribute name="ocxPresent" type="xs:string" />
+  <xs:attribute name="val" type="xs:string" />
+  <xs:attribute name="ascii" type="xs:string" />
+  <xs:attribute name="fareast" type="xs:string" />
+  <xs:attribute name="h-ansi" type="xs:string" />
+  <xs:attribute name="cs" type="xs:string" />
+  <xs:attribute name="name" type="xs:string" />
+  <xs:attribute name="usb-0" type="xs:string" />
+  <xs:attribute name="usb-1" type="xs:string" />
+  <xs:attribute name="usb-2" type="xs:string" />
+  <xs:attribute name="usb-3" type="xs:unsignedByte" />
+  <xs:attribute name="csb-0" type="xs:string" />
+  <xs:attribute name="csb-1" type="xs:unsignedByte" />
+  <xs:attribute name="defLockedState" type="xs:string" />
+  <xs:attribute name="latentStyleCount" type="xs:unsignedShort" />
+  <xs:attribute name="type" type="xs:string" />
+  <xs:attribute name="default" type="xs:string" />
+  <xs:attribute name="styleId" type="xs:string" />
+  <xs:attribute name="after" type="xs:unsignedShort" />
+  <xs:attribute name="line" type="xs:unsignedShort" />
+  <xs:attribute name="line-rule" type="xs:string" />
+  <xs:attribute name="bidi" type="xs:string" />
+  <xs:attribute name="before" type="xs:unsignedShort" />
+  <xs:attribute name="w" type="xs:unsignedShort" />
+  <xs:attribute name="left" type="xs:unsignedShort" />
+  <xs:attribute name="sz" type="xs:unsignedByte" />
+  <xs:attribute name="space" type="xs:unsignedShort" />
+  <xs:attribute name="color" type="xs:string" />
+  <xs:attribute name="right" type="xs:unsignedShort" />
+  <xs:attribute name="fill" type="xs:string" />
+  <xs:attribute name="percent" type="xs:unsignedByte" />
+  <xs:element name="p">
+    <xs:complexType>
+      <xs:sequence minOccurs="0">
+        <xs:choice maxOccurs="unbounded">
+          <xs:element name="pPr">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element minOccurs="0" name="ind">
+                  <xs:complexType>
+                    <xs:attribute ref="w:first-line" use="required" />
+                  </xs:complexType>
+                </xs:element>
+                <xs:element minOccurs="0" name="rPr">
+                  <xs:complexType>
+                    <xs:sequence>
+                      <xs:element name="rFonts">
+                        <xs:complexType>
+                          <xs:attribute ref="w:ascii" use="required" />
+                          <xs:attribute ref="w:fareast" use="required" />
+                          <xs:attribute ref="w:h-ansi" use="required" />
+                          <xs:attribute ref="w:cs" use="required" />
+                        </xs:complexType>
+                      </xs:element>
+                      <xs:element ref="wx:font" />
+                      <xs:element name="sz">
+                        <xs:complexType>
+                          <xs:attribute ref="w:val" use="required" />
+                        </xs:complexType>
+                      </xs:element>
+                      <xs:element name="sz-cs">
+                        <xs:complexType>
+                          <xs:attribute ref="w:val" use="required" />
+                        </xs:complexType>
+                      </xs:element>
+                    </xs:sequence>
+                  </xs:complexType>
+                </xs:element>
+                <xs:element minOccurs="0" name="pStyle">
+                  <xs:complexType>
+                    <xs:attribute ref="w:val" use="required" />
+                  </xs:complexType>
+                </xs:element>
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+          <xs:element maxOccurs="unbounded" name="r">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element minOccurs="0" name="rPr">
+                  <xs:complexType>
+                    <xs:sequence>
+                      <xs:element minOccurs="0" name="rFonts">
+                        <xs:complexType>
+                          <xs:attribute ref="w:ascii" use="required" />
+                          <xs:attribute ref="w:fareast" use="required" />
+                          <xs:attribute ref="w:h-ansi" use="required" />
+                          <xs:attribute ref="w:cs" use="required" />
+                        </xs:complexType>
+                      </xs:element>
+                      <xs:element minOccurs="0" ref="wx:font" />
+                      <xs:element minOccurs="0" name="sz">
+                        <xs:complexType>
+                          <xs:attribute ref="w:val" use="required" />
+                        </xs:complexType>
+                      </xs:element>
+                      <xs:element minOccurs="0" name="sz-cs">
+                        <xs:complexType>
+                          <xs:attribute ref="w:val" use="required" />
+                        </xs:complexType>
+                      </xs:element>
+                      <xs:element minOccurs="0" name="vertAlign">
+                        <xs:complexType>
+                          <xs:attribute ref="w:val" use="required" />
+                        </xs:complexType>
+                      </xs:element>
+                      <xs:element minOccurs="0" name="noProof" />
+                    </xs:sequence>
+                  </xs:complexType>
+                </xs:element>
+                <xs:element minOccurs="0" name="pict">
+                  <xs:complexType>
+                    <xs:sequence>
+                      <xs:element minOccurs="0" ref="v:shapetype" />
+                      <xs:element name="binData">
+                        <xs:complexType>
+                          <xs:simpleContent>
+                            <xs:extension base="xs:string">
+                              <xs:attribute ref="w:name" use="required" />
+                              <xs:attribute ref="xml:space" use="required" />
+                            </xs:extension>
+                          </xs:simpleContent>
+                        </xs:complexType>
+                      </xs:element>
+                      <xs:element ref="v:shape" />
+                    </xs:sequence>
+                  </xs:complexType>
+                </xs:element>
+                <xs:element minOccurs="0" name="t" type="xs:string" />
+              </xs:sequence>
+              <xs:attribute ref="wsp:rsidRPr" use="optional" />
+              <xs:attribute ref="wsp:rsidR" use="optional" />
+            </xs:complexType>
+          </xs:element>
+          <xs:element name="hlink">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element maxOccurs="unbounded" name="r">
+                  <xs:complexType>
+                    <xs:sequence>
+                      <xs:element name="rPr">
+                        <xs:complexType>
+                          <xs:sequence>
+                            <xs:element name="rStyle">
+                              <xs:complexType>
+                                <xs:attribute ref="w:val" use="required" />
+                              </xs:complexType>
+                            </xs:element>
+                            <xs:element name="rFonts">
+                              <xs:complexType>
+                                <xs:attribute ref="w:ascii" use="required" />
+                                <xs:attribute ref="w:fareast" use="required" />
+                                <xs:attribute ref="w:h-ansi" use="required" />
+                                <xs:attribute ref="w:cs" use="required" />
+                              </xs:complexType>
+                            </xs:element>
+                            <xs:element ref="wx:font" />
+                            <xs:element name="sz">
+                              <xs:complexType>
+                                <xs:attribute ref="w:val" use="required" />
+                              </xs:complexType>
+                            </xs:element>
+                            <xs:element name="sz-cs">
+                              <xs:complexType>
+                                <xs:attribute ref="w:val" use="required" />
+                              </xs:complexType>
+                            </xs:element>
+                          </xs:sequence>
+                        </xs:complexType>
+                      </xs:element>
+                      <xs:element name="t" type="xs:string" />
+                    </xs:sequence>
+                    <xs:attribute ref="wsp:rsidR" use="optional" />
+                    <xs:attribute ref="wsp:rsidRPr" use="optional" />
+                  </xs:complexType>
+                </xs:element>
+              </xs:sequence>
+              <xs:attribute ref="w:dest" use="required" />
+              <xs:attribute ref="w:target" use="optional" />
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:sequence>
+      <xs:attribute ref="wsp:rsidR" use="required" />
+      <xs:attribute ref="wsp:rsidRDefault" use="required" />
+      <xs:attribute ref="wsp:rsidP" use="required" />
+      <xs:attribute ref="wsp:rsidRPr" use="optional" />
+    </xs:complexType>
+  </xs:element>
+  <xs:attribute name="first-line" type="xs:unsignedShort" />
+  <xs:attribute name="dest" type="xs:string" />
+  <xs:attribute name="target" type="xs:string" />
+  <xs:element name="sectPr">
+    <xs:complexType>
+      <xs:sequence>
+        <xs:element name="pgSz">
+          <xs:complexType>
+            <xs:attribute ref="w:w" use="required" />
+            <xs:attribute ref="w:h" use="required" />
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="pgMar">
+          <xs:complexType>
+            <xs:attribute ref="w:top" use="required" />
+            <xs:attribute ref="w:right" use="required" />
+            <xs:attribute ref="w:bottom" use="required" />
+            <xs:attribute ref="w:left" use="required" />
+            <xs:attribute ref="w:header" use="required" />
+            <xs:attribute ref="w:footer" use="required" />
+            <xs:attribute ref="w:gutter" use="required" />
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="pgNumType">
+          <xs:complexType>
+            <xs:attribute ref="w:start" use="required" />
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="cols">
+          <xs:complexType>
+            <xs:attribute ref="w:space" use="required" />
+          </xs:complexType>
+        </xs:element>
+        <xs:element name="titlePg" />
+        <xs:element name="docGrid">
+          <xs:complexType>
+            <xs:attribute ref="w:line-pitch" use="required" />
+          </xs:complexType>
+        </xs:element>
+      </xs:sequence>
+      <xs:attribute ref="wsp:rsidR" use="required" />
+      <xs:attribute ref="wsp:rsidRPr" use="required" />
+      <xs:attribute ref="wsp:rsidSect" use="required" />
+    </xs:complexType>
+  </xs:element>
+  <xs:attribute name="h" type="xs:unsignedShort" />
+  <xs:attribute name="top" type="xs:unsignedShort" />
+  <xs:attribute name="bottom" type="xs:unsignedShort" />
+  <xs:attribute name="header" type="xs:unsignedShort" />
+  <xs:attribute name="footer" type="xs:unsignedShort" />
+  <xs:attribute name="gutter" type="xs:unsignedByte" />
+  <xs:attribute name="start" type="xs:unsignedByte" />
+  <xs:attribute name="line-pitch" type="xs:unsignedShort" />
+</xs:schema>
