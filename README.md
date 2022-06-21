@@ -11,7 +11,7 @@
   <li><a href="images/windows-8-winrt-win32-framework-stack.jpg">Windows 8 Operating System Architectural Stack</a></li>
   <li><a href="https://upload.wikimedia.org/wikipedia/commons/f/f2/Diagram_of_Mac_OS_X_architecture.svg">macOS Operating System Architectural Stack</a></li>
 </ul>
-<a href="docs/Autobiography/Autobiograpghy.docx">Autobiograpghy</a>
+<a href="docs/Autobiography/Autobiograpghy.pdf">Autobiograpghy</a>
 </br>
 <a href="https://www.deviantart.com/jdm7dv">Deviant Art</a>
 </br>
