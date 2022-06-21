@@ -1,11 +1,18 @@
 ﻿<?xml version="1.0" encoding="utf-8"?>
-<xs:schema xmlns:v="urn:schemas-microsoft-com:vml" xmlns:cx7="http://schemas.microsoft.com/office/drawing/2016/5/13/chartex" xmlns:wx="http://schemas.microsoft.com/office/word/2003/auxHint" xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex" xmlns:cx4="http://schemas.microsoft.com/office/drawing/2016/5/10/chartex" xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:wsp="http://schemas.microsoft.com/office/word/2003/wordml/sp2" xmlns:oel="http://schemas.microsoft.com/office/2019/extlst" xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex" xmlns:w="http://schemas.microsoft.com/office/word/2003/wordml" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:sl="http://schemas.microsoft.com/schemaLibrary/2003/core" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:cx8="http://schemas.microsoft.com/office/drawing/2016/5/14/chartex" xmlns:cx5="http://schemas.microsoft.com/office/drawing/2016/5/11/chartex" xmlns:aml="http://schemas.microsoft.com/aml/2001/core" xmlns:cx6="http://schemas.microsoft.com/office/drawing/2016/5/12/chartex" xmlns:cr="http://schemas.microsoft.com/office/comments/2020/reactions" xmlns:cx3="http://schemas.microsoft.com/office/drawing/2016/5/9/chartex" xmlns:cx2="http://schemas.microsoft.com/office/drawing/2015/10/21/chartex" xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882" xmlns:aink="http://schemas.microsoft.com/office/drawing/2016/ink" xmlns:am3d="http://schemas.microsoft.com/office/drawing/2017/model3d" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" attributeFormDefault="unqualified" elementFormDefault="qualified" targetNamespace="http://schemas.microsoft.com/office/word/2003/wordml" xmlns:xs="http://www.w3.org/2001/XMLSchema">
-  <xs:import namespace="http://www.w3.org/XML/1998/namespace" />
-  <xs:import namespace="urn:schemas-microsoft-com:office:office" />
-  <xs:import namespace="http://schemas.microsoft.com/office/word/2003/auxHint" />
-  <xs:import namespace="http://schemas.microsoft.com/office/word/2003/wordml/sp2" />
-  <xs:import namespace="urn:schemas-microsoft-com:vml" />
-  <xs:element name="wordDocument">
+<xs:schema xmlns:v="urn:schemas-microsoft-com:office:office:DocumentProperties" xmlns:cx7="http://schemas.microsoft.com/office/drawing/2016/5/13/chartex" xmlns:wx="http://schemas.microsoft.com/office/word/2003/auxHint" xmlns:cx="http://schemas.microsoft.com/office/drawing/2014/chartex" xmlns:cx4="http://schemas.microsoft.com/office/drawing/2016/5/10/chartex" xmlns:wpc="http://schemas.microsoft.com/office/word/2010/wordprocessingCanvas" xmlns:wsp="http://schemas.microsoft.com/office/word/2003/wordml/sp2" xmlns:oel="http://schemas.microsoft.com/office/2019/extlst" xmlns:cx1="http://schemas.microsoft.com/office/drawing/2015/9/8/chartex" xmlns:w="http://schemas.microsoft.com/office/word/2003/wordml" xmlns:w10="urn:schemas-microsoft-com:office:word" xmlns:o="urn:schemas-microsoft-com:office:office" xmlns:sl="http://schemas.microsoft.com/schemaLibrary/2003/core" xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006" xmlns:cx8="http://schemas.microsoft.com/office/drawing/2016/5/14/chartex" xmlns:cx5="http://schemas.microsoft.com/office/drawing/2016/5/11/chartex" xmlns:aml="http://schemas.microsoft.com/aml/2001/core" xmlns:cx6="http://schemas.microsoft.com/office/drawing/2016/5/12/chartex" xmlns:cr="http://schemas.microsoft.com/office/comments/2020/reactions" xmlns:cx3="http://schemas.microsoft.com/office/drawing/2016/5/9/chartex" xmlns:cx2="http://schemas.microsoft.com/office/drawing/2015/10/21/chartex" xmlns:dt="uuid:C2F41010-65B3-11d1-A29F-00AA00C14882" xmlns:aink="http://schemas.microsoft.com/office/drawing/2016/ink" xmlns:am3d="http://schemas.microsoft.com/office/drawing/2017/model3d" xmlns:wne="http://schemas.microsoft.com/office/word/2006/wordml" attributeFormDefault="unqualified" elementFormDefault="qualified" targetNamespace="http://schemas.microsoft.com/office/word/2003/wordml" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+  <xs:complexType name="DocumentIdentification">
+    <xs:sequence>
+      <xs:element name="Standard" type="xs:string" />
+      <xs:element name="TypeVersion" type="xs:string" />
+      <xs:element name="InstanceIdentifier" type="xs:string" />
+      <xs:element name="Type" type="xs:string" />
+      <xs:element name="MultipleType" type="xs:boolean" minOccurs="0" />
+      <xs:element name="CreationDateAndTime" type="xs:dateTime" />
+    </xs:sequence>
+  </xs:complexType>
+  <xs:element name="DocumentIdentification">
+  </xs:element>
+  <xs:element name="wordDocument" >
     <xs:complexType>
       <xs:sequence>
         <xs:element name="ignoreSubtree">
@@ -382,8 +389,8 @@
       <xs:attribute ref="w:ocxPresent" use="required" />
       <xs:attribute ref="xml:space" use="required" />
     </xs:complexType>
-  </xs:element>
-  <xs:attribute name="macrosPresent" type="xs:string" />
+  </xs:element >
+<xs:attribute name="macrosPresent" type="xs:string" />
   <xs:attribute name="embeddedObjPresent" type="xs:string" />
   <xs:attribute name="ocxPresent" type="xs:string" />
   <xs:attribute name="val" type="xs:string" />
