@@ -17,7 +17,7 @@
 </br>
 <a href="https://www.goodreads.com/user/show/72426002-jonathan-moore">Goodreads</a>
 </br>
-<a href="docs/Software.docx">Software</a>
+<a href="docs/Software/Software.docx">Software</a>
 </br>
 <a href="docs/FavoriteEntertainment.docx">Favorite Entertainment</a>
 </br>
