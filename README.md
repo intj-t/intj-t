@@ -32,7 +32,7 @@
 </br>
 <a href="docs/Software/Software.docx">Software</a>
 </br>
-<a href="docs/FavoriteEntertainment.pdf">Favorite Entertainment</a>
+<a href="docs/Entertainment/FavoriteEntertainment.pdf">Favorite Entertainment</a>
 </br>
 <a href="docs/Jonathan Chapman Moore FRSA.doc">Curriculum Vitae</a>
 </br>
