@@ -1,17 +1,16 @@
 ![Opensource](/images/windowsbanner.jpg)
 
-<!--<script src="js/jquery.min.js"></script>
-		<script src="js/jquery.poptrox.min.js"></script>
-		<script src="js/jquery.scrolly.min.js"></script>
-		<script src="js/jquery.scrollex.min.js"></script>
-		<script src="js/skel.min.js"></script>
-		<script src="js/init.js"></script>-->
-		
-			<link rel="stylesheet" type="text/css" href="css/skel.css" />
-			<link rel="stylesheet" type="text/css" href="css/style.css" />
-			<link rel="stylesheet" type="text/css" href="css/style-wide.css" />
-			<link rel="stylesheet" type="text/css" href="css/style-normal.css" />
-		
+---
+title: "Title"
+author: "Author"
+date: "DATE"
+output: 
+  html_document:
+     css: css/font-awesome.css
+     self_contained: no
+
+---
+<i class="fas fa-unicorn"></i>		
 <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/file-word.svg" width="50" height="50"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/deviantart.svg" width="50" height="50"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/goodreads.svg" width="50" height="50"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/windows.svg" width="50" height="50"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin.svg" width="50" height="50"><a href="" class="fas fa-unicorn"></a>
  <ul>
   <li><a href="https://upload.wikimedia.org/wikipedia/commons/c/cd/Unix_timeline.en.svg">UNIX Operating System Timeline</a></li>
