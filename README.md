@@ -23,7 +23,9 @@
 </br>
 <a href="https://www.linkedin.com/in/jdm7dv/">Linkedin</a>
 </br>
-<li><a href="" class="fas fa-unicorn"></a></li>
+### Views
+![](https://komarev.com/ghpvc/?username=jonathanchapmanmoore)
+<a href="" class="fas fa-unicorn"></a>
 		<!--<script src="js/jquery.min.js"></script>
 		<script src="js/jquery.poptrox.min.js"></script>
 		<script src="js/jquery.scrolly.min.js"></script>
@@ -36,5 +38,4 @@
 			<link rel="stylesheet" href="css/style-wide.css" />
 			<link rel="stylesheet" href="css/style-normal.css" />
 		</noscript>
-### Views
-![](https://komarev.com/ghpvc/?username=jonathanchapmanmoore)
+
