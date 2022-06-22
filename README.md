@@ -1,9 +1,7 @@
 ![Opensource](/images/windowsbanner.jpg)
 
 ### Hi there
-<!--<style type="text/css" rel="stylesheet">
-* { background-color: lightblue; }
-</style>-->
+
 <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/file-word.svg" width="50" height="50"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/deviantart.svg" width="50" height="50"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/goodreads.svg" width="50" height="50"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/windows.svg" width="50" height="50"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin.svg" width="50" height="50">
  <ul>
   <li><a href="https://upload.wikimedia.org/wikipedia/commons/c/cd/Unix_timeline.en.svg">UNIX Operating System Timeline</a></li>
@@ -24,7 +22,19 @@
 <a href="docs/Jonathan Chapman Moore FRSA.doc">Curriculum Vitae</a>
 </br>
 <a href="https://www.linkedin.com/in/jdm7dv/">Linkedin</a>
-
-
+</br>
+<li><a href="" class="fas fa-unicorn"></a></li>
+<script src="js/jquery.min.js"></script>
+		<script src="js/jquery.poptrox.min.js"></script>
+		<script src="js/jquery.scrolly.min.js"></script>
+		<script src="js/jquery.scrollex.min.js"></script>
+		<script src="js/skel.min.js"></script>
+		<script src="js/init.js"></script>
+		<noscript>
+			<link rel="stylesheet" href="css/skel.css" />
+			<link rel="stylesheet" href="css/style.css" />
+			<link rel="stylesheet" href="css/style-wide.css" />
+			<link rel="stylesheet" href="css/style-normal.css" />
+		</noscript>
 ### Views
 ![](https://komarev.com/ghpvc/?username=jonathanchapmanmoore)
