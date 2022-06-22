@@ -1,0 +1,64 @@
+﻿  Processing .\xslisapi2.idl
+  xslisapi2.idl
+  Processing C:\Program Files (x86)\Windows Kits\8.1\Include\um\oaidl.idl
+  oaidl.idl
+  Processing C:\Program Files (x86)\Windows Kits\8.1\Include\um\objidl.idl
+  objidl.idl
+  Processing C:\Program Files (x86)\Windows Kits\8.1\Include\um\unknwn.idl
+  unknwn.idl
+  Processing C:\Program Files (x86)\Windows Kits\8.1\Include\shared\wtypes.idl
+  wtypes.idl
+  Processing C:\Program Files (x86)\Windows Kits\8.1\Include\shared\wtypesbase.idl
+  wtypesbase.idl
+  Processing C:\Program Files (x86)\Windows Kits\8.1\Include\shared\basetsd.h
+  basetsd.h
+  Processing C:\Program Files (x86)\Windows Kits\8.1\Include\shared\guiddef.h
+  guiddef.h
+  Processing C:\Program Files (x86)\Windows Kits\8.1\Include\um\ocidl.idl
+  ocidl.idl
+  Processing C:\Program Files (x86)\Windows Kits\8.1\Include\um\oleidl.idl
+  oleidl.idl
+  Processing C:\Program Files (x86)\Windows Kits\8.1\Include\um\servprov.idl
+  servprov.idl
+  Processing C:\Program Files (x86)\Windows Kits\8.1\Include\um\urlmon.idl
+  urlmon.idl
+  Processing C:\Program Files (x86)\Windows Kits\8.1\Include\um\msxml.idl
+  msxml.idl
+  Processing C:\Program Files (x86)\Windows Kits\8.1\Include\um\oaidl.acf
+  oaidl.acf
+  Processing C:\Program Files (x86)\Windows Kits\8.1\Include\um\ocidl.acf
+  ocidl.acf
+  StdAfx.cpp
+  atlimpl.cpp is obsolete. Please remove it from your project.
+  ASPPreprocessor.cpp
+  charset.cpp
+  Global.cpp
+  hashtable.cpp
+  IISFilter.cpp
+  PIParse.cpp
+  PreProcessor.cpp
+  ProcessingStream.cpp
+  Utils.cpp
+  xmlcache.cpp
+  XMLServerDoc.cpp
+  xslisapi2.cpp
+  Generating Code...
+b:\program files\my compnay\websites\xslisapi2\source\preprocessor.cpp(419): warning C4700: uninitialized local variable 'psz' used
+.\xslisapi2.def : warning LNK4222: exported symbol 'DllCanUnloadNow' should not be assigned an ordinal
+.\xslisapi2.def : warning LNK4222: exported symbol 'DllGetClassObject' should not be assigned an ordinal
+.\xslisapi2.def : warning LNK4222: exported symbol 'DllRegisterServer' should not be assigned an ordinal
+.\xslisapi2.def : warning LNK4222: exported symbol 'DllUnregisterServer' should not be assigned an ordinal
+     Creating library .\Debug/xslisapi2.lib and object .\Debug/xslisapi2.exp
+  xslisapi2.vcxproj -> B:\Program Files\My Compnay\Websites\XSLISAPI2\Source\.\Debug\xslisapi2.dll
+  xslisapi2.vcxproj -> .\Debug/xslisapi2.pdb (Full PDB)
+  Performing registration
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Redirect.targets(65,5): error MSB3075: The command "if "%OS%"=="" goto NOTNT
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Redirect.targets(65,5): error MSB3075: if not "%OS%"=="Windows_NT" goto NOTNT
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Redirect.targets(65,5): error MSB3075: regsvr32 /s /c "B:\Program Files\My Compnay\Websites\XSLISAPI2\Source\.\Debug\xslisapi2.dll"
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Redirect.targets(65,5): error MSB3075: echo regsvr32 exec. time > ".\Debug\regsvr32.trg"
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Redirect.targets(65,5): error MSB3075: goto end
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Redirect.targets(65,5): error MSB3075: :NOTNT
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Redirect.targets(65,5): error MSB3075: echo Warning : Cannot register Unicode DLL on Windows 95
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Redirect.targets(65,5): error MSB3075: :end
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Redirect.targets(65,5): error MSB3075: 
+C:\Program Files (x86)\Microsoft Visual Studio\2017\Enterprise\Common7\IDE\VC\VCTargets\Microsoft.Cpp.Redirect.targets(65,5): error MSB3075: :VCEnd" exited with code 5. Please verify that you have sufficient rights to run this command.

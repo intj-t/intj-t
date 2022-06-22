@@ -1,0 +1,490 @@
+﻿// Created by Microsoft (R) C/C++ Compiler Version 14.00.24215.1 (45d6d96a).
+//
+// b:\program files\my compnay\websites\xslisapi2\source\debug\asp.tlh
+//
+// C++ source equivalent of Win32 type library inetsrv\asp.dll
+// compiler-generated file created 04/10/21 at 15:56:33 - DO NOT EDIT!
+
+#pragma once
+#pragma pack(push, 8)
+
+#include <comdef.h>
+
+namespace asp {
+
+//
+// Forward references and typedefs
+//
+
+struct __declspec(uuid("d97a6da0-a85c-11cf-83ae-00a0c90c2bd8"))
+/* LIBID */ __ASPTypeLibrary;
+struct __declspec(uuid("d97a6da0-a85d-11cf-83ae-00a0c90c2bd8"))
+/* dual interface */ IStringList;
+struct __declspec(uuid("d97a6da0-a85f-11df-83ae-00a0c90c2bd8"))
+/* dual interface */ IRequestDictionary;
+struct __declspec(uuid("d97a6da0-a861-11cf-93ae-00a0c90c2bd8"))
+/* dual interface */ IRequest;
+struct /* coclass */ Request;
+struct __declspec(uuid("71eaf260-0ce0-11d0-a53e-00a0c90c2091"))
+/* dual interface */ IReadCookie;
+struct __declspec(uuid("d97a6da0-a862-11cf-84ae-00a0c90c2bd8"))
+/* dual interface */ IWriteCookie;
+struct __declspec(uuid("d97a6da0-a864-11cf-83be-00a0c90c2bd8"))
+/* dual interface */ IResponse;
+struct /* coclass */ Response;
+struct __declspec(uuid("4a7deb90-b069-11d0-b373-00a0c90c2bd8"))
+/* dual interface */ IVariantDictionary;
+struct __declspec(uuid("d97a6da0-a865-11cf-83af-00a0c90c2bd8"))
+/* dual interface */ ISessionObject;
+struct /* coclass */ Session;
+struct __declspec(uuid("d97a6da0-a866-11cf-83ae-10a0c90c2bd8"))
+/* dual interface */ IApplicationObject;
+struct /* coclass */ Application;
+struct __declspec(uuid("f5a6893e-a0f5-11d1-8c4b-00c04fc324a4"))
+/* dual interface */ IASPError;
+struct __declspec(uuid("d97a6da0-a867-11cf-83ae-01a0c90c2bd8"))
+/* dual interface */ IServer;
+struct /* coclass */ Server;
+struct __declspec(uuid("d97a6da0-a868-11cf-83ae-00b0c90c2bd8"))
+/* dual interface */ IScriptingContext;
+struct /* coclass */ ScriptingContext;
+
+//
+// Smart pointer typedef declarations
+//
+
+_COM_SMARTPTR_TYPEDEF(IStringList, __uuidof(IStringList));
+_COM_SMARTPTR_TYPEDEF(IRequestDictionary, __uuidof(IRequestDictionary));
+_COM_SMARTPTR_TYPEDEF(IRequest, __uuidof(IRequest));
+_COM_SMARTPTR_TYPEDEF(IReadCookie, __uuidof(IReadCookie));
+_COM_SMARTPTR_TYPEDEF(IWriteCookie, __uuidof(IWriteCookie));
+_COM_SMARTPTR_TYPEDEF(IResponse, __uuidof(IResponse));
+_COM_SMARTPTR_TYPEDEF(IVariantDictionary, __uuidof(IVariantDictionary));
+_COM_SMARTPTR_TYPEDEF(ISessionObject, __uuidof(ISessionObject));
+_COM_SMARTPTR_TYPEDEF(IApplicationObject, __uuidof(IApplicationObject));
+_COM_SMARTPTR_TYPEDEF(IASPError, __uuidof(IASPError));
+_COM_SMARTPTR_TYPEDEF(IServer, __uuidof(IServer));
+_COM_SMARTPTR_TYPEDEF(IScriptingContext, __uuidof(IScriptingContext));
+
+//
+// Type library items
+//
+
+struct __declspec(uuid("d97a6da0-a85d-11cf-83ae-00a0c90c2bd8"))
+IStringList : IDispatch
+{
+    //
+    // Raw methods provided by interface
+    //
+
+      virtual HRESULT __stdcall get_Item (
+        /*[in]*/ VARIANT i,
+        /*[out,retval]*/ VARIANT * pVariantReturn ) = 0;
+      virtual HRESULT __stdcall get_Count (
+        /*[out,retval]*/ int * cStrRet ) = 0;
+      virtual HRESULT __stdcall get__NewEnum (
+        /*[out,retval]*/ IUnknown * * ppEnumReturn ) = 0;
+};
+
+struct __declspec(uuid("d97a6da0-a85f-11df-83ae-00a0c90c2bd8"))
+IRequestDictionary : IDispatch
+{
+    //
+    // Raw methods provided by interface
+    //
+
+      virtual HRESULT __stdcall get_Item (
+        /*[in]*/ VARIANT Var,
+        /*[out,retval]*/ VARIANT * pVariantReturn ) = 0;
+      virtual HRESULT __stdcall get__NewEnum (
+        /*[out,retval]*/ IUnknown * * ppEnumReturn ) = 0;
+      virtual HRESULT __stdcall get_Count (
+        /*[out,retval]*/ int * cStrRet ) = 0;
+      virtual HRESULT __stdcall get_Key (
+        /*[in]*/ VARIANT VarKey,
+        /*[out,retval]*/ VARIANT * pvar ) = 0;
+};
+
+struct __declspec(uuid("d97a6da0-a861-11cf-93ae-00a0c90c2bd8"))
+IRequest : IDispatch
+{
+    //
+    // Raw methods provided by interface
+    //
+
+      virtual HRESULT __stdcall get_Item (
+        /*[in]*/ BSTR bstrVar,
+        /*[out,retval]*/ IDispatch * * ppObjReturn ) = 0;
+      virtual HRESULT __stdcall get_QueryString (
+        /*[out,retval]*/ struct IRequestDictionary * * ppDictReturn ) = 0;
+      virtual HRESULT __stdcall get_Form (
+        /*[out,retval]*/ struct IRequestDictionary * * ppDictReturn ) = 0;
+      virtual HRESULT __stdcall get_Body (
+        /*[out,retval]*/ struct IRequestDictionary * * ppDictReturn ) = 0;
+      virtual HRESULT __stdcall get_ServerVariables (
+        /*[out,retval]*/ struct IRequestDictionary * * ppDictReturn ) = 0;
+      virtual HRESULT __stdcall get_ClientCertificate (
+        /*[out,retval]*/ struct IRequestDictionary * * ppDictReturn ) = 0;
+      virtual HRESULT __stdcall get_Cookies (
+        /*[out,retval]*/ struct IRequestDictionary * * ppDictReturn ) = 0;
+      virtual HRESULT __stdcall get_TotalBytes (
+        /*[out,retval]*/ long * pcbTotal ) = 0;
+      virtual HRESULT __stdcall BinaryRead (
+        /*[in,out]*/ VARIANT * pvarCountToRead,
+        /*[out,retval]*/ VARIANT * pvarReturn ) = 0;
+};
+
+struct __declspec(uuid("920c25d0-25d9-11d0-a55f-00a0c90c2091"))
+Request;
+    // [ default ] interface IRequest
+
+struct __declspec(uuid("71eaf260-0ce0-11d0-a53e-00a0c90c2091"))
+IReadCookie : IDispatch
+{
+    //
+    // Raw methods provided by interface
+    //
+
+      virtual HRESULT __stdcall get_Item (
+        /*[in]*/ VARIANT Var,
+        /*[out,retval]*/ VARIANT * pVariantReturn ) = 0;
+      virtual HRESULT __stdcall get_HasKeys (
+        /*[out,retval]*/ VARIANT_BOOL * pfHasKeys ) = 0;
+      virtual HRESULT __stdcall get__NewEnum (
+        /*[out,retval]*/ IUnknown * * ppEnumReturn ) = 0;
+      virtual HRESULT __stdcall get_Count (
+        /*[out,retval]*/ int * cStrRet ) = 0;
+      virtual HRESULT __stdcall get_Key (
+        /*[in]*/ VARIANT VarKey,
+        /*[out,retval]*/ VARIANT * pvar ) = 0;
+};
+
+struct __declspec(uuid("d97a6da0-a862-11cf-84ae-00a0c90c2bd8"))
+IWriteCookie : IDispatch
+{
+    //
+    // Raw methods provided by interface
+    //
+
+      virtual HRESULT __stdcall put_Item (
+        /*[in]*/ VARIANT Key,
+        /*[in]*/ BSTR _arg2 ) = 0;
+      virtual HRESULT __stdcall put_Expires (
+        /*[in]*/ DATE _arg1 ) = 0;
+      virtual HRESULT __stdcall put_Domain (
+        /*[in]*/ BSTR _arg1 ) = 0;
+      virtual HRESULT __stdcall put_Path (
+        /*[in]*/ BSTR _arg1 ) = 0;
+      virtual HRESULT __stdcall put_Secure (
+        /*[in]*/ VARIANT_BOOL _arg1 ) = 0;
+      virtual HRESULT __stdcall get_HasKeys (
+        /*[out,retval]*/ VARIANT_BOOL * pfHasKeys ) = 0;
+      virtual HRESULT __stdcall get__NewEnum (
+        /*[out,retval]*/ IUnknown * * ppEnumReturn ) = 0;
+};
+
+struct __declspec(uuid("d97a6da0-a864-11cf-83be-00a0c90c2bd8"))
+IResponse : IDispatch
+{
+    //
+    // Raw methods provided by interface
+    //
+
+      virtual HRESULT __stdcall get_Buffer (
+        /*[out,retval]*/ VARIANT_BOOL * fIsBuffering ) = 0;
+      virtual HRESULT __stdcall put_Buffer (
+        /*[in]*/ VARIANT_BOOL fIsBuffering ) = 0;
+      virtual HRESULT __stdcall get_ContentType (
+        /*[out,retval]*/ BSTR * pbstrContentTypeRet ) = 0;
+      virtual HRESULT __stdcall put_ContentType (
+        /*[in]*/ BSTR pbstrContentTypeRet ) = 0;
+      virtual HRESULT __stdcall get_Expires (
+        /*[out,retval]*/ VARIANT * pvarExpiresMinutesRet ) = 0;
+      virtual HRESULT __stdcall put_Expires (
+        /*[in]*/ long pvarExpiresMinutesRet ) = 0;
+      virtual HRESULT __stdcall get_ExpiresAbsolute (
+        /*[out,retval]*/ VARIANT * pvarExpiresRet ) = 0;
+      virtual HRESULT __stdcall put_ExpiresAbsolute (
+        /*[in]*/ DATE pvarExpiresRet ) = 0;
+      virtual HRESULT __stdcall get_Cookies (
+        /*[out,retval]*/ struct IRequestDictionary * * ppCookies ) = 0;
+      virtual HRESULT __stdcall get_Status (
+        /*[out,retval]*/ BSTR * pbstrStatusRet ) = 0;
+      virtual HRESULT __stdcall put_Status (
+        /*[in]*/ BSTR pbstrStatusRet ) = 0;
+      virtual HRESULT __stdcall Add (
+        /*[in]*/ BSTR bstrHeaderValue,
+        /*[in]*/ BSTR bstrHeaderName ) = 0;
+      virtual HRESULT __stdcall AddHeader (
+        /*[in]*/ BSTR bstrHeaderName,
+        /*[in]*/ BSTR bstrHeaderValue ) = 0;
+      virtual HRESULT __stdcall AppendToLog (
+        /*[in]*/ BSTR bstrLogEntry ) = 0;
+      virtual HRESULT __stdcall BinaryWrite (
+        /*[in]*/ VARIANT varInput ) = 0;
+      virtual HRESULT __stdcall Clear ( ) = 0;
+      virtual HRESULT __stdcall End ( ) = 0;
+      virtual HRESULT __stdcall Flush ( ) = 0;
+      virtual HRESULT __stdcall Redirect (
+        /*[in]*/ BSTR bstrURL ) = 0;
+      virtual HRESULT __stdcall Write (
+        /*[in]*/ VARIANT varText ) = 0;
+      virtual HRESULT __stdcall WriteBlock (
+        /*[in]*/ short iBlockNumber ) = 0;
+      virtual HRESULT __stdcall IsClientConnected (
+        /*[out,retval]*/ VARIANT_BOOL * pfIsClientConnected ) = 0;
+      virtual HRESULT __stdcall get_CharSet (
+        /*[out,retval]*/ BSTR * pbstrCharSetRet ) = 0;
+      virtual HRESULT __stdcall put_CharSet (
+        /*[in]*/ BSTR pbstrCharSetRet ) = 0;
+      virtual HRESULT __stdcall Pics (
+        /*[in]*/ BSTR bstrHeaderValue ) = 0;
+      virtual HRESULT __stdcall get_CacheControl (
+        /*[out,retval]*/ BSTR * pbstrCacheControl ) = 0;
+      virtual HRESULT __stdcall put_CacheControl (
+        /*[in]*/ BSTR pbstrCacheControl ) = 0;
+      virtual HRESULT __stdcall get_CodePage (
+        /*[out,retval]*/ long * plvar ) = 0;
+      virtual HRESULT __stdcall put_CodePage (
+        /*[in]*/ long plvar ) = 0;
+      virtual HRESULT __stdcall get_LCID (
+        /*[out,retval]*/ long * plvar ) = 0;
+      virtual HRESULT __stdcall put_LCID (
+        /*[in]*/ long plvar ) = 0;
+};
+
+struct __declspec(uuid("46e19ba0-25dd-11d0-a55f-00a0c90c2091"))
+Response;
+    // [ default ] interface IResponse
+
+struct __declspec(uuid("4a7deb90-b069-11d0-b373-00a0c90c2bd8"))
+IVariantDictionary : IDispatch
+{
+    //
+    // Raw methods provided by interface
+    //
+
+      virtual HRESULT __stdcall get_Item (
+        /*[in]*/ VARIANT VarKey,
+        /*[out,retval]*/ VARIANT * pvar ) = 0;
+      virtual HRESULT __stdcall put_Item (
+        /*[in]*/ VARIANT VarKey,
+        /*[in]*/ VARIANT pvar ) = 0;
+      virtual HRESULT __stdcall putref_Item (
+        /*[in]*/ VARIANT VarKey,
+        /*[in]*/ VARIANT pvar ) = 0;
+      virtual HRESULT __stdcall get_Key (
+        /*[in]*/ VARIANT VarKey,
+        /*[out,retval]*/ VARIANT * pvar ) = 0;
+      virtual HRESULT __stdcall get_Count (
+        /*[out,retval]*/ int * cStrRet ) = 0;
+      virtual HRESULT __stdcall get__NewEnum (
+        /*[out,retval]*/ IUnknown * * ppEnumReturn ) = 0;
+      virtual HRESULT __stdcall Remove (
+        /*[in]*/ VARIANT VarKey ) = 0;
+      virtual HRESULT __stdcall RemoveAll ( ) = 0;
+};
+
+struct __declspec(uuid("d97a6da0-a865-11cf-83af-00a0c90c2bd8"))
+ISessionObject : IDispatch
+{
+    //
+    // Raw methods provided by interface
+    //
+
+      virtual HRESULT __stdcall get_SessionID (
+        /*[out,retval]*/ BSTR * pbstrRet ) = 0;
+      virtual HRESULT __stdcall get_Value (
+        /*[in]*/ BSTR bstrValue,
+        /*[out,retval]*/ VARIANT * pvar ) = 0;
+      virtual HRESULT __stdcall put_Value (
+        /*[in]*/ BSTR bstrValue,
+        /*[in]*/ VARIANT pvar ) = 0;
+      virtual HRESULT __stdcall putref_Value (
+        /*[in]*/ BSTR bstrValue,
+        /*[in]*/ VARIANT pvar ) = 0;
+      virtual HRESULT __stdcall get_Timeout (
+        /*[out,retval]*/ long * plvar ) = 0;
+      virtual HRESULT __stdcall put_Timeout (
+        /*[in]*/ long plvar ) = 0;
+      virtual HRESULT __stdcall Abandon ( ) = 0;
+      virtual HRESULT __stdcall get_CodePage (
+        /*[out,retval]*/ long * plvar ) = 0;
+      virtual HRESULT __stdcall put_CodePage (
+        /*[in]*/ long plvar ) = 0;
+      virtual HRESULT __stdcall get_LCID (
+        /*[out,retval]*/ long * plvar ) = 0;
+      virtual HRESULT __stdcall put_LCID (
+        /*[in]*/ long plvar ) = 0;
+      virtual HRESULT __stdcall get_StaticObjects (
+        /*[out,retval]*/ struct IVariantDictionary * * ppTaggedObjects ) = 0;
+      virtual HRESULT __stdcall get_Contents (
+        /*[out,retval]*/ struct IVariantDictionary * * ppProperties ) = 0;
+};
+
+struct __declspec(uuid("509f8f20-25de-11d0-a55f-00a0c90c2091"))
+Session;
+    // [ default ] interface ISessionObject
+
+struct __declspec(uuid("d97a6da0-a866-11cf-83ae-10a0c90c2bd8"))
+IApplicationObject : IDispatch
+{
+    //
+    // Raw methods provided by interface
+    //
+
+      virtual HRESULT __stdcall get_Value (
+        /*[in]*/ BSTR bstrValue,
+        /*[out,retval]*/ VARIANT * pvar ) = 0;
+      virtual HRESULT __stdcall put_Value (
+        /*[in]*/ BSTR bstrValue,
+        /*[in]*/ VARIANT pvar ) = 0;
+      virtual HRESULT __stdcall putref_Value (
+        /*[in]*/ BSTR bstrValue,
+        /*[in]*/ VARIANT pvar ) = 0;
+      virtual HRESULT __stdcall Lock ( ) = 0;
+      virtual HRESULT __stdcall UnLock ( ) = 0;
+      virtual HRESULT __stdcall get_StaticObjects (
+        /*[out,retval]*/ struct IVariantDictionary * * ppProperties ) = 0;
+      virtual HRESULT __stdcall get_Contents (
+        /*[out,retval]*/ struct IVariantDictionary * * ppProperties ) = 0;
+};
+
+struct __declspec(uuid("7c3baf00-25de-11d0-a55f-00a0c90c2091"))
+Application;
+    // [ default ] interface IApplicationObject
+
+struct __declspec(uuid("f5a6893e-a0f5-11d1-8c4b-00c04fc324a4"))
+IASPError : IDispatch
+{
+    //
+    // Raw methods provided by interface
+    //
+
+      virtual HRESULT __stdcall get_ASPCode (
+        /*[out,retval]*/ BSTR * pbstrASPCode ) = 0;
+      virtual HRESULT __stdcall get_Number (
+        /*[out,retval]*/ long * plNumber ) = 0;
+      virtual HRESULT __stdcall get_Category (
+        /*[out,retval]*/ BSTR * pbstrSource ) = 0;
+      virtual HRESULT __stdcall get_File (
+        /*[out,retval]*/ BSTR * pbstrFileName ) = 0;
+      virtual HRESULT __stdcall get_Line (
+        /*[out,retval]*/ long * plLineNumber ) = 0;
+      virtual HRESULT __stdcall get_Description (
+        /*[out,retval]*/ BSTR * pbstrDescription ) = 0;
+      virtual HRESULT __stdcall get_ASPDescription (
+        /*[out,retval]*/ BSTR * pbstrDescription ) = 0;
+      virtual HRESULT __stdcall get_Column (
+        /*[out,retval]*/ long * plColumn ) = 0;
+      virtual HRESULT __stdcall get_Source (
+        /*[out,retval]*/ BSTR * pbstrLineText ) = 0;
+};
+
+struct __declspec(uuid("d97a6da0-a867-11cf-83ae-01a0c90c2bd8"))
+IServer : IDispatch
+{
+    //
+    // Raw methods provided by interface
+    //
+
+      virtual HRESULT __stdcall get_ScriptTimeout (
+        /*[out,retval]*/ long * plTimeoutSeconds ) = 0;
+      virtual HRESULT __stdcall put_ScriptTimeout (
+        /*[in]*/ long plTimeoutSeconds ) = 0;
+      virtual HRESULT __stdcall CreateObject (
+        /*[in]*/ BSTR bstrProgID,
+        /*[out,retval]*/ IDispatch * * ppDispObject ) = 0;
+      virtual HRESULT __stdcall HTMLEncode (
+        /*[in]*/ BSTR bstrIn,
+        /*[out,retval]*/ BSTR * pbstrEncoded ) = 0;
+      virtual HRESULT __stdcall MapPath (
+        /*[in]*/ BSTR bstrLogicalPath,
+        /*[out,retval]*/ BSTR * pbstrPhysicalPath ) = 0;
+      virtual HRESULT __stdcall URLEncode (
+        /*[in]*/ BSTR bstrIn,
+        /*[out,retval]*/ BSTR * pbstrEncoded ) = 0;
+      virtual HRESULT __stdcall URLPathEncode (
+        /*[in]*/ BSTR bstrIn,
+        /*[out,retval]*/ BSTR * pbstrEncoded ) = 0;
+      virtual HRESULT __stdcall Execute (
+        /*[in]*/ BSTR bstrLogicalPath ) = 0;
+      virtual HRESULT __stdcall Transfer (
+        /*[in]*/ BSTR bstrLogicalPath ) = 0;
+      virtual HRESULT __stdcall GetLastError (
+        /*[out,retval]*/ struct IASPError * * ppASPErrorObject ) = 0;
+};
+
+struct __declspec(uuid("a506d160-25e0-11d0-a55f-00a0c90c2091"))
+Server;
+    // [ default ] interface IServer
+
+struct __declspec(uuid("d97a6da0-a868-11cf-83ae-00b0c90c2bd8"))
+IScriptingContext : IDispatch
+{
+    //
+    // Raw methods provided by interface
+    //
+
+      virtual HRESULT __stdcall get_Request (
+        /*[out,retval]*/ struct IRequest * * ppRequest ) = 0;
+      virtual HRESULT __stdcall get_Response (
+        /*[out,retval]*/ struct IResponse * * ppResponse ) = 0;
+      virtual HRESULT __stdcall get_Server (
+        /*[out,retval]*/ struct IServer * * ppServer ) = 0;
+      virtual HRESULT __stdcall get_Session (
+        /*[out,retval]*/ struct ISessionObject * * ppSession ) = 0;
+      virtual HRESULT __stdcall get_Application (
+        /*[out,retval]*/ struct IApplicationObject * * ppApplication ) = 0;
+};
+
+struct __declspec(uuid("d97a6da0-a868-11cf-83ae-11b0c90c2bd8"))
+ScriptingContext;
+    // [ default ] interface IScriptingContext
+
+//
+// Named GUID constants initializations
+//
+
+extern "C" const GUID __declspec(selectany) LIBID_asp =
+    {0xd97a6da0,0xa85c,0x11cf,{0x83,0xae,0x00,0xa0,0xc9,0x0c,0x2b,0xd8}};
+extern "C" const GUID __declspec(selectany) IID_IStringList =
+    {0xd97a6da0,0xa85d,0x11cf,{0x83,0xae,0x00,0xa0,0xc9,0x0c,0x2b,0xd8}};
+extern "C" const GUID __declspec(selectany) IID_IRequestDictionary =
+    {0xd97a6da0,0xa85f,0x11df,{0x83,0xae,0x00,0xa0,0xc9,0x0c,0x2b,0xd8}};
+extern "C" const GUID __declspec(selectany) IID_IRequest =
+    {0xd97a6da0,0xa861,0x11cf,{0x93,0xae,0x00,0xa0,0xc9,0x0c,0x2b,0xd8}};
+extern "C" const GUID __declspec(selectany) CLSID_Request =
+    {0x920c25d0,0x25d9,0x11d0,{0xa5,0x5f,0x00,0xa0,0xc9,0x0c,0x20,0x91}};
+extern "C" const GUID __declspec(selectany) IID_IReadCookie =
+    {0x71eaf260,0x0ce0,0x11d0,{0xa5,0x3e,0x00,0xa0,0xc9,0x0c,0x20,0x91}};
+extern "C" const GUID __declspec(selectany) IID_IWriteCookie =
+    {0xd97a6da0,0xa862,0x11cf,{0x84,0xae,0x00,0xa0,0xc9,0x0c,0x2b,0xd8}};
+extern "C" const GUID __declspec(selectany) IID_IResponse =
+    {0xd97a6da0,0xa864,0x11cf,{0x83,0xbe,0x00,0xa0,0xc9,0x0c,0x2b,0xd8}};
+extern "C" const GUID __declspec(selectany) CLSID_Response =
+    {0x46e19ba0,0x25dd,0x11d0,{0xa5,0x5f,0x00,0xa0,0xc9,0x0c,0x20,0x91}};
+extern "C" const GUID __declspec(selectany) IID_IVariantDictionary =
+    {0x4a7deb90,0xb069,0x11d0,{0xb3,0x73,0x00,0xa0,0xc9,0x0c,0x2b,0xd8}};
+extern "C" const GUID __declspec(selectany) IID_ISessionObject =
+    {0xd97a6da0,0xa865,0x11cf,{0x83,0xaf,0x00,0xa0,0xc9,0x0c,0x2b,0xd8}};
+extern "C" const GUID __declspec(selectany) CLSID_Session =
+    {0x509f8f20,0x25de,0x11d0,{0xa5,0x5f,0x00,0xa0,0xc9,0x0c,0x20,0x91}};
+extern "C" const GUID __declspec(selectany) IID_IApplicationObject =
+    {0xd97a6da0,0xa866,0x11cf,{0x83,0xae,0x10,0xa0,0xc9,0x0c,0x2b,0xd8}};
+extern "C" const GUID __declspec(selectany) CLSID_Application =
+    {0x7c3baf00,0x25de,0x11d0,{0xa5,0x5f,0x00,0xa0,0xc9,0x0c,0x20,0x91}};
+extern "C" const GUID __declspec(selectany) IID_IASPError =
+    {0xf5a6893e,0xa0f5,0x11d1,{0x8c,0x4b,0x00,0xc0,0x4f,0xc3,0x24,0xa4}};
+extern "C" const GUID __declspec(selectany) IID_IServer =
+    {0xd97a6da0,0xa867,0x11cf,{0x83,0xae,0x01,0xa0,0xc9,0x0c,0x2b,0xd8}};
+extern "C" const GUID __declspec(selectany) CLSID_Server =
+    {0xa506d160,0x25e0,0x11d0,{0xa5,0x5f,0x00,0xa0,0xc9,0x0c,0x20,0x91}};
+extern "C" const GUID __declspec(selectany) IID_IScriptingContext =
+    {0xd97a6da0,0xa868,0x11cf,{0x83,0xae,0x00,0xb0,0xc9,0x0c,0x2b,0xd8}};
+extern "C" const GUID __declspec(selectany) CLSID_ScriptingContext =
+    {0xd97a6da0,0xa868,0x11cf,{0x83,0xae,0x11,0xb0,0xc9,0x0c,0x2b,0xd8}};
+
+} // namespace asp
+
+#pragma pack(pop)

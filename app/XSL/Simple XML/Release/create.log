@@ -1,0 +1,6 @@
+﻿  create.cpp
+b:\program files\my compnay\websites\xsl\simple xml\create.cpp(10): warning C4192: automatically excluding 'ISequentialStream' while importing type library 'msxml6.dll'
+b:\program files\my compnay\websites\xsl\simple xml\create.cpp(10): warning C4192: automatically excluding '_FILETIME' while importing type library 'msxml6.dll'
+b:\program files\my compnay\websites\xsl\simple xml\create.cpp(23): error C2039: 'DOMDocument': is not a member of 'xml'
+  b:\program files\my compnay\websites\xsl\simple xml\release\msxml6.tlh(13): note: see declaration of 'xml'
+b:\program files\my compnay\websites\xsl\simple xml\create.cpp(41): warning C4477: 'printf' : format string '%S' requires an argument of type 'wchar_t *', but variadic argument 2 has type '_bstr_t'
