@@ -1,5 +1,5 @@
 ![Opensource](/images/windowsbanner.jpg)
-<meta name="viewport" content="width=device-width, initial-scale=1">
+<!--<meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="github-markdown.css">
 <link rel="stylesheet" href="css/fontawesome.min.css" />			
 <style>
@@ -16,7 +16,7 @@
 			padding: 15px;
 		}
 	}
-</style>		
+</style>-->		
 <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/file-word.svg" width="50" height="50"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/deviantart.svg" width="50" height="50"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/goodreads.svg" width="50" height="50"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/windows.svg" width="50" height="50"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin.svg" width="50" height="50"><a href="" class="fas fa-unicorn"></a>
  <ul>
   <li><a href="https://upload.wikimedia.org/wikipedia/commons/c/cd/Unix_timeline.en.svg">UNIX Operating System Timeline</a></li>
