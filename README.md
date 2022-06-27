@@ -39,7 +39,7 @@ In a Windows XP Virtual Machine
 	<li>6. type 'path tools\sp;%path%'</li>
 	<li>7. type 'tools\checktestroot.cmd and checktestca.cmd'</li>
 	<li>8. type 'perl tools\timebuild.pl -NOCLEANBUILD -NOSYNC -NOSCORCH'</li>
-	<li>9. type 'BUILD /ZP' after you fixs errors</li>
+	<li>9. type 'BUILD /ZP' after you fix errors</li>
 	<li>10. If you need to use 'expand' to C:\binaries.x86fre from a retial DVD.</li>
 </ul>
 
