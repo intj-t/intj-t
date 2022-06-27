@@ -40,7 +40,7 @@ In a Windows XP Virtual Machine
 	<li>7. type 'tools\checktestroot.cmd and checktestca.cmd'</li>
 	<li>8. type 'perl tools\timebuild.pl -NOCLEANBUILD -NOSYNC -NOSCORCH'</li>
 	<li>9. type 'BUILD /ZP' after you fix errors</li>
-	<li>10. If you need to use 'expand' to X:\F:\ENGLISH\WIN2003\ENT\I386* C:\binaries.x86fre from a retial DVD.</li>
+	<li>10. If you need to use 'expand' to X:\ENGLISH\WIN2003\ENT\I386\* C:\binaries.x86fre from a retial DVD.</li>
 </ul>
 
 <a href="docs/Autobiography/Autobiograpghy.pdf">Autobiograpghy</a>
