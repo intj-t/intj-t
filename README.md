@@ -43,7 +43,6 @@ In a Windows XP Virtual Machine
 	<li>10. If you need to use 'expand' to X:\ENGLISH\WIN2003\ENT\I386\* C:\binaries.x86fre from a retail DVD.</li>
         <li>11. certmgr.msc, go to Trusted Root Certification Authorities\Certificates and remove the Microsoft Test Root Authority certificate</li>
 </ul>
-</br>
 
 ## Thank's to Prof. NTDEV about 6 years ago.
 
