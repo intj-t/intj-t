@@ -25,6 +25,24 @@
   <li><a href="images/windows-8-winrt-win32-framework-stack.jpg">Windows 8 Operating System Architectural Stack</a></li>
   <li><a href="https://upload.wikimedia.org/wikipedia/commons/f/f2/Diagram_of_Mac_OS_X_architecture.svg">macOS Operating System Architectural Stack</a></li>  
 </ul>
+
+### How to build Windows Server 2003 SP1
+
+In a Windows XP Virtual Machine
+
+<ul>
+	<li>1. Set the date to August 1st 2003 by typing 'date' in the cmd window</li>
+	<li>2. Make sure the files are not read only.</li>
+	<li>3. Install the 2003 SP1 driver certificate.</li>
+	<li>4. chdir to the 2003 root as admin.</li>
+	<li>5. type 'tools\razzle free offline'</li>
+	<li>6. type 'path tools\sp;%path%'</li>
+	<li>7. type 'tools\checktestroot.cmd and checktestca.cmd'</li>
+	<li>8. type 'perl tools\timebuild.pl -NOCLEANBUILD -NOSYNC -NOSCORCH'</li>
+	<li>9. type 'BUILD /ZP' after you fixs errors</li>
+	<li>10. If you need to use 'expand' to C:\binaries.x86fre from a retial DVD.</li>
+</ul>
+
 <a href="docs/Autobiography/Autobiograpghy.pdf">Autobiograpghy</a>
 </br>
 <a href="https://www.deviantart.com/jdm7dv">Deviant Art</a>
