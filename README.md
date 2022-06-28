@@ -44,7 +44,7 @@ In a Windows XP Virtual Machine
         <li>11. certmgr.msc, go to Trusted Root Certification Authorities\Certificates and remove the Microsoft Test Root Authority certificate, Sign out and Sign in again.</li>
 </ul>
 
-### Thank's to Prof. from UVa about 8 years ago.
+### Thank's to Prof. from UVa about 8 years ago. Microsoft Windows XP is in Visual Studio 2019 support until 2028
 
 ### Money
 
