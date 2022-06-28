@@ -48,7 +48,7 @@ In a Windows XP Virtual Machine
 
 ### Money
 
-I have a lot is unrealized capital gains from Microsoft and Macromedia because I was a shareholder using COCOMO II, options, and accounts receivable. Used IRS Section 1202 (a 10M tax free capital gain eclusion)n turbo tax for a 1M capital return might strast a Trust Co. and cash out shares.
+I have a lot is unrealized capital gains from Microsoft and Macromedia because I was a shareholder using COCOMO II, options, and accounts receivable. Used IRS Section 1202 (a 10M tax free capital gain eclusion)in turbo tax for a 1M capital return might start a Trust Co. and cash out shares. Also good for capital spending.
 
 <a href="docs/Autobiography/Autobiograpghy.pdf">Autobiograpghy</a>
 </br>
