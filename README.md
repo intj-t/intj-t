@@ -45,6 +45,9 @@ In a Windows XP Virtual Machine
 </ul>
 
 ### Thank's to Prof. from UVa about 8 years ago. Microsoft Windows XP is in Visual Studio 2019 support until 2028
+<ul>
+  <li><a href="https://web.archive.org/web/20010418220512/http://research.microsoft.com/programs/NTSrcLicInfo.asp">Web Archive</a></li>
+</ul>
 
 ### Money
 
