@@ -23,7 +23,7 @@
   <li><a href="https://upload.wikimedia.org/wikipedia/commons/7/74/Timeline_of_web_browsers.svg">Web Browser Timeline</a></li>
   <li><a href="https://upload.wikimedia.org/wikipedia/commons/0/08/Openvms-system-architecture.svg">OpenVMS Operating System Architectural Stack</a></li>
   <li><a href="images/windows-8-winrt-win32-framework-stack.jpg">Windows 8 Operating System Architectural Stack</a></li>
-  <li><a href="https://upload.wikimedia.org/wikipedia/commons/f/f2/Diagram_of_Mac_OS_X_architecture.svg">macOS Operating System Architectural Stack</a></li>  
+  <li><a href="https://upload.wikimedia.org/wikipedia/commons/f/f2/Diagram_of_Mac_OS_X_architecture.svg">macOS Operating System Architectural Stack</a></li>   
 </ul>
 
 ### How to build Windows Server 2003 SP1
@@ -59,7 +59,7 @@ I have a lot is unrealized capital gains from Microsoft and Macromedia because I
 </br>
 <a href="https://www.goodreads.com/user/show/72426002-jonathan-moore">Goodreads</a>
 </br>
-<a href="docs/Software/Software.pdf">Software</a>
+<!--<a href="docs/Software/Software.pdf">Software</a>-->
 </br>
 <a href="docs/Entertainment/FavoriteEntertainment.pdf">Favorite Entertainment</a>
 </br>
