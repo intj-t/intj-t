@@ -60,8 +60,8 @@ I have a lot is unrealized capital gains from Microsoft and Macromedia because I
 <a href="https://www.goodreads.com/user/show/72426002-jonathan-moore">Goodreads</a>
 </br>
 <!--<a href="docs/Software/Software.pdf">Software</a>
-</br>
-<a href="docs/Entertainment/FavoriteEntertainment.pdf">Favorite Entertainment</a>
+</br>-->
+<!--<a href="docs/Entertainment/FavoriteEntertainment.pdf">Favorite Entertainment</a>
 </br>-->
 <a href="docs/Jonathan Chapman Moore FRSA.doc">Curriculum Vitae</a>
 </br>
