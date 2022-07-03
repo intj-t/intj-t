@@ -58,10 +58,7 @@ I have a lot is unrealized capital gains from Microsoft and Macromedia because I
 <a href="https://www.deviantart.com/jdm7dv">Deviant Art</a>
 </br>
 <a href="https://www.goodreads.com/user/show/72426002-jonathan-moore">Goodreads</a>
-<!--<a href="docs/Software/Software.pdf">Software</a>
-</br>-->
-<!--<a href="docs/Entertainment/FavoriteEntertainment.pdf">Favorite Entertainment</a>
-</br>-->
+</br>
 <a href="docs/Jonathan Chapman Moore FRSA.doc">Curriculum Vitae</a>
 </br>
 <a href="https://www.linkedin.com/in/jdm7dv/">Linkedin</a>
