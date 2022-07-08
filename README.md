@@ -41,7 +41,7 @@ In a Windows XP Virtual Machine
 	<li>7. type 'tools\checktestroot.cmd and checktestca.cmd'</li>
 	<li>8. type 'perl tools\timebuild.pl -NOCLEANBUILD -NOSYNC -NOSCORCH'</li>
 	<li>9. type 'BUILD /ZP' after you fix errors</li>
-	<li>10. If you need to use 'expand' to X:\ENGLISH\WIN2003\ENT\I386\* C:\binaries.x86fre from a retail DVD.</li>
+	<li>10. If you need to use 'expand /r' to X:\ENGLISH\WIN2003\ENT\I386\* C:\binaries.x86fre from a retail DVD.</li>
         <li>11. certmgr.msc, go to Trusted Root Certification Authorities\Certificates and remove the Microsoft Test Root Authority certificate, Sign out and Sign in again.</li>
 </ul>
 
