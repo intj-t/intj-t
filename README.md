@@ -44,6 +44,7 @@
 <li><a href="docs/Authenticity and Immortality in favor of heritage preservation.pdf">Authenticity and Immortality in favor of heritage preservation</a></li>
 <li><a href="https://www.worldbank.org/en/region/mena/brief/coping-with-a-dual-shock-coronavirus-covid-19-and-oil-prices">Coping with a Dual Shock: COVID-19 and Oil Prices</a></li>
 <li><a href="docs/Human_Relation_Technological_Nature.pdf">The Human Relation With Nature and Technological Nature</a></li>
+<li><a href="https://www.darpa.mil/news-events/2015-04-08">DARPA Seeks to Create Software Systems That Could Last 100 Years</a></li>
 </ul>
 
 ### How to build Windows Server 2003 SP1
