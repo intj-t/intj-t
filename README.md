@@ -36,8 +36,8 @@
   <li><a href="https://venturebeat.com/business/a-bright-future-for-moores-law/">Bright Future for Moore's Law</a></li>
   <li><a href="https://www.realmofhistory.com/2019/05/07/moors-history-al-andalus-military/">Moors Eygpt Binary and the First Computer Scientists</a></li>
   <li><a href="https://www.scientificamerican.com/article/quantum-theory-fails-reality/">Quantum Theory Fails Reality Checks</a></li>
-  <li><a href="https://www.forbes.com/sites/startswithabang/2015/12/23/why-string-theory-is-not-science/?sh=2ea40a166524"></a>Why String Theory Is Not Science</a></li>
-  <li><a href="https://www.forbes.com/sites/johngreathouse/2015/03/23/pull-a-bill-gates-dont-let-your-company-drown-in-cash/?sh=1937c094556c"></a>How to Pull a Bull Gates and Not Let Your Company Drown In Cash</a></li>
+  <li><a href="https://www.forbes.com/sites/startswithabang/2015/12/23/why-string-theory-is-not-science/?sh=2ea40a166524">Why String Theory Is Not Science</a></li>
+  <li><a href="https://www.forbes.com/sites/johngreathouse/2015/03/23/pull-a-bill-gates-dont-let-your-company-drown-in-cash/?sh=1937c094556c">How to Pull a Bull Gates and Not Let Your Company Drown In Cash</a></li>
 </ul>
 
 ### How to build Windows Server 2003 SP1
