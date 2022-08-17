@@ -28,6 +28,7 @@
   <li><a href="images/microsoft-azure-stack-block-diagram.jpg">Microsoft Azure Architectural Stack</a></li> 
   <li><a href="https://observer.com/2016/11/i-cant-just-stand-by-and-watch-mark-zuckerberg-destroy-the-internet/">I Can’t Just Stand by and Watch Mark Zuckerberg Destroy the Internet</a></li> 
   <li><a href="https://web.archive.org/web/20060509003149/http://forums.microsoft.com/MSDN/default.aspx?forumgroupid=12&siteid=1">2004 MSDN Fourms</a></li> 
+  <li><a href="images/292631430_1200722554055628_5188621218388721544_n.jpg">College Pychosis Reasessment</a></li>
 </ul>
 
 ### How to build Windows Server 2003 SP1
