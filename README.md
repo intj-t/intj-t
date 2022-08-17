@@ -1,4 +1,4 @@
-![Opensource](/images/windowsbanner.jpg)
+﻿![Opensource](/images/windowsbanner.jpg)
 <!--<meta name="viewport" content="width=device-width, initial-scale=1">
 <link rel="stylesheet" href="github-markdown.css">
 <link rel="stylesheet" href="css/fontawesome.min.css" />			
@@ -43,6 +43,7 @@
 <li><a href="https://www.sciencedirect.com/topics/computer-science/heterogeneous-computing-system">Heterogeneous Computing System</a></li>
 <li><a href="docs/Authenticity and Immortality in favor of heritage preservation.pdf">Authenticity and Immortality in favor of heritage preservation</a></li>
 <li><a href="https://www.worldbank.org/en/region/mena/brief/coping-with-a-dual-shock-coronavirus-covid-19-and-oil-prices">Coping with a Dual Shock: COVID-19 and Oil Prices</a></li>
+<li><a href="docs/Human_Relation_Technological_Nature.pdf">The Human Relation With Nature and Technological Nature</a></li>
 </ul>
 
 ### How to build Windows Server 2003 SP1
