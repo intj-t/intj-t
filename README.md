@@ -34,7 +34,8 @@
   <li><a href="images/299133945_1225665898227960_6416006194774071833_n.jpg">Both of My Parents are Jewish and I am a Royal Society of the Arts Fellow</a></li>
   <li><a href="images/296149884_1212393462888537_8512731386760165248_n.jpg">Ecology and the Jewish Spirit Where Nature and the Sacred Met</a></li>
   <li><a href="https://venturebeat.com/business/a-bright-future-for-moores-law/">Bright Future for Moore's Law</a></li>
-<li><a href="https://www.realmofhistory.com/2019/05/07/moors-history-al-andalus-military/">Moors Eygpt Binary and the First Computer Scientists</a></li>
+  <li><a href="https://www.realmofhistory.com/2019/05/07/moors-history-al-andalus-military/">Moors Eygpt Binary and the First Computer Scientists</a></li>
+  <li><a href="https://www.scientificamerican.com/article/quantum-theory-fails-reality/">Quantum Theory Fails Reality Checks</a></li>
 </ul>
 
 ### How to build Windows Server 2003 SP1
