@@ -30,6 +30,7 @@
   <li><a href="https://web.archive.org/web/20060509003149/http://forums.microsoft.com/MSDN/default.aspx?forumgroupid=12&siteid=1">2004 MSDN Fourms</a></li>
   <li><a href="images/280663288_1159870861474131_3652274887897931303_n.jpg">Letter of Recommendation from Bill Gates to Me.</a></li>  
   <li><a href="images/292631430_1200722554055628_5188621218388721544_n.jpg">College Pychosis Reasessment</a></li>
+  <li><a href="https://www.theguardian.com/global-development/2016/sep/28/destruction-of-heritage-weapon-of-war-timbuktu-shrines-irina-bokova">Destruction of Cultrual Heritage Now A War Crime/a></li>
 </ul>
 
 ### How to build Windows Server 2003 SP1
