@@ -41,6 +41,7 @@
 <li><a href="https://www.nature.com/articles/ng949z">New genes involved in cancer identified by retroviral tagging</a></li>
 <li><a href="https://www.jstor.org/stable/25071523">Competition in Consumption as Viewed by Jewish Law</a></li>
 <li><a href="https://www.sciencedirect.com/topics/computer-science/heterogeneous-computing-system">Heterogeneous Computing System</a></li>
+<li><a href="docs/Authenticity and Immortality in favor of heritage preservation.pdf">Authenticity and Immortality in favor of heritage preservation</a></li>
 </ul>
 
 ### How to build Windows Server 2003 SP1
