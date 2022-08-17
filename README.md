@@ -28,7 +28,7 @@
   <li><a href="images/microsoft-azure-stack-block-diagram.jpg">Microsoft Azure Architectural Stack</a></li> 
   <li><a href="https://observer.com/2016/11/i-cant-just-stand-by-and-watch-mark-zuckerberg-destroy-the-internet/">I Can’t Just Stand by and Watch Mark Zuckerberg Destroy the Internet</a></li> 
   <li><a href="https://web.archive.org/web/20060509003149/http://forums.microsoft.com/MSDN/default.aspx?forumgroupid=12&siteid=1">2004 MSDN Fourms</a></li>
-  <li><a href="images/280663288_1159870861474131_3652274887897931303_n.jpg">Letter of Recommendation from Bill Gates to Me.</a></li>  
+  <li><a href="images/280663288_1159870861474131_3652274887897931303_n.jpg">Letters of Recommendation from Bill Gates to Me.</a></li>  
   <li><a href="images/292631430_1200722554055628_5188621218388721544_n.jpg">College Pychosis Reasessment</a></li>
   <li><a href="https://www.theguardian.com/global-development/2016/sep/28/destruction-of-heritage-weapon-of-war-timbuktu-shrines-irina-bokova">Destruction of Cultrual Heritage Now A War Crime</a></li>
   <li><a href="images/299133945_1225665898227960_6416006194774071833_n.jpg">Both of My Parents are Jewish and I am a Royal Society of the Arts Fellow</a></li>
