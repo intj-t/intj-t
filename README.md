@@ -40,6 +40,7 @@
   <li><a href="https://www.forbes.com/sites/johngreathouse/2015/03/23/pull-a-bill-gates-dont-let-your-company-drown-in-cash/?sh=1937c094556c">How to Pull a Bull Gates and Not Let Your Company Drown In Cash</a></li>
 <li><a href="https://www.nature.com/articles/ng949z">New genes involved in cancer identified by retroviral tagging</a></li>
 <li><a href="https://www.jstor.org/stable/25071523">Competition in Consumption as Viewed by Jewish Law</a></li>
+<li><a href="https://www.sciencedirect.com/topics/computer-science/heterogeneous-computing-system">Heterogeneous Computing System</a></li>
 </ul>
 
 ### How to build Windows Server 2003 SP1
