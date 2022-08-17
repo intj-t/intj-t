@@ -49,6 +49,7 @@
 <li><a href="https://www.forbes.com/sites/timyoung/2020/01/23/how-founders-can-pay-zero-taxes-on-up-to-10-million/?sh=1f8dbebe3ee2">How Founders Can Pay Zero Taxes On Up To 10 Million</a></li>
 <li><a href="https://www.computerhistory.org/revolution/birth-of-the-computer/4/78">ENIAC First Programmable Computer</a></li>
 <li><a href="https://www.lawinsider.com/dictionary/cash-out-shares">Cash Out Law Insider</a></li>
+<li><a href="https://www.investopedia.com/terms/i/intellectual_capital.asp">Intellectual Capital</a></li>
 <li><a href="https://towardsdatascience.com/the-fall-of-imagenet-5792061e5b8a">The Fall of ImageNet</a></li>
 <li><a href="https://journals.lww.com/practicalpsychiatry/Abstract/2011/11000/Stigma,_Schizophrenia_and_the_Media__Exploring.10.aspx">Stigma, Schizophrenia and the Media</a></li>
 </ul>
