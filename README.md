@@ -45,6 +45,7 @@
 <li><a href="https://www.worldbank.org/en/region/mena/brief/coping-with-a-dual-shock-coronavirus-covid-19-and-oil-prices">Coping with a Dual Shock: COVID-19 and Oil Prices</a></li>
 <li><a href="docs/Human_Relation_Technological_Nature.pdf">The Human Relation With Nature and Technological Nature</a></li>
 <li><a href="https://www.darpa.mil/news-events/2015-04-08">DARPA Seeks to Create Software Systems That Could Last 100 Years</a></li>
+<li><a href="https://link.springer.com/chapter/10.1007/978-3-030-22885-9_21">Deep Neural Networks for Indoor Localization Using WiFi Fingerprints</a></li>
 </ul>
 
 ### How to build Windows Server 2003 SP1
