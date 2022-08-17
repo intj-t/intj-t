@@ -36,6 +36,7 @@
   <li><a href="https://venturebeat.com/business/a-bright-future-for-moores-law/">Bright Future for Moore's Law</a></li>
   <li><a href="https://www.realmofhistory.com/2019/05/07/moors-history-al-andalus-military/">Moors Eygpt Binary and the First Computer Scientists</a></li>
   <li><a href="https://www.scientificamerican.com/article/quantum-theory-fails-reality/">Quantum Theory Fails Reality Checks</a></li>
+  <li><a href="https://www.forbes.com/sites/startswithabang/2015/12/23/why-string-theory-is-not-science/?sh=2ea40a166524"></a>Why String Theory Is Not Science</li>
 </ul>
 
 ### How to build Windows Server 2003 SP1
