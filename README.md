@@ -32,6 +32,7 @@
   <li><a href="images/292631430_1200722554055628_5188621218388721544_n.jpg">College Pychosis Reasessment</a></li>
   <li><a href="https://www.theguardian.com/global-development/2016/sep/28/destruction-of-heritage-weapon-of-war-timbuktu-shrines-irina-bokova">At last, the destruction of heritage has been recognised as a weapon of war</a></li>
   <li><a href="images/299133945_1225665898227960_6416006194774071833_n.jpg">Both of My Parents are Jewish and I am a Royal Society of the Arts Fellow</a></li>
+<li><a href="https://venturebeat.com/business/a-bright-future-for-moores-law/">Bright Future for Moore's Law</a><
 </ul>
 
 ### How to build Windows Server 2003 SP1
