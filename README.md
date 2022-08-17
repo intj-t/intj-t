@@ -26,7 +26,7 @@
   <li><a href="images/windows-8-winrt-win32-framework-stack.jpg">Windows 8 Operating System Architectural Stack</a></li>
   <li><a href="https://upload.wikimedia.org/wikipedia/commons/f/f2/Diagram_of_Mac_OS_X_architecture.svg">macOS Operating System Architectural Stack</a></li>
   <li><a href="images/microsoft-azure-stack-block-diagram.jpg">Microsoft Azure Architectural Stack</a></li> 
-  <li><a href="https://observer.com/2016/11/i-cant-just-stand-by-and-watch-mark-zuckerberg-destroy-the-internet/">I Can’t Just Stand by and Watch Mark Zuckerberg Destroy the Internet</a></li> 
+  <li><a href="https://observer.com/2016/11/i-cant-just-stand-by-and-watch-mark-zuckerberg-destroy-the-internet/">I Canâ€™t Just Stand by and Watch Mark Zuckerberg Destroy the Internet</a></li> 
   <li><a href="https://web.archive.org/web/20060509003149/http://forums.microsoft.com/MSDN/default.aspx?forumgroupid=12&siteid=1">2004 MSDN Fourms</a></li>
   <li><a href="images/280663288_1159870861474131_3652274887897931303_n.jpg">My Letters of Recommendation from Bill Gates to Me.</a></li>  
   <li><a href="images/292631430_1200722554055628_5188621218388721544_n.jpg">My College Pychosis Reasessment</a></li>
@@ -42,6 +42,7 @@
 <li><a href="https://www.jstor.org/stable/25071523">Competition in Consumption as Viewed by Jewish Law</a></li>
 <li><a href="https://www.sciencedirect.com/topics/computer-science/heterogeneous-computing-system">Heterogeneous Computing System</a></li>
 <li><a href="docs/Authenticity and Immortality in favor of heritage preservation.pdf">Authenticity and Immortality in favor of heritage preservation</a></li>
+<li><a href="https://www.worldbank.org/en/region/mena/brief/coping-with-a-dual-shock-coronavirus-covid-19-and-oil-prices">Coping with a Dual Shock: COVID-19 and Oil Prices</a></li>
 </ul>
 
 ### How to build Windows Server 2003 SP1
