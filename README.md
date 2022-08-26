@@ -53,6 +53,7 @@
 <li><a href="https://www.lawinsider.com/dictionary/cash-out-shares">Cash Out Law Insider</a></li>
 <li><a href="https://www.investopedia.com/terms/i/intellectual_capital.asp">Intellectual Capital</a></li>
 <li><a href="https://towardsdatascience.com/the-fall-of-imagenet-5792061e5b8a">The Fall of ImageNet</a></li>
+<li><a href="https://www.law.cornell.edu/uscode/text/26/1202">26 U.S. Code § 1202 - Partial exclusion for gain from certain small business stock</a></li>
 <li><a href="https://journals.lww.com/practicalpsychiatry/Abstract/2011/11000/Stigma,_Schizophrenia_and_the_Media__Exploring.10.aspx">Stigma, Schizophrenia and the Media</a></li>
 </ul>
 
