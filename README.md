@@ -29,32 +29,7 @@
   <li><a href="https://upload.wikimedia.org/wikipedia/commons/f/f2/Diagram_of_Mac_OS_X_architecture.svg">macOS Operating System Architectural Stack</a></li>
   <li><a href="images/microsoft-azure-stack-block-diagram.jpg">Microsoft Azure Architectural Stack</a></li> 
   <li><a href="https://observer.com/2016/11/i-cant-just-stand-by-and-watch-mark-zuckerberg-destroy-the-internet/">I Can’t Just Stand by and Watch Mark Zuckerberg Destroy the Internet</a></li> 
-  <li><a href="https://web.archive.org/web/20060509003149/http://forums.microsoft.com/MSDN/default.aspx?forumgroupid=12&siteid=1">2004 MSDN Fourms</a></li>
-  <li><a href="images/280663288_1159870861474131_3652274887897931303_n.jpg">My Letters of Recommendation from Bill Gates to Me.</a></li>  
-  <li><a href="images/292631430_1200722554055628_5188621218388721544_n.jpg">My College Pychosis Reasessment</a></li>
-  <li><a href="https://www.theguardian.com/global-development/2016/sep/28/destruction-of-heritage-weapon-of-war-timbuktu-shrines-irina-bokova">At last, the destruction of heritage has been recognised as a weapon of war</a></li>
-  <li><a href="images/299133945_1225665898227960_6416006194774071833_n.jpg">Both of My Parents are Jewish and I am a Royal Society of the Arts Fellow</a></li>
-  <li><a href="images/296149884_1212393462888537_8512731386760165248_n.jpg">Ecology and the Jewish Spirit Where Nature and the Sacred Meet</a></li>
-  <li><a href="https://venturebeat.com/business/a-bright-future-for-moores-law/">Bright Future for Moore's Law</a></li>
-  <li><a href="https://www.realmofhistory.com/2019/05/07/moors-history-al-andalus-military/">Moors Eygpt Binary and the First Computer Scientists</a></li>
-  <li><a href="https://www.scientificamerican.com/article/quantum-theory-fails-reality/">Quantum Theory Fails Reality Checks</a></li>
-  <li><a href="https://www.forbes.com/sites/startswithabang/2015/12/23/why-string-theory-is-not-science/?sh=2ea40a166524">Why String Theory Is Not Science</a></li>
-  <li><a href="https://www.forbes.com/sites/johngreathouse/2015/03/23/pull-a-bill-gates-dont-let-your-company-drown-in-cash/?sh=1937c094556c">How to Pull a Bill Gates and Not Let Your Company Drown In Cash</a></li>
-<li><a href="https://www.nature.com/articles/ng949z">New genes involved in cancer identified by retroviral tagging</a></li>
-<li><a href="https://www.jstor.org/stable/25071523">Competition in Consumption as Viewed by Jewish Law</a></li>
-<li><a href="https://www.sciencedirect.com/topics/computer-science/heterogeneous-computing-system">Heterogeneous Computing System</a></li>
-<li><a href="docs/Authenticity and Immortality in favor of heritage preservation.pdf">Authenticity and Immortality in favor of heritage preservation</a></li>
-<li><a href="https://www.worldbank.org/en/region/mena/brief/coping-with-a-dual-shock-coronavirus-covid-19-and-oil-prices">Coping with a Dual Shock: COVID-19 and Oil Prices</a></li>
-<li><a href="docs/Human_Relation_Technological_Nature.pdf">The Human Relation With Nature and Technological Nature</a></li>
-<li><a href="https://www.darpa.mil/news-events/2015-04-08">DARPA Seeks to Create Software Systems That Could Last 100 Years</a></li>
-<li><a href="https://link.springer.com/chapter/10.1007/978-3-030-22885-9_21">Deep Neural Networks for Indoor Localization Using WiFi Fingerprints</a></li>
-<li><a href="https://www.forbes.com/sites/timyoung/2020/01/23/how-founders-can-pay-zero-taxes-on-up-to-10-million/?sh=1f8dbebe3ee2">How Founders Can Pay Zero Taxes On Up To 10 Million</a></li>
-<li><a href="https://www.computerhistory.org/revolution/birth-of-the-computer/4/78">ENIAC First Programmable Computer</a></li>
-<li><a href="https://www.lawinsider.com/dictionary/cash-out-shares">Cash Out Law Insider</a></li>
-<li><a href="https://www.investopedia.com/terms/i/intellectual_capital.asp">Intellectual Capital</a></li>
-<li><a href="https://towardsdatascience.com/the-fall-of-imagenet-5792061e5b8a">The Fall of ImageNet</a></li>
-<li><a href="https://www.law.cornell.edu/uscode/text/26/1202">26 U.S. Code § 1202 - Partial exclusion for gain from certain small business stock</a></li>
-<li><a href="https://journals.lww.com/practicalpsychiatry/Abstract/2011/11000/Stigma,_Schizophrenia_and_the_Media__Exploring.10.aspx">Stigma, Schizophrenia and the Media</a></li>
+  <li><a href="https://web.archive.org/web/20060509003149/http://forums.microsoft.com/MSDN/default.aspx?forumgroupid=12&siteid=1">2004 MSDN Fourms</a></li>  
 </ul>
 
 ### How to build Windows Server 2003 SP1
