@@ -1,4 +1,4 @@
-﻿![Opensource](/images/windowsbanner.jpg)
+﻿![Opensource](/images/google.jpg)
 ![Opensource](/images/stopdiscrim.png)
 
 <!--<meta name="viewport" content="width=device-width, initial-scale=1">
