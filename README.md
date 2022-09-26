@@ -15,7 +15,7 @@
 </ul>
 
 <ul>
-	<li><a href="https://www.fit.edu/faculty-profiles/o/otero-carlos/">Carlos E. Otero</a></li>
+	<li><a href="https://www.fit.edu/faculty-profiles/o/otero-carlos/">My Capstone Professor Carlos E. Otero</a></li>
 </ul>
 
 ### How to build Windows Server 2003 SP1
