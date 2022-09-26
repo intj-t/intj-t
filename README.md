@@ -16,7 +16,7 @@
 
 <ul>
 	<li><a href="https://www.fit.edu/faculty-profiles/o/otero-carlos/">My Capstone Professor Carlos E. Otero</a></li>
-	<li><a href="https://www.youtube.com/watch?v=ORyn0Zm3oeM">The Northrup Gruman Stealth B-2</a></li>
+	<li><a href="https://www.youtube.com/watch?v=ORyn0Zm3oeM">The Northrup Grumman Stealth B-2</a></li>
 </ul>
 
 ### How to build Windows Server 2003 SP1
