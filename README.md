@@ -14,6 +14,10 @@
   <li><a href="https://web.archive.org/web/20060509003149/http://forums.microsoft.com/MSDN/default.aspx?forumgroupid=12&siteid=1">2004 MSDN Fourms</a></li>  
 </ul>
 
+<ul>
+	<li><a href="https://www.fit.edu/faculty-profiles/o/otero-carlos/">Carlos E. Otero</a></li>
+</ul>
+
 ### How to build Windows Server 2003 SP1
 
 In a Windows XP Virtual Machine
