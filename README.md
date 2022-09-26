@@ -15,7 +15,7 @@
 </ul>
 
 <ul>
-	<li><a href="https://www.fit.edu/faculty-profiles/o/otero-carlos/">My Capstone Professor Carlos E. Otero</a></li>
+	<li><a href="https://www.fit.edu/faculty-profiles/o/otero-carlos/">My Capstone Professor Carlos E. Otero at UVa Wise</a></li>
 	<li><a href="https://www.youtube.com/watch?v=ORyn0Zm3oeM">The Northrup Grumman Stealth B-2</a></li>
 </ul>
 
