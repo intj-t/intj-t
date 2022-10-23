@@ -1,5 +1,4 @@
-﻿![Opensource](/images/logo_white-on-black.png)
-![Opensource](/images/stopdiscrim.png)
+﻿![Opensource](/images/windowsbanner.jpg)
 
 <img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/file-word.svg" width="50" height="50"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/deviantart.svg" width="50" height="50"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/goodreads.svg" width="50" height="50"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/windows.svg" width="50" height="50"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin.svg" width="50" height="50">
  <ul>
@@ -12,11 +11,6 @@
   <li><a href="images/microsoft-azure-stack-block-diagram.jpg">Microsoft Azure Architectural Stack</a></li> 
   <li><a href="https://observer.com/2016/11/i-cant-just-stand-by-and-watch-mark-zuckerberg-destroy-the-internet/">I Can’t Just Stand by and Watch Mark Zuckerberg Destroy the Internet</a></li> 
   <li><a href="https://web.archive.org/web/20060509003149/http://forums.microsoft.com/MSDN/default.aspx?forumgroupid=12&siteid=1">2004 MSDN Fourms</a></li>  
-</ul>
-
-<ul>
-	<li><a href="https://www.fit.edu/faculty-profiles/o/otero-carlos/">My Senior Capstone Professor Carlos E. Otero at UVa Wise</a></li>
-	<li><a href="https://www.youtube.com/watch?v=ORyn0Zm3oeM">The Northrup Grumman Stealth B-2</a></li>
 </ul>
 
 ### How to build Windows Server 2003 SP1
