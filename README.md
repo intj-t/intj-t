@@ -38,7 +38,7 @@ In a Windows XP Virtual Machine
 
 ### Money
 
-I have a $800K revenue and expense inheirtance and COE and ABET certification that comes with the income security act and diplomatic approach. And maybe a fixed annuity at 59 1/2 
+I have a $800K revenue and expense inheirtance and COE and ABET certification that comes with the income security act and diplomatic approach. Using Dynamics NAV 2018 And maybe a fixed annuity at 59 1/2 
 
 <!--<a href="docs/Autobiography/Autobiograpghy.pdf">Autobiograpghy</a>
 </br>-->
