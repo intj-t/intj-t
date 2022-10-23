@@ -38,7 +38,7 @@ In a Windows XP Virtual Machine
 
 ### Money
 
-I have a lot of unrealized gains from my own Microsoft Bizspark startup using USC's COCOMO II, Used IRS Section 1202 (a 10M tax free capital gain exclusion ) in turbo tax for a 1M capital return might start a Trust Co. and cash out shares. Also good for capital spending. It takes $15K or 10 years and 40 work credits for SSA eligibility.
+I have a $800K revenue and expense inheirtance and COE and ABET certification that comes with the income security act. 
 
 <!--<a href="docs/Autobiography/Autobiograpghy.pdf">Autobiograpghy</a>
 </br>-->
