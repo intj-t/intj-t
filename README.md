@@ -38,7 +38,7 @@ In a Windows XP Virtual Machine
 
 ### Money
 
-I have a $800K revenue and expense inheirtance and COE and ABET certification that comes with the income security act. And Maybe a fixed annuity at 59 1/2 
+I have a $800K revenue and expense inheirtance and COE and ABET certification that comes with the income security act. And maybe a fixed annuity at 59 1/2 
 
 <!--<a href="docs/Autobiography/Autobiograpghy.pdf">Autobiograpghy</a>
 </br>-->
