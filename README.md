@@ -1,7 +1,6 @@
 ﻿![Opensource](/images/windowsbanner.jpg)
 
-<img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/regular/file-word.svg" width="50" height="50"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/deviantart.svg" width="50" height="50"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/goodreads.svg" width="50" height="50"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/windows.svg" width="50" height="50"><img src="https://raw.githubusercontent.com/FortAwesome/Font-Awesome/6.x/svgs/brands/linkedin.svg" width="50" height="50">
- <ul>
+<ul>
   <li><a href="https://upload.wikimedia.org/wikipedia/commons/c/cd/Unix_timeline.en.svg">UNIX Operating System Timeline</a></li>
   <li><a href="https://upload.wikimedia.org/wikipedia/commons/7/74/Timeline_of_web_browsers.svg">Web Browser Timeline</a></li>
   <li><a href="https://upload.wikimedia.org/wikipedia/commons/0/08/Openvms-system-architecture.svg">OpenVMS Operating System Architectural Stack</a></li>
@@ -31,34 +30,15 @@ In a Windows XP Virtual Machine
         <li>11. certmgr.msc, go to Trusted Root Certification Authorities\Certificates and remove the Microsoft Test Root Authority certificate, Sign out and Sign in again.</li>
 </ul>
 
-### Thank's to Prof. from UVa about 8 years ago. Microsoft Windows XP is in Visual Studio 2019 support until 2028
-<ul>
-  <li><a href="https://web.archive.org/web/20010418220512/http://research.microsoft.com/programs/NTSrcLicInfo.asp">Web Archive</a></li>
-</ul>
-
 ### Money
 
-I have a $800K revenue and expense inheirtance and COE and ABET certification that comes with the income security act and diplomatic approach. Using Dynamics NAV 2018 And maybe a fixed annuity at 59 1/2 
+I have a $800K revenue and expense inheirtance and COE and ABET certification that comes with the income security act. I can take a one time owners draw off of cash equity, use working capitasl for payroll, or have a private tender offer of my own shares.   
 
-<!--<a href="docs/Autobiography/Autobiograpghy.pdf">Autobiograpghy</a>
-</br>-->
-<a href="https://www.deviantart.com/jdm7dv">Deviant Art</a>
-</br>
-<a href="https://blend.io/jonathanmoore">Blend.io</a>
-</br>
-<a href="https://www.goodreads.com/user/show/72426002-jonathan-moore">Goodreads</a>
-</br>
-<a href="https://www.imdb.com/user/ur154049466/watchlist">My IMDB Watch List</a>
-</br>
-<a href="docs/Jonathan Chapman Moore FRSA.doc">Curriculum Vitae</a>
-</br>
 <a href="https://www.linkedin.com/in/jdm7dv/">Linkedin</a>
 </br>
 <a href="https://github.com/jonathanchapmanmoore/My-Mensa-Tests">My Mensa Tests</a>
 </br>
 <a href="https://github.com/jonathanchapmanmoore/UWA">My University of Washington Gift</a>
-
-
 
 ### Views
 ![](https://komarev.com/ghpvc/?username=jonathanchapmanmoore)
