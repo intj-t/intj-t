@@ -32,7 +32,7 @@ In a Windows XP Virtual Machine
 
 ### Money
 
-I have a $800K revenue and expense inheirtance and COE and ABET certification that comes with the income security act. I can take a one time owners draw off of cash equity, use working capital for payroll, or have a private tender offer of my own shares. And I use Quickbooks 2023  
+I have a $800K revenue and expense inheirtance and COE and ABET certification that comes with the income security act. I can take a one time owners withdraw off of cash equity, use working capital for payroll, or have a private tender offer of my own shares. And I use Quickbooks 2023  
 
 <a href="https://www.linkedin.com/in/jdm7dv/">Linkedin</a>
 </br>
