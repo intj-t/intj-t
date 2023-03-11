@@ -18,7 +18,7 @@
 
 In a Windows XP Virtual Machine
 
-<ul>
+<!--<ul>
 	<li>1. Set the date to August 1st 2003 by typing 'date' in the cmd window</li>
 	<li>2. Make sure the files are not read only.</li>
 	<li>3. Install the 2003 SP1 driver certificate.</li>
@@ -30,17 +30,13 @@ In a Windows XP Virtual Machine
 	<li>9. type 'BUILD /ZP' after you fix errors</li>
 	<li>10. If you need to use 'expand /r' to X:\ENGLISH\WIN2003\ENT\I386\* C:\binaries.x86fre from a retail DVD.</li>
         <li>11. certmgr.msc, go to Trusted Root Certification Authorities\Certificates and remove the Microsoft Test Root Authority certificate, Sign out and Sign in again.</li>
-</ul>
+</ul>--> 
 
-### Money
-
-I have a $800K revenue and expense inheirtance and COE and ABET certification that comes with the income security act. I can take a one time owners withdraw off of cash equity, use working capital for payroll, or have a private tender offer of my own shares. And I use Quickbooks 2023  
-
-<a href="https://www.linkedin.com/in/jdm7dv/">Linkedin</a>
+<!--<a href="https://www.linkedin.com/in/jdm7dv/">Linkedin</a>
 </br>
 <a href="https://github.com/jonathanchapmanmoore/My-Mensa-Tests">My Mensa Tests</a>
 </br>
-<a href="https://github.com/jonathanchapmanmoore/UWA">My University of Washington Gift</a>
+<a href="https://github.com/jonathanchapmanmoore/UWA">My University of Washington Gift</a>-->
 
 ### Views
 ![](https://komarev.com/ghpvc/?username=jonathanchapmanmoore)
