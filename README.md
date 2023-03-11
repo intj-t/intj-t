@@ -14,10 +14,6 @@
 <li><a href="https://news.microsoft.com/2002/02/21/microsoft-announces-major-expansion-of-shared-source-initiativeproviding-source-code-to-systems-integrators/">Microsoft Announces Major Expansion of Shared Source Initiative,Providing Source Code to Systems Integrators</a></li> 
 </ul>-->
 
-### How to build Windows Server 2003 SP1
-
-In a Windows XP Virtual Machine
-
 <!--<ul>
 	<li>1. Set the date to August 1st 2003 by typing 'date' in the cmd window</li>
 	<li>2. Make sure the files are not read only.</li>
