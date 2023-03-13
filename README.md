@@ -38,9 +38,7 @@ Twitter, LinkedIn and Facebook are ego networks Github is an musae network
 
 <a href="https://snap.stanford.edu/">Stanford SNAP</a>
 
-Please try and find Muse Magazine a Hollywood periodial, I tested as a INTJ-T at the University of California.
-I was diganosed with Scizoaffective in 2001, worked one odd retail job in 2005. And graduated as a Computer Science valedictorian. My family is working
-on a Trust with bank documents and my family is not funding my startup. I work on tangable common equity in market M&A. I have about 3 market exits on my books. My Github organizations represent my confilct of intrest. I support extant relationships. And will fund leukemia research in couples that didn't know better.
+I'm A Microsoft System Integrator from 2003 and a Windows Internals Certified Professional in 7/2008. Please try and find Muse Magazine a Hollywood periodial, I tested as a INTJ-T at the University of California. I was diganosed with Scizoaffective in 2001, worked one odd retail job in 2005. And graduated as a Computer Science valedictorian. My family is working on a Trust with bank documents and my family is not funding my startup. I work on tangable common equity in market M&A. I have about 3 market exits on my books. My Github organizations represent my confilct of intrest. I support extant relationships. And will fund leukemia research in couples that didn't know better.
 
 <a href="https://www.globenewswire.com/news-release/2021/05/28/2238516/0/en/Muse-Mastermind-Bringing-Your-Heartfelt-Vision-to-The-World.html">Muse Mastermind</a>
 
