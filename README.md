@@ -36,6 +36,8 @@
 
 Twitter, LinkedIn and Facebook are ego networks Github is an muse network
 
+<a href="https://snap.stanford.edu/">Stanford SNAP</a>
+
 <!--<a href="https://www.linkedin.com/in/jdm7dv/">Linkedin</a>
 </br>
 <a href="https://github.com/jonathanchapmanmoore/My-Mensa-Tests">My Mensa Tests</a>
