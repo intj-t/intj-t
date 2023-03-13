@@ -42,6 +42,8 @@ Please try and find Muse Magazine a Hollywood periodial, there are Mastermind Mu
 I was diganosed with Scizoaffective in 2001, worked one odd retail job in 2005. And graduated as a Computer Science valedictorian. My family is working
 on a Trust with bank documents and my family is not funding my startup. I work on tangable common equity in market M&A. I have about 3 market exits on my books.
 
+<a href="https://www.globenewswire.com/news-release/2021/05/28/2238516/0/en/Muse-Mastermind-Bringing-Your-Heartfelt-Vision-to-The-World.html">Muse Mastermind</a>
+
 <!--<a href="https://www.linkedin.com/in/jdm7dv/">Linkedin</a>
 </br>
 <a href="https://github.com/jonathanchapmanmoore/My-Mensa-Tests">My Mensa Tests</a>
