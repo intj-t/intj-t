@@ -42,6 +42,8 @@ I signed a unicolateral confideial agreement with Macromedia in 1999. As part of
 
 <a href="https://www.globenewswire.com/news-release/2021/05/28/2238516/0/en/Muse-Mastermind-Bringing-Your-Heartfelt-Vision-to-The-World.html">Muse Mastermind</a>
 
+<a href="https://www.investopedia.com/terms/c/cashconversioncycle.asp">Cash Conversion Cycle</a>
+
 <!--<a href="https://www.linkedin.com/in/jdm7dv/">Linkedin</a>
 </br>
 <a href="https://github.com/jonathanchapmanmoore/My-Mensa-Tests">My Mensa Tests</a>
