@@ -45,6 +45,7 @@ I signed a unicolateral confidential agreement with Macromedia in 1999. As part 
 <a href="https://www.globenewswire.com/news-release/2021/05/28/2238516/0/en/Muse-Mastermind-Bringing-Your-Heartfelt-Vision-to-The-World.html">Muse Mastermind</a>
 
 <a href="https://www.investopedia.com/terms/c/cashconversioncycle.asp">Cash Conversion Cycle</a>
+<a href="https://www.investopedia.com/terms/s/section-1202.asp">IRS Section 1202</a>
 
 <!--<a href="https://www.linkedin.com/in/jdm7dv/">Linkedin</a>
 </br>
