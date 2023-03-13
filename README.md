@@ -38,6 +38,8 @@ Twitter, LinkedIn and Facebook are ego networks Github is an musae network
 
 <a href="https://snap.stanford.edu/">Stanford SNAP</a>
 
+Please try and find Muse Magazine a Hollywood periodial, there are Mastermind Muses in Hollywood.
+
 <!--<a href="https://www.linkedin.com/in/jdm7dv/">Linkedin</a>
 </br>
 <a href="https://github.com/jonathanchapmanmoore/My-Mensa-Tests">My Mensa Tests</a>
