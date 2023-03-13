@@ -34,6 +34,8 @@
 
 <a href="https://www.sphinxlogic.org/Jonathan Chapman Moore FRSA.docx">Word Document</a>
 
+<a href="https://www.sphinxlogic.org/The Million Dollar Equation.docx">The Million Dollar Equation</a>
+
 Twitter, LinkedIn and Facebook are ego networks Github is an musae network
 
 <a href="https://snap.stanford.edu/">Stanford SNAP</a>
