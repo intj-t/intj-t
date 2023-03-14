@@ -47,6 +47,8 @@ I signed a unicolateral confidential agreement with Macromedia in 1999. As part 
 <a href="https://www.investopedia.com/terms/c/cashconversioncycle.asp">Cash Conversion Cycle</a>
 <a href="https://www.investopedia.com/terms/s/section-1202.asp">IRS Section 1202</a>
 
+<a href="https://github.com/jonathanchapmanmoore/jonathanchapmanmoore/blob/master/images/336362935_882329686324940_3674602413213186430_n.jpg">Tradfional IRA account</a>
+
 <!--<a href="https://www.linkedin.com/in/jdm7dv/">Linkedin</a>
 </br>
 <a href="https://github.com/jonathanchapmanmoore/My-Mensa-Tests">My Mensa Tests</a>
