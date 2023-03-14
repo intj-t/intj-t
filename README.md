@@ -49,6 +49,8 @@ I signed a unicolateral confidential agreement with Macromedia in 1999. As part 
 
 <a href="https://github.com/jonathanchapmanmoore/jonathanchapmanmoore/blob/master/images/336362935_882329686324940_3674602413213186430_n.jpg">Tradfional IRA account</a>
 
+<a href="https://www.codeproject.com/script/Membership/View.aspx?mid=527156">My Code Project Profesional Profile</a>
+
 <!--<a href="https://www.linkedin.com/in/jdm7dv/">Linkedin</a>
 </br>
 <a href="https://github.com/jonathanchapmanmoore/My-Mensa-Tests">My Mensa Tests</a>
