@@ -38,6 +38,8 @@
 
 <a href="https://www.sphinxlogic.org/price of a perpetually licensed product vs.docx">Perpetual Licensing</a>
 
+<a href="https://www.hbs.edu/ris/Publication%20Files/BCI_Chapter_adf284c6-3d8b-483e-9f29-a5242e9c5999.pdf">Building the Microeconomic Foundations of Prosperity</a>
+
 Twitter, LinkedIn and Facebook are ego networks Github is an musae network
 
 <a href="https://snap.stanford.edu/">Stanford SNAP</a>
