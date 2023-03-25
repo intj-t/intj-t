@@ -36,6 +36,8 @@
 
 <a href="https://www.sphinxlogic.org/The Million Dollar Equation.docx">The Million Dollar Equation</a>
 
+<a href="https://www.sphinxlogic.org/price of a perpetually licensed product vs.docx">Perpetual Licensing</a>
+
 Twitter, LinkedIn and Facebook are ego networks Github is an musae network
 
 <a href="https://snap.stanford.edu/">Stanford SNAP</a>
