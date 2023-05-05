@@ -1,4 +1,4 @@
-﻿![Opensource](/images/m9wgWdUr.png)
+﻿![Opensource](/images/34379hd.jpg)
 
 <ul>
   <li><a href="https://upload.wikimedia.org/wikipedia/commons/c/cd/Unix_timeline.en.svg">UNIX Operating System Timeline</a></li>
