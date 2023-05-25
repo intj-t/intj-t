@@ -14,7 +14,7 @@
 <li><a href="https://news.microsoft.com/2002/02/21/microsoft-announces-major-expansion-of-shared-source-initiativeproviding-source-code-to-systems-integrators/">Microsoft Announces Major Expansion of Shared Source Initiative,Providing Source Code to Systems Integrators</a></li> 
 </ul>
 
-<ul>
+<!--<ul>
 	<li>1. Set the date to August 1st 2003 by typing 'date' in the cmd window</li>
 	<li>2. Make sure the files are not read only.</li>
 	<li>3. Install the 2003 SP1 driver certificate.</li>
@@ -26,7 +26,7 @@
 	<li>9. type 'BUILD /ZP' after you fix errors</li>
 	<li>10. If you need to use 'expand /r' to X:\ENGLISH\WIN2003\ENT\I386\* C:\binaries.x86fre from a retail DVD.</li>
         <li>11. certmgr.msc, go to Trusted Root Certification Authorities\Certificates and remove the Microsoft Test Root Authority certificate, Sign out and Sign in again.</li>
-</ul>
+</ul>-->
 
 ### Curriculum Vitae
 
