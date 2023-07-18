@@ -7,8 +7,7 @@
   <li><a href="images/windows-2000-architecture-l.jpg">Windows 2000 Architectural Stack</a></li>
   <li><a href="images/windows-8-winrt-win32-framework-stack.jpg">Windows 8 Operating System Architectural Stack</a></li>
   <li><a href="https://upload.wikimedia.org/wikipedia/commons/f/f2/Diagram_of_Mac_OS_X_architecture.svg">macOS Operating System Architectural Stack</a></li>
-  <li><a href="images/microsoft-azure-stack-block-diagram.jpg">Microsoft Azure Architectural Stack</a></li> 
-  <li><a href="https://observer.com/2016/11/i-cant-just-stand-by-and-watch-mark-zuckerberg-destroy-the-internet/">I Can’t Just Stand by and Watch Mark Zuckerberg Destroy the Internet</a></li> 
+  <li><a href="images/microsoft-azure-stack-block-diagram.jpg">Microsoft Azure Architectural Stack</a></li>  
   <li><a href="https://web.archive.org/web/20060509003149/http://forums.microsoft.com/MSDN/default.aspx?forumgroupid=12&siteid=1">2004 MSDN Fourms</a></li> 
 <li><a href="https://web.archive.org/web/20010403224927/http://research.microsoft.com/">University Programs</a></li>
 <li><a href="https://news.microsoft.com/2002/02/21/microsoft-announces-major-expansion-of-shared-source-initiativeproviding-source-code-to-systems-integrators/">Microsoft Announces Major Expansion of Shared Source Initiative,Providing Source Code to Systems Integrators</a></li> 
@@ -40,13 +39,7 @@
 
 <a href="https://www.sphinxlogic.org/The Million Dollar Equation.docx">The Million Dollar Equation</a>
 
-<a href="https://www.sphinxlogic.org/price of a perpetually licensed product vs.docx">Perpetual Licensing</a>
-
 <a href="https://www.hbs.edu/ris/Publication%20Files/BCI_Chapter_adf284c6-3d8b-483e-9f29-a5242e9c5999.pdf">Building the Microeconomic Foundations of Prosperity</a>
-
-Twitter, LinkedIn and Facebook are ego networks Github is an musae network
-
-<a href="https://snap.stanford.edu/">Stanford SNAP</a>
 
 <a href="https://www.instagram.com/jonathanchapmanmoore/">Instrgram</a>
 
