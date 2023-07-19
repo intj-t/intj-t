@@ -1,14 +1,14 @@
 ﻿![Opensource](/images/lab.png)
 
 <ul>
-  <li><a href="https://upload.wikimedia.org/wikipedia/commons/c/cd/Unix_timeline.en.svg">UNIX Operating System Timeline</a></li>
+  <!--<li><a href="https://upload.wikimedia.org/wikipedia/commons/c/cd/Unix_timeline.en.svg">UNIX Operating System Timeline</a></li>
   <li><a href="https://upload.wikimedia.org/wikipedia/commons/7/74/Timeline_of_web_browsers.svg">Web Browser Timeline</a></li>
   <li><a href="https://upload.wikimedia.org/wikipedia/commons/0/08/Openvms-system-architecture.svg">OpenVMS Operating System Architectural Stack</a></li>
   <li><a href="images/windows-2000-architecture-l.jpg">Windows 2000 Architectural Stack</a></li>
   <li><a href="images/windows-8-winrt-win32-framework-stack.jpg">Windows 8 Operating System Architectural Stack</a></li>
   <li><a href="https://upload.wikimedia.org/wikipedia/commons/f/f2/Diagram_of_Mac_OS_X_architecture.svg">macOS Operating System Architectural Stack</a></li>
   <li><a href="images/microsoft-azure-stack-block-diagram.jpg">Microsoft Azure Architectural Stack</a></li>  
-  <!--<li><a href="https://web.archive.org/web/20060509003149/http://forums.microsoft.com/MSDN/default.aspx?forumgroupid=12&siteid=1">2004 MSDN Fourms</a></li> 
+ <li><a href="https://web.archive.org/web/20060509003149/http://forums.microsoft.com/MSDN/default.aspx?forumgroupid=12&siteid=1">2004 MSDN Fourms</a></li> 
 <li><a href="https://web.archive.org/web/20010403224927/http://research.microsoft.com/">University Programs</a></li>-->
 <li><a href="https://news.microsoft.com/2002/02/21/microsoft-announces-major-expansion-of-shared-source-initiativeproviding-source-code-to-systems-integrators/">Microsoft Announces Major Expansion of Shared Source Initiative,Providing Source Code to Systems Integrators</a></li> 
 </ul>
