@@ -40,6 +40,8 @@
 
 <a href="https://www.16personalities.com/profiles/2ebeedfa55fbe">16 Personalties Profile</a>
 
+<a href="https://www.truity.com/infographic/16-personality-types-animals">Animal Personalites</a>
+
 <a href="https://www.youtube.com/watch?v=hWSgH8ytLJI">Paul Allen's Yacht</a>
 
 <a href="https://www.sphinxlogic.org/Jonathan Chapman Moore FRSA.docx">Word Document</a>
