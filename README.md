@@ -1,5 +1,7 @@
 ﻿![Opensource](/images/lab.png)
 ![Opensource](/images/355687915_106263559188564_3246784046421822879_n.jpg)
+
+<img align="right" width="200" src="images/lab.png">
 <ul>
   <!--<li><a href="https://upload.wikimedia.org/wikipedia/commons/c/cd/Unix_timeline.en.svg">UNIX Operating System Timeline</a></li>
   <li><a href="https://upload.wikimedia.org/wikipedia/commons/7/74/Timeline_of_web_browsers.svg">Web Browser Timeline</a></li>
