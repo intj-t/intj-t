@@ -13,7 +13,7 @@
   <li><a href="images/microsoft-azure-stack-block-diagram.jpg">Microsoft Azure Architectural Stack</a></li>  
  <li><a href="https://web.archive.org/web/20060509003149/http://forums.microsoft.com/MSDN/default.aspx?forumgroupid=12&siteid=1">2004 MSDN Fourms</a></li> 
 <li><a href="https://web.archive.org/web/20010403224927/http://research.microsoft.com/">University Programs</a></li>-->
-<li><a href="https://news.microsoft.com/2002/02/21/microsoft-announces-major-expansion-of-shared-source-initiativeproviding-source-code-to-systems-integrators/">Microsoft Announces Major Expansion of Shared Source Initiative,Providing Source Code to Systems Integrators</a></li> 
+
 </ul>
 
 <ul>
@@ -37,6 +37,8 @@
 ### Curriculum Vitae
 
 3 Saved Jobs at Microsoft Careers
+
+<a href="https://news.microsoft.com/2002/02/21/microsoft-announces-major-expansion-of-shared-source-initiativeproviding-source-code-to-systems-integrators/">Microsoft Announces Major Expansion of Shared Source Initiative,Providing Source Code to Systems Integrators</a>
 
 <a href="https://www.16personalities.com/profiles/2ebeedfa55fbe">16 Personalties Profile</a>
 
