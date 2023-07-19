@@ -44,6 +44,8 @@
 
 <a href="https://www.youtube.com/watch?v=hWSgH8ytLJI">Paul Allen's Yacht</a>
 
+<a href="https://www.jstor.org/stable/4182026">An Interpretation of Zeno's Stadium Paradox</a>
+
 <a href="https://www.sphinxlogic.org/Jonathan Chapman Moore FRSA.docx">Word Document</a>
 
 <a href="https://www.sphinxlogic.org/The Million Dollar Equation.docx">The Million Dollar Equation</a>
