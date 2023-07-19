@@ -1,7 +1,7 @@
-﻿<img align="right" width="250" src="images/lab.png">
-<img align="right" width="250" src="images/octo.jpg">
-<img align="right" width="250" src="images/contract.jpg">
-
+﻿<img align="right" width="333" src="images/lab.png">
+<img align="right" width="333" src="images/octo.jpg">
+<img align="right" width="333" src="images/contract.jpg">
+</br>
 <ul>
   <!--<li><a href="https://upload.wikimedia.org/wikipedia/commons/c/cd/Unix_timeline.en.svg">UNIX Operating System Timeline</a></li>
   <li><a href="https://upload.wikimedia.org/wikipedia/commons/7/74/Timeline_of_web_browsers.svg">Web Browser Timeline</a></li>
