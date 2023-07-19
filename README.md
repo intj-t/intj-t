@@ -40,6 +40,8 @@
 
 <a href="https://www.16personalities.com/profiles/2ebeedfa55fbe">My 16 Personalties Profile</a>
 
+<a href="https://www.thersa.org/fellowship/find-a-fellow/profile/139174">My Royal Soceity of the Atrs Fellowship</a>
+
 <a href="https://www.truity.com/infographic/16-personality-types-animals">Animal Personalites</a>
 
 <a href="https://www.youtube.com/watch?v=hWSgH8ytLJI">Paul Allen's Yacht</a>
