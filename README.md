@@ -1,6 +1,6 @@
 ﻿<img align="right" width="250" src="images/lab.png">
-<img align="right" width="250" src="images/355687915_106263559188564_3246784046421822879_n.jpg">
-<img align="right" width="250" src="images/358070827_115600274921559_783699863749220670_n.jpg">
+<img align="right" width="250" src="images/octo.jpg">
+<img align="right" width="250" src="images/contract.jpg">
 
 <ul>
   <!--<li><a href="https://upload.wikimedia.org/wikipedia/commons/c/cd/Unix_timeline.en.svg">UNIX Operating System Timeline</a></li>
