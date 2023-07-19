@@ -35,6 +35,8 @@
 
 3 Saved Jobs at Microsoft Careers
 
+<a href="https://www.16personalities.com/profiles/2ebeedfa55fbe">16 Personalites Profile</a>
+
 <a href="https://www.sphinxlogic.org/Jonathan Chapman Moore FRSA.docx">Word Document</a>
 
 <a href="https://www.sphinxlogic.org/The Million Dollar Equation.docx">The Million Dollar Equation</a>
