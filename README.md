@@ -38,7 +38,7 @@
 
 <a href="https://news.microsoft.com/2002/02/21/microsoft-announces-major-expansion-of-shared-source-initiativeproviding-source-code-to-systems-integrators/">Microsoft Announces Major Expansion of Shared Source Initiative,Providing Source Code to Systems Integrators</a>
 
-<a href="https://www.16personalities.com/profiles/2ebeedfa55fbe">16 Personalties Profile</a>
+<a href="https://www.16personalities.com/profiles/2ebeedfa55fbe">My 16 Personalties Profile</a>
 
 <a href="https://www.truity.com/infographic/16-personality-types-animals">Animal Personalites</a>
 
