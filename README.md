@@ -48,6 +48,9 @@
 
 <a href="https://www.jstor.org/stable/4182026">An Interpretation of Zeno's Stadium Paradox</a>
 
+<a href="https://www.jstor.org/stable/25071523">Competition in Consumption as Viewed by Jewish Law</a>
+
+
 <a href="https://www.sphinxlogic.org/Jonathan Chapman Moore FRSA.docx">Word Document</a>
 
 <a href="https://www.sphinxlogic.org/The Million Dollar Equation.docx">The Million Dollar Equation</a>
