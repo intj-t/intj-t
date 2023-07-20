@@ -2,7 +2,7 @@
 <img align="right" width="500" src="images/octo.jpg">
 
 
-<img align="right" width="450" src="images/jewish.jpg">
+
 <!--<ul>
 <li><a href="https://upload.wikimedia.org/wikipedia/commons/c/cd/Unix_timeline.en.svg">UNIX Operating System Timeline</a></li>
 <li><a href="https://upload.wikimedia.org/wikipedia/commons/7/74/Timeline_of_web_browsers.svg">Web Browser Timeline</a></li>
@@ -70,6 +70,8 @@
 <a href="https://github.com/jonathanchapmanmoore/UWA">My University of Washington Gift</a>
 
 [System Integrator Contract](https://github.com/jonathanchapmanmoore/jonathanchapmanmoore/blob/master/images/contract.jpg)
+
+[Ecology and the Jewish Spirit where Nature and the sacred meet](https://github.com/jonathanchapmanmoore/jonathanchapmanmoore/blob/master/images/jewish.jpg)
 
 ### Views
 ![](https://komarev.com/ghpvc/?username=jonathanchapmanmoore)
