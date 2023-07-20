@@ -1,6 +1,6 @@
 ﻿<img align="right" width="500" src="images/lab.jpg">
 <img align="right" width="500" src="images/octo.jpg">
-[System Integrator Contract](https://github.com/jonathanchapmanmoore/jonathanchapmanmoore/blob/master/images/contract.jpg)
+[!System Integrator Contract](https://github.com/jonathanchapmanmoore/jonathanchapmanmoore/blob/master/images/contract.jpg)
 <img align="right" width="450" src="images/contract.jpg">
 <img align="right" width="450" src="images/jewish.jpg">
 <!--<ul>
