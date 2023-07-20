@@ -39,13 +39,13 @@
 
 [System Integrator Contract](https://github.com/jonathanchapmanmoore/jonathanchapmanmoore/blob/master/images/contract.jpg)
 
+<a href="https://www.sphinxlogic.org/Jonathan Chapman Moore FRSA.docx">Curriculum Vitae</a>
+
 ### Jonathan Chapman Moore
 
 <a href="https://www.instagram.com/jonathanchapmanmoore/">Instrgram</a>
 
 <a href="https://www.sphinxlogic.org/The Million Dollar Equation.docx">The Million Dollar Equation</a>
-
-<a href="https://www.sphinxlogic.org/Jonathan Chapman Moore FRSA.docx">Word Document</a>
 
 <a href="https://www.16personalities.com/profiles/2ebeedfa55fbe">My 16 Personalties Profile</a>
 
