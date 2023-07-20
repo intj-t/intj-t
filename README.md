@@ -1,8 +1,5 @@
 ﻿<img align="right" width="500" src="images/lab.jpg">
 <img align="right" width="500" src="images/octo.jpg">
-
-
-
 <!--<ul>
 <li><a href="https://upload.wikimedia.org/wikipedia/commons/c/cd/Unix_timeline.en.svg">UNIX Operating System Timeline</a></li>
 <li><a href="https://upload.wikimedia.org/wikipedia/commons/7/74/Timeline_of_web_browsers.svg">Web Browser Timeline</a></li>
@@ -27,8 +24,6 @@
 	<li>10. If you need to use 'expand /r' to X:\ENGLISH\WIN2003\ENT\I386\* C:\binaries.x86fre from a retail DVD.</li>
         <li>11. certmgr.msc, go to Trusted Root Certification Authorities\Certificates and remove the Microsoft Test Root Authority certificate, Sign out and Sign in again.</li>
 </ul>-->
-</br>
-
 ### Curriculum Vitae
 
 3 Saved Jobs at Microsoft Careers
