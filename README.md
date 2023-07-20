@@ -1,20 +1,18 @@
-﻿<img align="right" width="400" src="images/lab.jpg">
-<img align="right" width="400" src="images/octo.jpg">
+﻿<img align="right" width="500" src="images/lab.jpg">
+<img align="right" width="500" src="images/octo.jpg">
 <img align="right" width="250" src="images/contract.jpg">
 <img align="right" width="250" src="images/jewish.jpg">
 <!--<ul>
-  <li><a href="https://upload.wikimedia.org/wikipedia/commons/c/cd/Unix_timeline.en.svg">UNIX Operating System Timeline</a></li>
-  <li><a href="https://upload.wikimedia.org/wikipedia/commons/7/74/Timeline_of_web_browsers.svg">Web Browser Timeline</a></li>
-  <li><a href="https://upload.wikimedia.org/wikipedia/commons/0/08/Openvms-system-architecture.svg">OpenVMS Operating System Architectural Stack</a></li>
-  <li><a href="images/windows-2000-architecture-l.jpg">Windows 2000 Architectural Stack</a></li>
-  <li><a href="images/windows-8-winrt-win32-framework-stack.jpg">Windows 8 Operating System Architectural Stack</a></li>
-  <li><a href="https://upload.wikimedia.org/wikipedia/commons/f/f2/Diagram_of_Mac_OS_X_architecture.svg">macOS Operating System Architectural Stack</a></li>
-  <li><a href="images/microsoft-azure-stack-block-diagram.jpg">Microsoft Azure Architectural Stack</a></li>  
- <li><a href="https://web.archive.org/web/20060509003149/http://forums.microsoft.com/MSDN/default.aspx?forumgroupid=12&siteid=1">2004 MSDN Fourms</a></li> 
+<li><a href="https://upload.wikimedia.org/wikipedia/commons/c/cd/Unix_timeline.en.svg">UNIX Operating System Timeline</a></li>
+<li><a href="https://upload.wikimedia.org/wikipedia/commons/7/74/Timeline_of_web_browsers.svg">Web Browser Timeline</a></li>
+<li><a href="https://upload.wikimedia.org/wikipedia/commons/0/08/Openvms-system-architecture.svg">OpenVMS Operating System Architectural Stack</a></li>
+<li><a href="images/windows-2000-architecture-l.jpg">Windows 2000 Architectural Stack</a></li>
+<li><a href="images/windows-8-winrt-win32-framework-stack.jpg">Windows 8 Operating System Architectural Stack</a></li>
+<li><a href="https://upload.wikimedia.org/wikipedia/commons/f/f2/Diagram_of_Mac_OS_X_architecture.svg">macOS Operating System Architectural Stack</a></li>
+<li><a href="images/microsoft-azure-stack-block-diagram.jpg">Microsoft Azure Architectural Stack</a></li>  
+<li><a href="https://web.archive.org/web/20060509003149/http://forums.microsoft.com/MSDN/default.aspx?forumgroupid=12&siteid=1">2004 MSDN Fourms</a></li> 
 <li><a href="https://web.archive.org/web/20010403224927/http://research.microsoft.com/">University Programs</a></li>
-
 </ul>-->
-
 <!--<ul>
 	<li>1. Set the date to August 1st 2003 by typing 'date' in the cmd window</li>
 	<li>2. Make sure the files are not read only.</li>
@@ -28,7 +26,7 @@
 	<li>10. If you need to use 'expand /r' to X:\ENGLISH\WIN2003\ENT\I386\* C:\binaries.x86fre from a retail DVD.</li>
         <li>11. certmgr.msc, go to Trusted Root Certification Authorities\Certificates and remove the Microsoft Test Root Authority certificate, Sign out and Sign in again.</li>
 </ul>-->
-
+</br>
 ### Curriculum Vitae
 
 3 Saved Jobs at Microsoft Careers
