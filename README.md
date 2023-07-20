@@ -1,6 +1,7 @@
-﻿<img align="right" width="333" src="images/lab.png">
-<img align="right" width="333" src="images/octo.jpg">
-<img align="right" width="333" src="images/contract.jpg">
+﻿<img align="right" width="250" src="images/lab.png">
+<img align="right" width="250" src="images/octo.jpg">
+<img align="right" width="250" src="images/contract.jpg">
+<img align="right" width="250" src="images/jewish.jpg">
 </br>
 </br>
 <ul>
