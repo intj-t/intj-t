@@ -1,7 +1,7 @@
 ﻿<img align="right" width="500" src="images/lab.jpg">
 <img align="right" width="500" src="images/octo.jpg">
-[System Integrator Contract] (https://github.com/jonathanchapmanmoore/jonathanchapmanmoore/blob/master/images/contract.jpg)
-<img align="right" width="450" src="images/contract.jpg">
+
+
 <img align="right" width="450" src="images/jewish.jpg">
 <!--<ul>
 <li><a href="https://upload.wikimedia.org/wikipedia/commons/c/cd/Unix_timeline.en.svg">UNIX Operating System Timeline</a></li>
@@ -28,6 +28,7 @@
         <li>11. certmgr.msc, go to Trusted Root Certification Authorities\Certificates and remove the Microsoft Test Root Authority certificate, Sign out and Sign in again.</li>
 </ul>-->
 </br>
+
 ### Curriculum Vitae
 
 3 Saved Jobs at Microsoft Careers
@@ -61,15 +62,14 @@
 
 <!--<a href="https://www.investopedia.com/terms/c/cashconversioncycle.asp">Cash Conversion Cycle</a>
 <a href="https://www.investopedia.com/terms/s/section-1202.asp">IRS Section 1202</a>
-
 <a href="https://github.com/jonathanchapmanmoore/jonathanchapmanmoore/blob/master/images/Untitled.png">Traditional IRA account</a>-->
-
 <a href="https://www.codeproject.com/script/Membership/View.aspx?mid=527156">My Code Project Profesional Profile</a>
 </br>
 <a href="https://github.com/jonathanchapmanmoore/My-Mensa-Tests">My Mensa Tests</a>
 </br>
 <a href="https://github.com/jonathanchapmanmoore/UWA">My University of Washington Gift</a>
 
+[System Integrator Contract](https://github.com/jonathanchapmanmoore/jonathanchapmanmoore/blob/master/images/contract.jpg)
 
 ### Views
 ![](https://komarev.com/ghpvc/?username=jonathanchapmanmoore)
