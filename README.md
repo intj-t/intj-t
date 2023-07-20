@@ -1,5 +1,6 @@
 ﻿<img align="right" width="500" src="images/lab.jpg">
 <img align="right" width="500" src="images/octo.jpg">
+[![contract](file:///images/contract.jpg)](My System Integrator Contract)
 <img align="right" width="450" src="images/contract.jpg">
 <img align="right" width="450" src="images/jewish.jpg">
 <!--<ul>
