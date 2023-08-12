@@ -39,6 +39,8 @@
 
 ### Jonathan Chapman Moore
 
+<a href="https://www.microsoft.com/en-us/sharedsource/debugging.aspx">Debug with Code Center Premium Source</a>
+
 <a href="https://www.instagram.com/jonathanchapmanmoore/">Instrgram</a>
 
 <a href="https://www.sphinxlogic.org/The Million Dollar Equation.docx">The Million Dollar Equation</a>
