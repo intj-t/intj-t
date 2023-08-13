@@ -114,6 +114,8 @@ with schizoaffective disorder. I thought a NBC broadcaster was talking to me whe
 
 <a href="https://www.linkedin.com/pulse/demise-comcast-time-warner-cost-schizophrenia-jonathan-l-rubin">The Demise of Comcast-Time Warner: The Cost of Schizophrenia</a>
 
+<a href="https://towardsdatascience.com/the-fall-of-imagenet-5792061e5b8a">The Fall of ImageNet</a>
+
 <a href="https://www.burkespeerage.com/">Burkes Peerage</a>
 
 My family has six hereridy titles from the UK. I'm a Moore, Chatman(Chapman), Turner, Vaughn, Little and Bright. I dont support The 'Downton Abbey Law' it Would Let British Women Inherit Titles.
@@ -153,7 +155,7 @@ It all started in 2001 when a Microsoft TV commercial mentioned 'age' it can be 
 
 <a href="https://www.nature.com/articles/ng949z">New genes involved in cancer identified by retroviral tagging</a>
 
-<a href="https://towardsdatascience.com/the-fall-of-imagenet-5792061e5b8a">The Fall of ImageNet</a>
+
 
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2335822">Restoring Nobility to the Constitution: A Modern Approach to a Founding Principle</a>
 
