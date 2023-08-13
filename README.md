@@ -153,8 +153,6 @@ It all started in 2001 when a Microsoft TV commercial mentioned 'age' it can be 
 
 <a href="https://www.youtube.com/watch?v=hWSgH8ytLJI">Paul Allen's Yacht</a>
 
-<a href="https://github.com/jonathanchapmanmoore/jonathanchapmanmoore/blob/master/images/Untitled.png">Traditional IRA account</a>-->
-
 ### Views
 ![](https://komarev.com/ghpvc/?username=jonathanchapmanmoore)
 
