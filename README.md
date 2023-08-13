@@ -59,7 +59,7 @@ $2.5 Million each and 88 text books in value
 
 Ian Fleming Collection 26 Books or Movies $20K each $520,000 in value
 
-CS Lewis The Cronicales of Narnia $7,500 x7 $525,000 in value
+CS Lewis The Cronicales of Narnia $7,500 x7 $52,500 in value
 
 <a href="https://bigthink.com/surprising-science/in-1973-an-mit-computer-predicted-the-end-of-civilization-so-far-its-on-target/">In 1973, an MIT computer predicted when civilization will end</a>
 
