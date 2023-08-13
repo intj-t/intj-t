@@ -126,6 +126,8 @@ My family has six hereridy titles from the UK. I'm a Moore, Chatman(Chapman), Tu
 
 <a href="https://www.linkedin.com/pulse/demise-comcast-time-warner-cost-schizophrenia-jonathan-l-rubin">The Demise of Comcast-Time Warner: The Cost of Schizophrenia</a>
 
+### You Tube
+
 <a href="https://towardsdatascience.com/the-fall-of-imagenet-5792061e5b8a">The Fall of ImageNet</a>
 
 <a href="https://www.genomeweb.com/archive/so-much-immortality">So Much for Immortality</a>
@@ -145,7 +147,6 @@ It all started in 2001 when a Microsoft TV commercial mentioned 'age' it can be 
 ### Higgs Boson
 
 <a href="https://www.sciencedirect.com/science/article/pii/S0370269315001768">Stabilizing the Higgs potential with a Z′</a> 
-
 
 ### Philosophy
 
