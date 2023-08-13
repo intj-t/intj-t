@@ -115,6 +115,10 @@ It all started in 2001 when a Microsoft TV commermial mentioned 'age' it can be 
 
 <a href="https://www.newscientist.com/article/mg15621052-800-radio-head-the-brain-has-its-own-fm-receiver/">Radio head – The brain has its own FM receiver</a>
 
+<a href="https://academic.oup.com/gbe/article/8/3/607/2574116">Evolutionary Relationships among Extinct and Extant Sloths: The Evidence of Mitogenomes and Retroviruses</a>
+
+<a href="https://www.nature.com/articles/ng949z">New genes involved in cancer identified by retroviral tagging</a>
+
 <a href="https://www.youtube.com/watch?v=hWSgH8ytLJI">Paul Allen's Yacht</a>
 
 <a href="https://github.com/jonathanchapmanmoore/UWA">My University of Washington Gift</a>
