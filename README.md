@@ -75,7 +75,7 @@ with schizoaffective disorder. I thought a NBC broadcaster was talking to me whe
 
 <a href="https://www.burkespeerage.com/">Burkes Peerage</a>
 
-My family has six hereridy titles from the UK. I'm a Moore, Chatman(Chapman), Turner, Vaughn, Little and Bright.
+My family has six hereridy titles from the UK. I'm a Moore, Chatman(Chapman), Turner, Vaughn, Little and Bright. I dont support The 'Downton Abbey Law' it Would Let British Women Inherit Titles.
 
 <a href="https://www.genomeweb.com/archive/so-much-immortality">So Much for Immortality</a>
 
