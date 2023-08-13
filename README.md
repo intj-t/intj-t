@@ -46,6 +46,8 @@
 
 [System Integrator Contract](https://github.com/jonathanchapmanmoore/jonathanchapmanmoore/blob/master/images/contract.jpg)
 
+[Bizspark Graduation](https://github.com/jonathanchapmanmoore/jonathanchapmanmoore/blob/master/images/bizspark.jpg)
+
 [Bill Gates Forrester Email to me in 2005](https://github.com/jonathanchapmanmoore/jonathanchapmanmoore/blob/master/images/gates.jpg)
 
 <a href="https://www.sphinxlogic.org/The Million Dollar Equation.docx">The Million Dollar Equation</a>
@@ -123,8 +125,7 @@ CS Lewis The Cronicales of Narnia $7,500 x7 $52,500 in value
 <a href="https://www.investopedia.com/how-to-refinance-a-second-home-7487004">How to Refinance a Second Home</a>
 
 I'm inheriting a home when my father starts a trust I want to buy a second home. And get a jumbo loan and pay it off with a market bond. My family 
-had 2 large homes before my moms heart attack in 1986, she lived until 1996. I was unaware of Sony Extra Sensory Perception in 2001 and was dianognosed
-with schizoaffective disorder. I thought a NBC broadcaster was talking to me when it was realy Sony ESP. I have a Normal MRI. I have old heritage
+had 2 large homes before my moms heart attack in 1986, she lived until 1996. I wwnt to Sullins Acedemy boading school. Skipped the first grade, Graduated Catholic School, Graduated High School, Graduated Prep School and have 98 bachelor of science credits in Computer Science at UVa Wise. I was unaware of Sony Extra Sensory Perception in 2001 and was dianognosed with schizoaffective disorder. I thought a NBC broadcaster was talking to me when it was realy Sony ESP. I have a Normal MRI. I have old heritage.
 
 <a href="https://www.independent.co.uk/news/world/sony-senses-a-market-in-esp-1577154.html">Sony senses a market in ESP</a>
 
