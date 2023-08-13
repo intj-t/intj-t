@@ -49,7 +49,9 @@ How do you get you get your million in cash doctor? "take care of" a high functi
 
 ### Jonathan Chapman Moore
 
-Net Worth $4,600,400
+Net Worth $7,696,000
+
+I own 962 Perpetual Licences 
 
 <a href="https://bigthink.com/surprising-science/in-1973-an-mit-computer-predicted-the-end-of-civilization-so-far-its-on-target/">In 1973, an MIT computer predicted when civilization will end</a>
 
