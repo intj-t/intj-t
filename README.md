@@ -104,7 +104,7 @@ CS Lewis The Cronicales of Narnia $7,500 x7 $52,500 in value
 
 I'm inheriting a home when my father starts a trust I want to buy a second home. And get a jumbo loan and pay it off with a market bond. My family 
 had 2 large homes before my moms heart attack in 1986, she lived until 1996. I was unaware of Sony Extra Sensory Perception in 2001 and was dianognosed
-with schizoaffective disorder. I thought a NBC broadcaster was talking to me when it was realy Sony ESP. I have a Normal MRI.
+with schizoaffective disorder. I thought a NBC broadcaster was talking to me when it was realy Sony ESP. I have a Normal MRI. I have old heritage
 
 <a href="https://www.independent.co.uk/news/world/sony-senses-a-market-in-esp-1577154.html">Sony senses a market in ESP</a>
 
@@ -121,6 +121,8 @@ My family has six hereridy titles from the UK. I'm a Moore, Chatman(Chapman), Tu
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2335822">Restoring Nobility to the Constitution: A Modern Approach to a Founding Principle</a>
 
 <a href="https://academic.oup.com/gbe/article/8/3/607/2574116">Evolutionary Relationships among Extinct and Extant Sloths: The Evidence of Mitogenomes and Retroviruses</a>
+
+### New Heritage
 
 <a href="https://www.nature.com/articles/ng949z">New genes involved in cancer identified by retroviral tagging</a>
 
