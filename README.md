@@ -31,7 +31,7 @@
 
 ### My Virginia Soho
 
-[my Soho](https://github.com/jonathanchapmanmoore/jonathanchapmanmoore/blob/master/images/apt.jpg)
+[My Soho](https://github.com/jonathanchapmanmoore/jonathanchapmanmoore/blob/master/images/apt.jpg)
 
 ### Windows
 
