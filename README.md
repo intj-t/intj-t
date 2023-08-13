@@ -53,6 +53,10 @@
 
 [Microsoft Channel 9](https://walkingcat.github.io/ch9-index/)
 
+### Code Plex Archive 
+
+[Microsoft Channel 9](https://archive.org/details/sylirana_ms_codeplex_zips)
+
 ### Contracts and Finance
 
 [System Integrator Contract](https://github.com/jonathanchapmanmoore/jonathanchapmanmoore/blob/master/images/contract.jpg)
