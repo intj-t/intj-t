@@ -49,11 +49,13 @@ How do you get you get your million in cash doctor? "take care of" a high functi
 
 ### Jonathan Chapman Moore
 
-Net Worth $8,765,000
+Net Worth $228,765,000
 
 I own 962 Perpetual Software Licences
 
-70 Disc MSDN Subscritions Physical x6  
+70 Disc MSDN Subscritions Physical x6 
+
+$2.5 Million and 88 text books in value 
 
 Ian Fleming Collection 26 Books $20K each $520,000 in value
 
