@@ -52,6 +52,8 @@
 
 [Bizspark Graduation](https://github.com/jonathanchapmanmoore/jonathanchapmanmoore/blob/master/images/bizspark.jpg)
 
+I Graduated Bizspark and had Windows CE Access and was in the CE Shared Source programe And I would like my Code Center Premium Smart Card Access I've been emailing Microsoft for a while about it. I shoulfd be eliglible.
+
 [Bill Gates Forrester Email to me in 2005](https://github.com/jonathanchapmanmoore/jonathanchapmanmoore/blob/master/images/gates.jpg)
 
 <a href="https://www.sphinxlogic.org/The Million Dollar Equation.docx">The Million Dollar Equation</a>
