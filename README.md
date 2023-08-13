@@ -51,7 +51,9 @@ How do you get you get your million in cash doctor? "take care of" a high functi
 
 Net Worth $8,765,000
 
-I own 962 Perpetual Software Licences 
+I own 962 Perpetual Software Licences
+
+70 Disc MSDN Subscritions Physical x6  
 
 Ian Fleming Collection 26 Books $20K each $520,000 in value
 
