@@ -81,6 +81,8 @@ I Graduated Bizspark and had Windows CE Access and was in the CE Shared Source p
 
 <a href="https://www.investopedia.com/ask/answers/100515/does-working-capital-include-salaries.asp">Does Working Capital Include Salaries?</a>
 
+<a href="https://www.investopedia.com/terms/w/workingcapital.asp">Working Capital</a>
+
 <a href="https://www.investopedia.com/terms/s/section-1202.asp">IRS Section 1202</a>
 
 How do you get you get your million in cash doctor? "take care of" a high functioning schizophrenic.
