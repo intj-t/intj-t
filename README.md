@@ -29,6 +29,8 @@
 
 3 Saved Jobs at Microsoft Careers
 
+## Quantam Kernel
+
 <a href="https://www.microsoft.com/en-us/research/project/language-integrated-quantum-operations-liqui/">Language-Integrated Quantum Operations: LIQUi|</a>
 
 <a href="https://betawiki.net/wiki/Build_lab">Windows Build Lab</a>
