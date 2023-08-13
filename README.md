@@ -43,7 +43,7 @@
 
 <a href="https://www.investopedia.com/terms/c/cashconversioncycle.asp">Cash Conversion Cycle (CCC): What Is It, and How Is It Calculated?</a>
 
-How do you get you get your million in cash doctor? "take care of" a high functioning schizophonic.
+How do you get you get your million in cash doctor? "take care of" a high functioning schizophrenic.
 
 <a href="https://www.sphinxlogic.org/Jonathan Chapman Moore FRSA.docx">Curriculum Vitae</a>
 
