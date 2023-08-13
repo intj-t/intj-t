@@ -37,6 +37,8 @@
 
 [Bill Gates Forrester Email to me in 2005](https://github.com/jonathanchapmanmoore/jonathanchapmanmoore/blob/master/images/gates.jpg)
 
+<a href="https://www.forrester.com/blogs/determining-the-value-of-a-perpetual-license/">Determining the Value of a Perpetual License</a>
+
 
 <a href="https://www.sphinxlogic.org/Jonathan Chapman Moore FRSA.docx">Curriculum Vitae</a>
 
