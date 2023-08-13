@@ -55,7 +55,7 @@ I own 962 Perpetual Software Licences
 
 70 Disc MSDN Subscritions Physical x6 
 
-$2.5 Million and 88 text books in value 
+$2.5 Million each and 88 text books in value 
 
 Ian Fleming Collection 26 Books $20K each $520,000 in value
 
