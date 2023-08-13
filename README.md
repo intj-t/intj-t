@@ -31,7 +31,13 @@
 
 <a href="https://betawiki.net/wiki/Build_lab">Windows Build Lab</a>
 
+<a href="https://windows-never-released.fandom.com/wiki/Windows_Never_Released_Wiki">Windows Never Released Wiki</a> 
+
+<a href="https://www.microsoft.com/en-us/sharedsource/debugging.aspx">Debug with Code Center Premium Source</a>
+
 <a href="https://news.microsoft.com/2002/02/21/microsoft-announces-major-expansion-of-shared-source-initiativeproviding-source-code-to-systems-integrators/">Microsoft Announces Major Expansion of Shared Source Initiative,Providing Source Code to Systems Integrators</a>
+
+### Contracts and Finance
 
 [System Integrator Contract](https://github.com/jonathanchapmanmoore/jonathanchapmanmoore/blob/master/images/contract.jpg)
 
@@ -43,11 +49,33 @@
 
 <a href="https://www.investopedia.com/terms/c/cashconversioncycle.asp">Cash Conversion Cycle (CCC): What Is It, and How Is It Calculated?</a>
 
+<a href="https://www.investopedia.com/terms/s/section-1202.asp">IRS Section 1202</a>
+
 How do you get you get your million in cash doctor? "take care of" a high functioning schizophrenic.
+
+### Jonathan Chapman Moore
+
+<a href="https://github.com/jonathanchapmanmoore/UWA">My University of Washington Gift</a>
+
+[Ecology and the Jewish Spirit where Nature and the sacred meet](https://github.com/jonathanchapmanmoore/jonathanchapmanmoore/blob/master/images/jewish.jpg)
 
 <a href="https://www.sphinxlogic.org/Jonathan Chapman Moore FRSA.docx">Curriculum Vitae</a>
 
-### Jonathan Chapman Moore
+<a href="https://www.jstor.org/stable/25071523">Competition in Consumption as Viewed by Jewish Law</a>
+
+<a href="https://www.instagram.com/jonathanchapmanmoore/">Instrgram</a>
+
+<a href="https://www.16personalities.com/profiles/2ebeedfa55fbe">My 16 Personalties Profile</a>
+
+<a href="https://www.thersa.org/fellowship/find-a-fellow/profile/139174">My Royal Soceity of the Arts Fellowship</a>
+
+<a href="https://www.truity.com/infographic/16-personality-types-animals">Animal Personalites</a>
+
+<a href="https://www.codeproject.com/script/Membership/View.aspx?mid=527156">My Code Project Profesional Profile</a>
+
+<a href="https://github.com/jonathanchapmanmoore/My-Mensa-Tests">My Mensa Tests</a>
+
+<a href="https://blogs.scientificamerican.com/beautiful-minds/how-does-iq-relate-to-personality/">How Does IQ Relate to Personality?</a>
 
 Net Worth $229,493,000
 
@@ -73,6 +101,12 @@ with schizoaffective disorder. I thought a NBC broadcaster was talking to me whe
 
 <a href="https://www.independent.co.uk/news/world/sony-senses-a-market-in-esp-1577154.html">Sony senses a market in ESP</a>
 
+<a href="https://www.cnbc.com/2018/04/03/the-real-danger-in-sinclair-broadcasts-fake-news-scandal.html">The real danger in Sinclair Broadcast’s ‘fake news’ scandal</a>
+
+<a href="https://www.linkedin.com/pulse/demise-comcast-time-warner-cost-schizophrenia-jonathan-l-rubin">The Demise of Comcast-Time Warner: The Cost of Schizophrenia</a>
+
+<a href="https://www.sphinxlogic.org/The Million Dollar Equation.docx">The Million Dollar Equation</a>
+
 <a href="https://www.burkespeerage.com/">Burkes Peerage</a>
 
 My family has six hereridy titles from the UK. I'm a Moore, Chatman(Chapman), Turner, Vaughn, Little and Bright. I dont support The 'Downton Abbey Law' it Would Let British Women Inherit Titles.
@@ -81,45 +115,27 @@ My family has six hereridy titles from the UK. I'm a Moore, Chatman(Chapman), Tu
 
 It all started in 2001 when a Microsoft TV commercial mentioned 'age' it can be found on iSpotTV now and started to research immortality on my own until in 2011 I found the above link it has just been doctors competing with me until they know they cannnot live forever. 
 
+### Founding of Microsoft
+
 <a href="https://bigthink.com/surprising-science/in-1973-an-mit-computer-predicted-the-end-of-civilization-so-far-its-on-target/">In 1973, an MIT computer predicted when civilization will end</a>
 
-<a href="https://www.linkedin.com/pulse/demise-comcast-time-warner-cost-schizophrenia-jonathan-l-rubin">The Demise of Comcast-Time Warner: The Cost of Schizophrenia</a>
-
-<a href="https://www.cnbc.com/2018/04/03/the-real-danger-in-sinclair-broadcasts-fake-news-scandal.html">The real danger in Sinclair Broadcast’s ‘fake news’ scandal</a>
+### Moore's Law
 
 <a href="https://www.nature.com/articles/pj201764">In pursuit of Moore’s Law: polymer chemistry in action</a>
 
 <a href="https://journals.aps.org/pra/abstract/10.1103/PhysRevA.77.022104">Exponential complexity and ontological theories of quantum mechanics</a>
 
+### Higgs Boson
+
 <a href="https://www.sciencedirect.com/science/article/pii/S0370269315001768">Stabilizing the Higgs potential with a Z′</a> 
 
+### Quantuam
+
 <a href="https://www.microsoft.com/en-us/research/project/language-integrated-quantum-operations-liqui/">Language-Integrated Quantum Operations: LIQUi|</a> 
-
-<a href="https://windows-never-released.fandom.com/wiki/Windows_Never_Released_Wiki">Windows Never Released Wiki</a> 
-
-<a href="https://www.microsoft.com/en-us/sharedsource/debugging.aspx">Debug with Code Center Premium Source</a>
-
-<a href="https://www.instagram.com/jonathanchapmanmoore/">Instrgram</a>
-
-<a href="https://www.sphinxlogic.org/The Million Dollar Equation.docx">The Million Dollar Equation</a>
-
-<a href="https://www.16personalities.com/profiles/2ebeedfa55fbe">My 16 Personalties Profile</a>
-
-<a href="https://www.thersa.org/fellowship/find-a-fellow/profile/139174">My Royal Soceity of the Arts Fellowship</a>
-
-<a href="https://www.truity.com/infographic/16-personality-types-animals">Animal Personalites</a>
-
-<a href="https://www.codeproject.com/script/Membership/View.aspx?mid=527156">My Code Project Profesional Profile</a>
-
-<a href="https://github.com/jonathanchapmanmoore/My-Mensa-Tests">My Mensa Tests</a>
-
-<a href="https://blogs.scientificamerican.com/beautiful-minds/how-does-iq-relate-to-personality/">How Does IQ Relate to Personality?</a>
 
 <a href="https://www.jstor.org/stable/4182026">An Interpretation of Zeno's Stadium Paradox</a>
 
 <a href="https://link.springer.com/chapter/10.1007/978-3-030-22885-9_21>Deep Neural Networks for Indoor Localization Using WiFi Fingerprints</a>
-
-<a href="https://www.jstor.org/stable/25071523">Competition in Consumption as Viewed by Jewish Law</a>
 
 <a href="https://hbr.org/2013/05/autisms-competitive-advantage">Autism’s Competitive Advantage, and Challenge, in the Workplace</a>
 
@@ -137,12 +153,6 @@ It all started in 2001 when a Microsoft TV commercial mentioned 'age' it can be 
 
 <a href="https://www.youtube.com/watch?v=hWSgH8ytLJI">Paul Allen's Yacht</a>
 
-<a href="https://github.com/jonathanchapmanmoore/UWA">My University of Washington Gift</a>
-
-[Ecology and the Jewish Spirit where Nature and the sacred meet](https://github.com/jonathanchapmanmoore/jonathanchapmanmoore/blob/master/images/jewish.jpg)
-
-<!--<a href="https://www.investopedia.com/terms/c/cashconversioncycle.asp">Cash Conversion Cycle</a>
-<a href="https://www.investopedia.com/terms/s/section-1202.asp">IRS Section 1202</a>
 <a href="https://github.com/jonathanchapmanmoore/jonathanchapmanmoore/blob/master/images/Untitled.png">Traditional IRA account</a>-->
 
 ### Views
