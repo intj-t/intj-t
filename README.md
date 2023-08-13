@@ -63,6 +63,8 @@
 
 ### Contracts and Finance
 
+Preferred Shares of Equity. This may be considered a cash equivalent if they are purchased shortly before the redemption date and not expected to experience material fluctuation in value
+
 [System Integrator Contract](https://github.com/jonathanchapmanmoore/jonathanchapmanmoore/blob/master/images/contract.jpg)
 
 [Bizspark Graduation](https://github.com/jonathanchapmanmoore/jonathanchapmanmoore/blob/master/images/bizspark.jpg)
