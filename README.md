@@ -55,6 +55,8 @@ I own 962 Perpetual Licences
 
 Ian Fleming Collection 26 Books $20K each in value
 
+CS Lewis The Cronicales of Narnia $7,500 x7 in value
+
 <a href="https://bigthink.com/surprising-science/in-1973-an-mit-computer-predicted-the-end-of-civilization-so-far-its-on-target/">In 1973, an MIT computer predicted when civilization will end</a>
 
 <a href="https://www.nature.com/articles/pj201764">In pursuit of Moore’s Law: polymer chemistry in action</a>
