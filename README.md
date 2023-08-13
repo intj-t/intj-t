@@ -69,7 +69,7 @@ CS Lewis The Cronicales of Narnia $7,500 x7 $52,500 in value
 
 I'm inheriting a home when my father starts a trust I want to buy a second home. And get a jumbo loan and pay it off with a market bond. My family 
 had 2 large homes before my moms heart attack in 1986, she lived until 1996. I was unaware of Sony Extra Sensory Perception in 2001 and was dianognosed
-with schizoaffective disorder.
+with schizoaffective disorder. I thought a NBC broadcaster was talking to me when it was realy Sony ESP.
 
 <a href="https://www.independent.co.uk/news/world/sony-senses-a-market-in-esp-1577154.html">Sony senses a market in ESP</a>
 
