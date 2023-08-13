@@ -104,9 +104,13 @@ CS Lewis The Cronicales of Narnia $7,500 x7 $52,500 in value
 
 I'm inheriting a home when my father starts a trust I want to buy a second home. And get a jumbo loan and pay it off with a market bond. My family 
 had 2 large homes before my moms heart attack in 1986, she lived until 1996. I was unaware of Sony Extra Sensory Perception in 2001 and was dianognosed
-with schizoaffective disorder. I thought a NBC broadcaster was talking to me when it was realy Sony ESP.
+with schizoaffective disorder. I thought a NBC broadcaster was talking to me when it was realy Sony ESP. I have a Normal MRI.
 
 <a href="https://www.independent.co.uk/news/world/sony-senses-a-market-in-esp-1577154.html">Sony senses a market in ESP</a>
+
+<a href="https://www.burkespeerage.com/">Burkes Peerage</a>
+
+My family has six hereridy titles from the UK. I'm a Moore, Chatman(Chapman), Turner, Vaughn, Little and Bright. I dont support The 'Downton Abbey Law' it Would Let British Women Inherit Titles.
 
 <a href="https://www.cnbc.com/2018/04/03/the-real-danger-in-sinclair-broadcasts-fake-news-scandal.html">The real danger in Sinclair Broadcast’s ‘fake news’ scandal</a>
 
@@ -115,10 +119,6 @@ with schizoaffective disorder. I thought a NBC broadcaster was talking to me whe
 <a href="https://www.linkedin.com/pulse/demise-comcast-time-warner-cost-schizophrenia-jonathan-l-rubin">The Demise of Comcast-Time Warner: The Cost of Schizophrenia</a>
 
 <a href="https://towardsdatascience.com/the-fall-of-imagenet-5792061e5b8a">The Fall of ImageNet</a>
-
-<a href="https://www.burkespeerage.com/">Burkes Peerage</a>
-
-My family has six hereridy titles from the UK. I'm a Moore, Chatman(Chapman), Turner, Vaughn, Little and Bright. I dont support The 'Downton Abbey Law' it Would Let British Women Inherit Titles.
 
 <a href="https://www.genomeweb.com/archive/so-much-immortality">So Much for Immortality</a>
 
@@ -154,8 +154,6 @@ It all started in 2001 when a Microsoft TV commercial mentioned 'age' it can be 
 <a href="https://academic.oup.com/gbe/article/8/3/607/2574116">Evolutionary Relationships among Extinct and Extant Sloths: The Evidence of Mitogenomes and Retroviruses</a>
 
 <a href="https://www.nature.com/articles/ng949z">New genes involved in cancer identified by retroviral tagging</a>
-
-
 
 <a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2335822">Restoring Nobility to the Constitution: A Modern Approach to a Founding Principle</a>
 
