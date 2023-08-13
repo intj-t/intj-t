@@ -84,6 +84,14 @@ How do you get you get your million in cash doctor? "take care of" a high functi
 
 ### Jonathan Chapman Moore
 
+#### Blogs
+
+<a href="https://jdm7dvfreebsd.blogspot.com/">FreeBSD Blog</a>
+
+<a href="https://jdm7dvwindows.blogspot.com/">Windows Blog</a>
+
+<a href="https://jdm7dvcsmath.blogspot.com/">Mathematics Blog</a>
+
 <a href="https://github.com/jonathanchapmanmoore/UWA">My University of Washington Gift</a>
 
 [Ecology and the Jewish Spirit where Nature and the sacred meet](https://github.com/jonathanchapmanmoore/jonathanchapmanmoore/blob/master/images/jewish.jpg)
