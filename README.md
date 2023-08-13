@@ -130,6 +130,8 @@ My family has six hereridy titles from the UK. I'm a Moore, Chatman(Chapman), Tu
 
 <a href="https://towardsdatascience.com/the-fall-of-imagenet-5792061e5b8a">The Fall of ImageNet</a>
 
+### Ray Kurzweil
+
 <a href="https://www.genomeweb.com/archive/so-much-immortality">So Much for Immortality</a>
 
 It all started in 2001 when a Microsoft TV commercial mentioned 'age' it can be found on iSpotTV now and started to research immortality on my own until in 2011 I found the above link it has just been doctors competing with me until they know they cannnot live forever. 
