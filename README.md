@@ -75,7 +75,7 @@ with schizoaffective disorder. I thought a NBC broadcaster was talking to me whe
 
 <a href="https://www.burkespeerage.com/">Burkes Peerage</a>
 
-My family ha seven hereridy titles from the UK.
+My family has six hereridy titles from the UK. I'm a Moore, Chatman(Chapman), Turner, Vaughn, Little and Bright.
 
 <a href="https://www.genomeweb.com/archive/so-much-immortality">So Much for Immortality</a>
 
