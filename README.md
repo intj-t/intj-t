@@ -87,6 +87,10 @@ I Graduated Bizspark and had Windows CE Access and was in the CE Shared Source p
 
 <a href="https://www.investopedia.com/terms/s/section-1202.asp">IRS Section 1202</a>
 
+<a href="https://www.investopedia.com/terms/i/incomefund.asp">Income Fund Definition, Types, and Examples</a>
+
+<a href="https://www.upwork.com/hire/grant-writers/">Upwork Grant Writers</a>
+
 How do you get you get your million in cash doctor? "take care of" a high functioning schizophrenic.
 
 ### Founding of Microsoft
