@@ -112,6 +112,8 @@ with schizoaffective disorder. I thought a NBC broadcaster was talking to me whe
 
 <a href="https://www.prwatch.org/fakenews/tv-stations">Fake News TV Stations</a>
 
+<a href="https://www.linkedin.com/pulse/demise-comcast-time-warner-cost-schizophrenia-jonathan-l-rubin">The Demise of Comcast-Time Warner: The Cost of Schizophrenia</a>
+
 #### Burkes Peerage
 
 <a href="https://www.burkespeerage.com/">Burkes Peerage</a>
@@ -125,8 +127,6 @@ My family has six hereridy titles from the UK. I'm a Moore, Chatman(Chapman), Tu
 ### New Heritage
 
 <a href="https://www.nature.com/articles/ng949z">New genes involved in cancer identified by retroviral tagging</a>
-
-<a href="https://www.linkedin.com/pulse/demise-comcast-time-warner-cost-schizophrenia-jonathan-l-rubin">The Demise of Comcast-Time Warner: The Cost of Schizophrenia</a>
 
 ### You Tube
 
