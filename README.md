@@ -49,6 +49,8 @@ How do you get you get your million in cash doctor? "take care of" a high functi
 
 ### Jonathan Chapman Moore
 
+Net Worth $4,600,400
+
 <a href="https://bigthink.com/surprising-science/in-1973-an-mit-computer-predicted-the-end-of-civilization-so-far-its-on-target/">In 1973, an MIT computer predicted when civilization will end</a>
 
 <a href="https://www.nature.com/articles/pj201764">In pursuit of Moore’s Law: polymer chemistry in action</a>
