@@ -29,13 +29,16 @@
 
 3 Saved Jobs at Microsoft Careers
 
+<a href="https://www.microsoft.com/en-us/research/project/language-integrated-quantum-operations-liqui/">Language-Integrated Quantum Operations: LIQUi|</a>
+
 <a href="https://betawiki.net/wiki/Build_lab">Windows Build Lab</a>
 
 <a href="https://windows-never-released.fandom.com/wiki/Windows_Never_Released_Wiki">Windows Never Released Wiki</a> 
 
 <a href="https://www.microsoft.com/en-us/sharedsource/debugging.aspx">Debug with Code Center Premium Source</a>
 
-<a href="https://news.microsoft.com/2002/02/21/microsoft-announces-major-expansion-of-shared-source-initiativeproviding-source-code-to-systems-integrators/">Microsoft Announces Major Expansion of Shared Source Initiative,Providing Source Code to Systems Integrators</a>
+<a href="https://news.microsoft.com/2002/02/21/microsoft-announces-major-expansion-of-shared-source-initiativeproviding-source-code-to-systems-integrators/">Microsoft Announces Major Expansion of Shared Source Initiative,Providing Source Code to Systems Integrators</a> 
+
 
 ### Contracts and Finance
 
@@ -131,11 +134,12 @@ It all started in 2001 when a Microsoft TV commercial mentioned 'age' it can be 
 
 <a href="https://www.sciencedirect.com/science/article/pii/S0370269315001768">Stabilizing the Higgs potential with a Z′</a> 
 
-### Quantuam
 
-<a href="https://www.microsoft.com/en-us/research/project/language-integrated-quantum-operations-liqui/">Language-Integrated Quantum Operations: LIQUi|</a> 
+### Philosophy
 
 <a href="https://www.jstor.org/stable/4182026">An Interpretation of Zeno's Stadium Paradox</a>
+
+### Neural Networks
 
 <a href="https://link.springer.com/chapter/10.1007/978-3-030-22885-9_21">Deep Neural Networks for Indoor Localization Using WiFi Fingerprints</a>
 
