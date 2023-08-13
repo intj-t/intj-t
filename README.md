@@ -49,6 +49,9 @@
 
 <a href="https://news.microsoft.com/2002/02/21/microsoft-announces-major-expansion-of-shared-source-initiativeproviding-source-code-to-systems-integrators/">Microsoft Announces Major Expansion of Shared Source Initiative,Providing Source Code to Systems Integrators</a> 
 
+### Channel 9
+
+[Microsoft Channel 9](https://walkingcat.github.io/ch9-index/)
 
 ### Contracts and Finance
 
