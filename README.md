@@ -55,7 +55,7 @@
 
 ### Code Plex Archive 
 
-[Microsoft Channel 9](https://archive.org/details/sylirana_ms_codeplex_zips)
+[Code Plex](https://archive.org/details/sylirana_ms_codeplex_zips)
 
 ### Contracts and Finance
 
