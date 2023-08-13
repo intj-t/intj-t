@@ -39,6 +39,11 @@
 
 <a href="https://www.forrester.com/blogs/determining-the-value-of-a-perpetual-license/">Determining the Value of a Perpetual License</a>
 
+<a href="https://www.investopedia.com/terms/e/ev-revenue-multiple.asp">Enterprise-Value-to-Revenue Multiple (EV/R): Definition</a>
+
+<a href="https://www.investopedia.com/terms/c/cashconversioncycle.asp">Cash Conversion Cycle (CCC): What Is It, and How Is It Calculated?</a>
+
+How do you get you get your million in cash doctor? "take care of" a high functioning schizophonic.
 
 <a href="https://www.sphinxlogic.org/Jonathan Chapman Moore FRSA.docx">Curriculum Vitae</a>
 
