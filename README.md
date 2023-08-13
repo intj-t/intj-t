@@ -49,7 +49,7 @@ How do you get you get your million in cash doctor? "take care of" a high functi
 
 ### Jonathan Chapman Moore
 
-Net Worth $7,696,000
+Net Worth $7,720,000
 
 I own 962 Perpetual Licences 
 
