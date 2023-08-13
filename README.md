@@ -79,7 +79,7 @@ My family has six hereridy titles from the UK. I'm a Moore, Chatman(Chapman), Tu
 
 <a href="https://www.genomeweb.com/archive/so-much-immortality">So Much for Immortality</a>
 
-It all started in 2001 when a Microsoft TV commermial mentioned 'age' it can be found on iSpotTV now and stareted to research immortality on my own until in 2011 I found the above link it has just been doctors competing with me until they know thaey cannnot live forever. 
+It all started in 2001 when a Microsoft TV commermial mentioned 'age' it can be found on iSpotTV now and started to research immortality on my own until in 2011 I found the above link it has just been doctors competing with me until they know thaey cannnot live forever. 
 
 <a href="https://bigthink.com/surprising-science/in-1973-an-mit-computer-predicted-the-end-of-civilization-so-far-its-on-target/">In 1973, an MIT computer predicted when civilization will end</a>
 
