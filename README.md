@@ -121,8 +121,6 @@ How do you get you get your million in cash doctor? "take care of" a high functi
 
 <a href="https://www.jstor.org/stable/25071523">Competition in Consumption as Viewed by Jewish Law</a>
 
-<a href="https://www.instagram.com/jonathanchapmanmoore/">Instrgram</a>
-
 <a href="https://www.16personalities.com/profiles/2ebeedfa55fbe">My 16 Personalties Profile</a>
 
 <a href="https://www.thersa.org/fellowship/find-a-fellow/profile/139174">My Royal Soceity of the Arts Fellowship</a>
