@@ -49,7 +49,7 @@ How do you get you get your million in cash doctor? "take care of" a high functi
 
 ### Jonathan Chapman Moore
 
-Net Worth $228,765,000
+Net Worth $229,493,000
 
 I own 962 Perpetual Software Licences
 
@@ -60,6 +60,8 @@ $2.5 Million each and 88 text books in value
 Ian Fleming Collection 26 Books or Movies $20K each $520,000 in value
 
 CS Lewis The Cronicales of Narnia $7,500 x7 $52,500 in value
+
+208 garments worth a value of $3,500 each $728,000
 
 <a href="https://bigthink.com/surprising-science/in-1973-an-mit-computer-predicted-the-end-of-civilization-so-far-its-on-target/">In 1973, an MIT computer predicted when civilization will end</a>
 
