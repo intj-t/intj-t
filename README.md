@@ -57,7 +57,7 @@ I own 962 Perpetual Software Licences
 
 $2.5 Million each and 88 text books in value 
 
-Ian Fleming Collection 26 Books $20K each $520,000 in value
+Ian Fleming Collection 26 Books or Movies $20K each $520,000 in value
 
 CS Lewis The Cronicales of Narnia $7,500 x7 $525,000 in value
 
