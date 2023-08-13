@@ -119,6 +119,8 @@ It all started in 2001 when a Microsoft TV commermial mentioned 'age' it can be 
 
 <a href="https://www.nature.com/articles/ng949z">New genes involved in cancer identified by retroviral tagging</a>
 
+<a href="https://papers.ssrn.com/sol3/papers.cfm?abstract_id=2335822">Restoring Nobility to the Constitution: A Modern Approach to a Founding Principle</a>
+
 <a href="https://www.youtube.com/watch?v=hWSgH8ytLJI">Paul Allen's Yacht</a>
 
 <a href="https://github.com/jonathanchapmanmoore/UWA">My University of Washington Gift</a>
