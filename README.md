@@ -60,6 +60,24 @@
 
 How do you get you get your million in cash doctor? "take care of" a high functioning schizophrenic.
 
+### Founding of Microsoft
+
+<a href="https://bigthink.com/surprising-science/in-1973-an-mit-computer-predicted-the-end-of-civilization-so-far-its-on-target/">In 1973, an MIT computer predicted when civilization will end</a>
+
+### Moore's Law
+
+<a href="https://www.nature.com/articles/pj201764">In pursuit of Moore’s Law: polymer chemistry in action</a>
+
+<a href="https://journals.aps.org/pra/abstract/10.1103/PhysRevA.77.022104">Exponential complexity and ontological theories of quantum mechanics</a>
+
+### Higgs Boson
+
+<a href="https://www.sciencedirect.com/science/article/pii/S0370269315001768">Stabilizing the Higgs potential with a Z′</a> 
+
+### Philosophy
+
+<a href="https://www.jstor.org/stable/4182026">An Interpretation of Zeno's Stadium Paradox</a>
+
 ### Jonathan Chapman Moore
 
 <a href="https://github.com/jonathanchapmanmoore/UWA">My University of Washington Gift</a>
@@ -138,23 +156,6 @@ My family has six hereridy titles from the UK. I'm a Moore, Chatman(Chapman), Tu
 
 It all started in 2001 when a Microsoft TV commercial mentioned 'age' it can be found on iSpotTV now and started to research immortality on my own until in 2011 I found the above link it has just been doctors competing with me until they know they cannnot live forever. 
 
-### Founding of Microsoft
-
-<a href="https://bigthink.com/surprising-science/in-1973-an-mit-computer-predicted-the-end-of-civilization-so-far-its-on-target/">In 1973, an MIT computer predicted when civilization will end</a>
-
-### Moore's Law
-
-<a href="https://www.nature.com/articles/pj201764">In pursuit of Moore’s Law: polymer chemistry in action</a>
-
-<a href="https://journals.aps.org/pra/abstract/10.1103/PhysRevA.77.022104">Exponential complexity and ontological theories of quantum mechanics</a>
-
-### Higgs Boson
-
-<a href="https://www.sciencedirect.com/science/article/pii/S0370269315001768">Stabilizing the Higgs potential with a Z′</a> 
-
-### Philosophy
-
-<a href="https://www.jstor.org/stable/4182026">An Interpretation of Zeno's Stadium Paradox</a>
 
 ### Neural Networks
 
