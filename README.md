@@ -65,6 +65,12 @@ CS Lewis The Cronicales of Narnia $7,500 x7 $52,500 in value
 
 [My Credit Score](https://github.com/jonathanchapmanmoore/jonathanchapmanmoore/blob/master/images/credit.jpg)
 
+<a href="https://www.investopedia.com/how-to-refinance-a-second-home-7487004">How to Refinance a Second Home</a>
+
+I'm inheriting a home when my father starts a trust I want to buy a second home. And get a jumbo loan and pay it off with a market bond. My family 
+had 2 large homes before my mome heart attack in 1986, she lived until 1996. I was unaware of Sony Extra Sensory Perception in 2001 and was dianognosed
+with schizoaffecdtive disorder.
+
 <a href="https://bigthink.com/surprising-science/in-1973-an-mit-computer-predicted-the-end-of-civilization-so-far-its-on-target/">In 1973, an MIT computer predicted when civilization will end</a>
 
 <a href="https://www.nature.com/articles/pj201764">In pursuit of Moore’s Law: polymer chemistry in action</a>
