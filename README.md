@@ -57,6 +57,10 @@
 
 [Code Plex](https://archive.org/details/sylirana_ms_codeplex_zips)
 
+### Windows ESU's
+
+[Obtaining Extended Security Updates for eligible Windows devices](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/obtaining-extended-security-updates-for-eligible-windows-devices/ba-p/1167091)
+
 ### Contracts and Finance
 
 [System Integrator Contract](https://github.com/jonathanchapmanmoore/jonathanchapmanmoore/blob/master/images/contract.jpg)
