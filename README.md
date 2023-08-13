@@ -103,6 +103,10 @@ with schizoaffective disorder. I thought a NBC broadcaster was talking to me whe
 
 <a href="https://www.jstor.org/stable/25071523">Competition in Consumption as Viewed by Jewish Law</a>
 
+<a href="https://hbr.org/2013/05/autisms-competitive-advantage">Autism’s Competitive Advantage, and Challenge, in the Workplace</a>
+
+<a href="https://www.newscientist.com/article/mg15621052-800-radio-head-the-brain-has-its-own-fm-receiver/">Radio head – The brain has its own FM receiver</a>
+
 <a href="https://www.youtube.com/watch?v=hWSgH8ytLJI">Paul Allen's Yacht</a>
 
 <a href="https://github.com/jonathanchapmanmoore/UWA">My University of Washington Gift</a>
