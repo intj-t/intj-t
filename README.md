@@ -113,6 +113,8 @@ It all started in 2001 when a Microsoft TV commercial mentioned 'age' it can be 
 
 <a href="https://github.com/jonathanchapmanmoore/My-Mensa-Tests">My Mensa Tests</a>
 
+<a href="https://blogs.scientificamerican.com/beautiful-minds/how-does-iq-relate-to-personality/">How Does IQ Relate to Personality?</a>
+
 <a href="https://www.jstor.org/stable/4182026">An Interpretation of Zeno's Stadium Paradox</a>
 
 <a href="https://www.jstor.org/stable/25071523">Competition in Consumption as Viewed by Jewish Law</a>
