@@ -70,6 +70,8 @@ How do you get you get your million in cash doctor? "take care of" a high functi
 
 <a href="https://journals.aps.org/pra/abstract/10.1103/PhysRevA.77.022104">Exponential complexity and ontological theories of quantum mechanics</a>
 
+<a href="https://www.napoleon.org/en/history-of-the-two-empires/articles/with-abercrombie-and-moore-in-egypt-from-first-empire-1995/">With Abercrombie and Moore in Egypt</a>  
+
 ### Higgs Boson
 
 <a href="https://www.sciencedirect.com/science/article/pii/S0370269315001768">Stabilizing the Higgs potential with a Z′</a> 
