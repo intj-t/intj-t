@@ -25,7 +25,7 @@
         <li>11. certmgr.msc, go to Trusted Root Certification Authorities\Certificates and remove the Microsoft Test Root Authority certificate, Sign out and Sign in again.</li>
 </ul>-->
 
-### Website Hosed on Azure
+### Website Hosted on Azure
 
 <a href="https://www.sphinxlogic.org/">Sphinx Logic</a>
 
