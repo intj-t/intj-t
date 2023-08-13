@@ -53,7 +53,7 @@ Net Worth $228,765,000
 
 I own 962 Perpetual Software Licences
 
-70 Disc MSDN Subscritions Physical x6 
+70 Disc MSDN Subscriptions Physical x6 
 
 $2.5 Million each and 88 text books in value 
 
