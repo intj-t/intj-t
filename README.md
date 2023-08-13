@@ -113,6 +113,12 @@ How do you get you get your million in cash doctor? "take care of" a high functi
 
 <a href="https://www.jstor.org/stable/4182026">An Interpretation of Zeno's Stadium Paradox</a>
 
+### Autism
+
+<a href="https://hbr.org/2013/05/autisms-competitive-advantage">Autism’s Competitive Advantage, and Challenge, in the Workplace</a>
+
+<a href="https://www.forbes.com/sites/drnancydoyle/2021/01/16/is-everyone-a-little-autistic/?sh=2d2bba475666">Is Everyone A Little Autistic?</a>
+
 ### Jonathan Chapman Moore
 
 #### Blogs
@@ -203,10 +209,7 @@ It all started in 2001 when a Microsoft TV commercial mentioned 'age' it can be 
 
 <a href="https://link.springer.com/chapter/10.1007/978-3-030-22885-9_21">Deep Neural Networks for Indoor Localization Using WiFi Fingerprints</a>
 
-<a href="https://hbr.org/2013/05/autisms-competitive-advantage">Autism’s Competitive Advantage, and Challenge, in the Workplace</a>
-
 <a href="https://www.newscientist.com/article/mg15621052-800-radio-head-the-brain-has-its-own-fm-receiver/">Radio head – The brain has its own FM receiver</a>
-
 
 <a href="https://www.sciencedirect.com/science/article/pii/S1571064513001188">Consciousness in the universe: A review of the ‘Orch OR’ theory</a>
 
