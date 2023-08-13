@@ -117,6 +117,8 @@ It all started in 2001 when a Microsoft TV commercial mentioned 'age' it can be 
 
 <a href="https://www.jstor.org/stable/4182026">An Interpretation of Zeno's Stadium Paradox</a>
 
+<a href="https://link.springer.com/chapter/10.1007/978-3-030-22885-9_21>Deep Neural Networks for Indoor Localization Using WiFi Fingerprints</a>
+
 <a href="https://www.jstor.org/stable/25071523">Competition in Consumption as Viewed by Jewish Law</a>
 
 <a href="https://hbr.org/2013/05/autisms-competitive-advantage">Autism’s Competitive Advantage, and Challenge, in the Workplace</a>
