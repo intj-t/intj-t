@@ -157,6 +157,8 @@ My family has six hereridy titles from the UK. I'm a Moore, Chatman(Chapman), Tu
 
 <a href="https://academic.oup.com/gbe/article/8/3/607/2574116">Evolutionary Relationships among Extinct and Extant Sloths: The Evidence of Mitogenomes and Retroviruses</a>
 
+<a href="https://mashable.com/article/kate-middleton-speech-mental-illness">Kate Middleton speaks powerfully about the stigma of mental illness</a>
+
 ### New Heritage
 
 <a href="https://www.nature.com/articles/ng949z">New genes involved in cancer identified by retroviral tagging</a>
