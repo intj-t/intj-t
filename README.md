@@ -119,9 +119,11 @@ How do you get you get your million in cash doctor? "take care of" a high functi
 
 <a href="https://www.jstor.org/stable/4182026">An Interpretation of Zeno's Stadium Paradox</a>
 
-### Phycology
+### Phychology
 
 <a href="https://www.scientificamerican.com/article/why-the-secrets-you-keep-are-hurting-you/">Why the Secrets You Keep Are Hurting You</a>
+
+<a href="https://www.theguardian.com/commentisfree/2020/jan/20/joe-biden-corruption-donald-trump">‘Middle Class’ Joe Biden has a corruption problem – it makes him a weak candidate</a>
 
 ### Population
 
