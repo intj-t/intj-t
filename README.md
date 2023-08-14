@@ -29,6 +29,8 @@
 
 <a href="https://www.sphinxlogic.org/Jonathan Chapman Moore FRSA.docx">Curriculum Vitae</a>
 
+I own a patent worth $8 million from Macromedia Flash which was rebranded to Amimate which is good for loans and amortilization.
+
 #### Blogs
 
 <a href="https://jdm7dvfreebsd.blogspot.com/">FreeBSD Blog</a>
