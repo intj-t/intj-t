@@ -123,6 +123,8 @@ I Graduated Bizspark and had Windows CE Access and was in the CE Shared Source p
 
 <a href="https://www.upwork.com/hire/grant-writers/">Upwork Grant Writers</a>
 
+<a href="https://www.reuters.com/world/uk/bank-england-warns-lenders-over-private-equity-exposures-2023-07-03/">Bank of England warns lenders over private equity, commodities exposure</a>
+
 ### Founding of Microsoft
 
 <a href="https://bigthink.com/surprising-science/in-1973-an-mit-computer-predicted-the-end-of-civilization-so-far-its-on-target/">In 1973, an MIT computer predicted when civilization will end</a>
