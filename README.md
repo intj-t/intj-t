@@ -119,6 +119,10 @@ How do you get you get your million in cash doctor? "take care of" a high functi
 
 <a href="https://www.jstor.org/stable/4182026">An Interpretation of Zeno's Stadium Paradox</a>
 
+### Phycology
+
+<a href="https://www.scientificamerican.com/article/why-the-secrets-you-keep-are-hurting-you/">Why the Secrets You Keep Are Hurting You</a>
+
 ### Population
 
 [The Population Crisis: The Stork, the Plow, and the
