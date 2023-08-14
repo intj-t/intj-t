@@ -24,6 +24,25 @@
 	<li>10. If you need to use 'expand /r' to X:\ENGLISH\WIN2003\ENT\I386\* C:\binaries.x86fre from a retail DVD.</li>
         <li>11. certmgr.msc, go to Trusted Root Certification Authorities\Certificates and remove the Microsoft Test Root Authority certificate, Sign out and Sign in again.</li>
 </ul>-->
+### Jonathan Chapman Moore
+
+<a href="https://www.sphinxlogic.org/Jonathan Chapman Moore FRSA.docx">Curriculum Vitae</a>
+
+#### Blogs
+
+<a href="https://jdm7dvfreebsd.blogspot.com/">FreeBSD Blog</a>
+
+<a href="https://jdm7dvwindows.blogspot.com/">Windows Blog</a>
+
+<a href="https://jdm7dvcsmath.blogspot.com/">Mathematics Blog</a>
+
+<a href="https://github.com/jonathanchapmanmoore/UWA">My University of Washington Gift</a>
+
+[Ecology and the Jewish Spirit where Nature and the sacred meet](https://github.com/jonathanchapmanmoore/jonathanchapmanmoore/blob/master/images/jewish.jpg)
+
+<a href="https://www.jstor.org/stable/25071523">Competition in Consumption as Viewed by Jewish Law</a>
+
+<a href="https://github.com/jonathanchapmanmoore/My-Mensa-Tests">My Mensa Tests</a>
 
 ### Website Hosted on Azure
 
@@ -52,6 +71,8 @@
 <a href="https://www.16personalities.com/profiles/2ebeedfa55fbe">My 16 Personalties Profile</a>
 
 <a href="https://www.truity.com/infographic/16-personality-types-animals">Animal Personalites</a>
+
+<a href="https://blogs.scientificamerican.com/beautiful-minds/how-does-iq-relate-to-personality/">How Does IQ Relate to Personality?</a>
 
 <a href="https://www.youtube.com/watch?v=hWSgH8ytLJI">Paul Allen's Yacht</a>
 
@@ -167,28 +188,6 @@ IRS](https://github.com/jonathanchapmanmoore/jonathanchapmanmoore/blob/master/do
 <a href="https://hbr.org/2013/05/autisms-competitive-advantage">Autism’s Competitive Advantage, and Challenge, in the Workplace</a>
 
 <a href="https://www.forbes.com/sites/drnancydoyle/2021/01/16/is-everyone-a-little-autistic/?sh=2d2bba475666">Is Everyone A Little Autistic?</a>
-
-### Jonathan Chapman Moore
-
-<a href="https://www.sphinxlogic.org/Jonathan Chapman Moore FRSA.docx">Curriculum Vitae</a>
-
-#### Blogs
-
-<a href="https://jdm7dvfreebsd.blogspot.com/">FreeBSD Blog</a>
-
-<a href="https://jdm7dvwindows.blogspot.com/">Windows Blog</a>
-
-<a href="https://jdm7dvcsmath.blogspot.com/">Mathematics Blog</a>
-
-<a href="https://github.com/jonathanchapmanmoore/UWA">My University of Washington Gift</a>
-
-[Ecology and the Jewish Spirit where Nature and the sacred meet](https://github.com/jonathanchapmanmoore/jonathanchapmanmoore/blob/master/images/jewish.jpg)
-
-<a href="https://www.jstor.org/stable/25071523">Competition in Consumption as Viewed by Jewish Law</a>
-
-<a href="https://github.com/jonathanchapmanmoore/My-Mensa-Tests">My Mensa Tests</a>
-
-<a href="https://blogs.scientificamerican.com/beautiful-minds/how-does-iq-relate-to-personality/">How Does IQ Relate to Personality?</a>
 
 Net Worth $229,493,000
 
