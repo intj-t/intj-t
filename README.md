@@ -213,6 +213,8 @@ had 2 large homes before my moms heart attack in 1986, she lived until 1996. Aft
 
 For instance, assume a patent’s complete price is $52,000. Debit $52,000 to the patent account. Credit the identical quantity to the money account in the identical journal entry. A credit decreases money, which can also be an asset on the balance sheet. Subtract the residual worth you expect the patent to attain by the end of its useful life from its price
 
+Collateral is an asset pledged by a borrower to a lender until a loan is paid back. If the borrower defaults, then the lender has the right to seize the collateral and sell it to pay off the loan
+
 <a href="https://www.upcounsel.com/patent-amortization">Patent Amortization: Everything You Need to Know</a>
 
 <a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/smj.3316">Which patents to use as loan collaterals? The role of newness of patents' external technology linkage</a>
