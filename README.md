@@ -41,6 +41,8 @@
 
 [My Soho](https://github.com/jonathanchapmanmoore/jonathanchapmanmoore/blob/master/images/apt.jpg)
 
+[Instagram](https://www.instagram.com/jonathanchapmanmoore/)
+
 ### Windows
 
 3 Saved Jobs at Microsoft Careers
