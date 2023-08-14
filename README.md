@@ -99,9 +99,7 @@ I Graduated Bizspark and had Windows CE Access and was in the CE Shared Source p
 
 <a href="https://www.investopedia.com/terms/s/section-1202.asp">IRS Section 1202</a>
 
-<a href="https://www.upcounsel.com/when-is-a-sale-a-sale">When a sale is a sale</a>
-
-<a href="https://smallbusiness.chron.com/cash-receipts-vs-store-receipts-12919.html">Cash Reciepts Vs Store Reciepts</a>
+<a href="https://www.jstor.org/stable/240854">Revenue, Expense, and Income</a>
 
 <a href="https://www.investopedia.com/terms/i/incomefund.asp">Income Fund Definition, Types, and Examples</a>
 
