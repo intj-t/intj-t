@@ -31,6 +31,8 @@
 
 I own a patent worth $8 million from Macromedia Flash which was rebranded to Amimate which is good for loans and amortilization.
 
+Nice guys are irresponsible and default
+
 #### Blogs
 
 <a href="https://jdm7dvfreebsd.blogspot.com/">FreeBSD Blog</a>
