@@ -31,7 +31,7 @@
 
 I own a patent worth $8 million from Macromedia Flash which was rebranded to Amimate which is good for loans and amortilization.
 
-Nice guys are irresponsible and default or make charge offs
+Amortization is paying off a debt over time in equal installments.
 
 [System Integrator Contract](https://github.com/jonathanchapmanmoore/jonathanchapmanmoore/blob/master/images/contract.jpg)
 
