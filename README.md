@@ -29,6 +29,28 @@
 
 <a href="https://www.sphinxlogic.org/">Sphinx Logic</a>
 
+### Royal Society of the Arts 
+
+<a href="https://www.thersa.org/fellowship/find-a-fellow/profile/139174">My Royal Soceity of the Arts Fellowship</a>
+
+### My Virginia Soho
+
+[My Soho](https://github.com/jonathanchapmanmoore/jonathanchapmanmoore/blob/master/images/apt.jpg)
+
+[Instagram](https://www.instagram.com/jonathanchapmanmoore/)
+
+### My Personality and IQ
+
+<a href="https://www.16personalities.com/profiles/2ebeedfa55fbe">My 16 Personalties Profile</a>
+
+<a href="https://www.truity.com/infographic/16-personality-types-animals">Animal Personalites</a>
+
+<a href="https://www.youtube.com/watch?v=hWSgH8ytLJI">Paul Allen's Yacht</a>
+
+### Code Project
+
+<a href="https://www.codeproject.com/script/Membership/View.aspx?mid=527156">My Code Project Profesional Profile</a>
+
 ### Intel
 
 <a href="https://hbr.org/2014/07/resentment-jealousy-feuds-a-look-at-intels-founding-team">Resentment, Jealousy, Feuds: A Look at Intel’s Founding Team</a>
@@ -36,12 +58,6 @@
 ### Infinity
 
 <a href="https://plato.stanford.edu/entries/infinity/">Intinity</a>
-
-### My Virginia Soho
-
-[My Soho](https://github.com/jonathanchapmanmoore/jonathanchapmanmoore/blob/master/images/apt.jpg)
-
-[Instagram](https://www.instagram.com/jonathanchapmanmoore/)
 
 ### Windows
 
@@ -107,8 +123,6 @@ I Graduated Bizspark and had Windows CE Access and was in the CE Shared Source p
 
 <a href="https://www.upwork.com/hire/grant-writers/">Upwork Grant Writers</a>
 
-How do you get you get your million in cash doctor? "take care of" a high functioning schizophrenic.
-
 ### Founding of Microsoft
 
 <a href="https://bigthink.com/surprising-science/in-1973-an-mit-computer-predicted-the-end-of-civilization-so-far-its-on-target/">In 1973, an MIT computer predicted when civilization will end</a>
@@ -154,6 +168,8 @@ IRS](https://github.com/jonathanchapmanmoore/jonathanchapmanmoore/blob/master/do
 
 ### Jonathan Chapman Moore
 
+<a href="https://www.sphinxlogic.org/Jonathan Chapman Moore FRSA.docx">Curriculum Vitae</a>
+
 #### Blogs
 
 <a href="https://jdm7dvfreebsd.blogspot.com/">FreeBSD Blog</a>
@@ -166,17 +182,7 @@ IRS](https://github.com/jonathanchapmanmoore/jonathanchapmanmoore/blob/master/do
 
 [Ecology and the Jewish Spirit where Nature and the sacred meet](https://github.com/jonathanchapmanmoore/jonathanchapmanmoore/blob/master/images/jewish.jpg)
 
-<a href="https://www.sphinxlogic.org/Jonathan Chapman Moore FRSA.docx">Curriculum Vitae</a>
-
 <a href="https://www.jstor.org/stable/25071523">Competition in Consumption as Viewed by Jewish Law</a>
-
-<a href="https://www.16personalities.com/profiles/2ebeedfa55fbe">My 16 Personalties Profile</a>
-
-<a href="https://www.thersa.org/fellowship/find-a-fellow/profile/139174">My Royal Soceity of the Arts Fellowship</a>
-
-<a href="https://www.truity.com/infographic/16-personality-types-animals">Animal Personalites</a>
-
-<a href="https://www.codeproject.com/script/Membership/View.aspx?mid=527156">My Code Project Profesional Profile</a>
 
 <a href="https://github.com/jonathanchapmanmoore/My-Mensa-Tests">My Mensa Tests</a>
 
@@ -204,6 +210,8 @@ I'm inheriting a home when my father starts a trust I want to buy a second home.
 had 2 large homes before my moms heart attack in 1986, she lived until 1996. After getting diabeties when she was three years old. After eating alot of sugar at a young age. My step mom died of cancer she was a Sexton. She was adopted from the Tates. My mom and father and a morgage on a large home in Bristol TN in 1984 before her heart attack. My father and step mother bought the families childhood home that my grandfather rented in 1960 in 2000. I went to Sullins Acedemy boarding school. Skipped the first grade, Graduated Catholic School, Graduated High School, Graduated Prep School and have 98 bachelor of science credits in Computer Science at UVa Wise. I'm Windows Server 2003 and Windows 7 Internals Certified. I'm a Silverlight Partner and A Microsoft Design Partner from 2011-2014. And I'm applying for a Windows 8/8.1 Copyright I was awarded a Flash patent by Macromedia in 2003. I was unaware of Sony Extra Sensory Perception in 2001 and was dianognosed with schizoaffective disorder. I thought a NBC broadcaster was talking to me when it was realy Sony ESP. I have a normal MRI. I have old heritage. I want to use my capital reciepts or net worth for payroll. Own shares of a income fund small initial investment in 2003. Thousands of shares are pooled into the fund. I have picture framed Gates and Ballmer email. One of which Ballmer called Linux a cancer. In my Soho I'm running Windows Server 2012 R2 with VLC ESU's, Trying Configuration Manager. I own a patent worth $8 million from Macromedia Flash which was rebranded to Amimate which is good for loans and amortilization.
 
 For instance, assume a patent’s complete price is $52,000. Debit $52,000 to the patent account. Credit the identical quantity to the money account in the identical journal entry. A credit decreases money, which can also be an asset on the balance sheet. Subtract the residual worth you expect the patent to attain by the end of its useful life from its price
+
+<a href="https://www.upcounsel.com/patent-amortization">Patent Amortization: Everything You Need to Know</a>
 
 <a href="https://www.independent.co.uk/news/world/sony-senses-a-market-in-esp-1577154.html">Sony senses a market in ESP</a>
 
@@ -239,7 +247,6 @@ My family has six hereridy titles from the UK. I'm a Moore, Chatman(Chapman), Tu
 
 It all started in 2001 when a Microsoft TV commercial mentioned 'age' it can be found on iSpotTV now and started to research immortality on my own until in 2011 I found the above link it has just been doctors competing with me until they know they cannnot live forever. 
 
-
 ### Neural Networks
 
 <a href="https://link.springer.com/chapter/10.1007/978-3-030-22885-9_21">Deep Neural Networks for Indoor Localization Using WiFi Fingerprints</a>
@@ -247,8 +254,6 @@ It all started in 2001 when a Microsoft TV commercial mentioned 'age' it can be 
 <a href="https://www.newscientist.com/article/mg15621052-800-radio-head-the-brain-has-its-own-fm-receiver/">Radio head – The brain has its own FM receiver</a>
 
 <a href="https://www.sciencedirect.com/science/article/pii/S1571064513001188">Consciousness in the universe: A review of the ‘Orch OR’ theory</a>
-
-<a href="https://www.youtube.com/watch?v=hWSgH8ytLJI">Paul Allen's Yacht</a>
 
 ### Views
 ![](https://komarev.com/ghpvc/?username=jonathanchapmanmoore)
