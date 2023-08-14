@@ -125,6 +125,10 @@ How do you get you get your million in cash doctor? "take care of" a high functi
 
 <a href="https://www.theguardian.com/commentisfree/2020/jan/20/joe-biden-corruption-donald-trump">‘Middle Class’ Joe Biden has a corruption problem – it makes him a weak candidate</a>
 
+### Oil
+
+<a href="https://www.discovermagazine.com/planet-earth/is-the-world-running-out-of-oil">Is the World Running Out of Oil?</a>
+
 ### Population
 
 [The Population Crisis: The Stork, the Plow, and the
