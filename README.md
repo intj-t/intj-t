@@ -37,6 +37,10 @@
 
 <a href="https://www.thersa.org/fellowship/find-a-fellow/profile/139174">My Royal Soceity of the Arts Fellowship</a>
 
+### Grants
+
+<a href="https://www.upwork.com/hire/grant-writers/">Upwork Grant Writers</a>
+
 ### My Virginia Soho
 
 [My Soho](https://github.com/jonathanchapmanmoore/jonathanchapmanmoore/blob/master/images/apt.jpg)
@@ -115,17 +119,9 @@ I Graduated Bizspark and had Windows CE Access and was in the CE Shared Source p
 
 <a href="https://www.investopedia.com/ask/answers/100515/does-working-capital-include-salaries.asp">Does Working Capital Include Salaries?</a>
 
-<a href="https://www.investopedia.com/terms/w/workingcapital.asp">Working Capital</a>
-
 <a href="https://www.investopedia.com/terms/s/section-1202.asp">IRS Section 1202</a>
 
 <a href="https://www.jstor.org/stable/240854">Revenue, Expense, and Income</a>
-
-<a href="https://www.investopedia.com/terms/i/incomefund.asp">Income Fund Definition, Types, and Examples</a>
-
-<a href="https://www.investopedia.com/terms/i/incomestatement.asp">Income Statement: How to Read and Use It</a>
-
-<a href="https://www.upwork.com/hire/grant-writers/">Upwork Grant Writers</a>
 
 <a href="https://www.reuters.com/world/uk/bank-england-warns-lenders-over-private-equity-exposures-2023-07-03/">Bank of England warns lenders over private equity, commodities exposure</a>
 
