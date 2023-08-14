@@ -103,6 +103,8 @@ I Graduated Bizspark and had Windows CE Access and was in the CE Shared Source p
 
 <a href="https://www.investopedia.com/terms/i/incomefund.asp">Income Fund Definition, Types, and Examples</a>
 
+<a href="https://www.investopedia.com/terms/i/incomestatement.asp">Income Statement: How to Read and Use It</a>
+
 <a href="https://www.upwork.com/hire/grant-writers/">Upwork Grant Writers</a>
 
 How do you get you get your million in cash doctor? "take care of" a high functioning schizophrenic.
