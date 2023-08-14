@@ -77,6 +77,8 @@ I Graduated Bizspark and had Windows CE Access and was in the CE Shared Source p
 
 [Bill Gates Forrester Email to me in 2005](https://github.com/jonathanchapmanmoore/jonathanchapmanmoore/blob/master/images/gates.jpg)
 
+[How to pull a Bill Gates](https://www.forbes.com/sites/johngreathouse/2015/03/23/pull-a-bill-gates-dont-let-your-company-drown-in-cash/?sh=74726b75556c)
+
 <a href="https://www.sphinxlogic.org/The Million Dollar Equation.docx">The Million Dollar Equation</a>
 
 <a href="https://www.forrester.com/blogs/determining-the-value-of-a-perpetual-license/">Determining the Value of a Perpetual License</a>
