@@ -33,6 +33,10 @@ I own a patent worth $8 million from Macromedia Flash which was rebranded to Ami
 
 Nice guys are irresponsible and default or make charge offs
 
+[System Integrator Contract](https://github.com/jonathanchapmanmoore/jonathanchapmanmoore/blob/master/images/contract.jpg)
+
+[Bizspark Graduation](https://github.com/jonathanchapmanmoore/jonathanchapmanmoore/blob/master/images/bizspark.jpg)
+
 #### Blogs
 
 <a href="https://jdm7dvfreebsd.blogspot.com/">FreeBSD Blog</a>
@@ -125,9 +129,7 @@ Nice guys are irresponsible and default or make charge offs
 
 Preferred Shares of Equity. This may be considered a cash equivalent if they are purchased shortly before the redemption date and not expected to experience material fluctuation in value
 
-[System Integrator Contract](https://github.com/jonathanchapmanmoore/jonathanchapmanmoore/blob/master/images/contract.jpg)
 
-[Bizspark Graduation](https://github.com/jonathanchapmanmoore/jonathanchapmanmoore/blob/master/images/bizspark.jpg)
 
 I Graduated Bizspark and had Windows CE Access and was in the CE Shared Source programe And I would like my Code Center Premium Smart Card Access I've been emailing Microsoft for a while about it. I should be eliglible.
 
