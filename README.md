@@ -213,6 +213,8 @@ For instance, assume a patent’s complete price is $52,000. Debit $52,000 to th
 
 <a href="https://www.upcounsel.com/patent-amortization">Patent Amortization: Everything You Need to Know</a>
 
+<a href="https://onlinelibrary.wiley.com/doi/abs/10.1002/smj.3316">Which patents to use as loan collaterals? The role of newness of patents' external technology linkage</a>
+
 <a href="https://www.independent.co.uk/news/world/sony-senses-a-market-in-esp-1577154.html">Sony senses a market in ESP</a>
 
 <a href="https://www.cnbc.com/2018/04/03/the-real-danger-in-sinclair-broadcasts-fake-news-scandal.html">The real danger in Sinclair Broadcast’s ‘fake news’ scandal</a>
