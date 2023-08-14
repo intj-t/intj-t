@@ -29,9 +29,13 @@
 
 <a href="https://www.sphinxlogic.org/">Sphinx Logic</a>
 
-### 
+### Intel
 
 <a href="https://hbr.org/2014/07/resentment-jealousy-feuds-a-look-at-intels-founding-team">Resentment, Jealousy, Feuds: A Look at Intel’s Founding Team</a>
+
+### Infinity
+
+<a href="https://plato.stanford.edu/entries/infinity/">Intinity</a>
 
 ### My Virginia Soho
 
