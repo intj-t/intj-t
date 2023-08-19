@@ -1,4 +1,4 @@
-﻿<img align="right" width="500" src="images/lab.jpg">
+﻿<img align="right" width="500" src="images/VirtualBox_Windows XP Professional_14_04_2023_09_58_41.png">
 <img align="right" width="500" src="images/octo.jpg">
 <!--<ul>
 <li><a href="https://upload.wikimedia.org/wikipedia/commons/c/cd/Unix_timeline.en.svg">UNIX Operating System Timeline</a></li>
