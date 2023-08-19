@@ -39,6 +39,8 @@ Amortization is paying off a debt over time in equal installments.
 
 [My Ambient BMI Registered Works](https://github.com/jonathanchapmanmoore/jonathanchapmanmoore/blob/master/images/bmi.png)
 
+[My Music On Bandcamp](https://jonathanchapmanmoore.bandcamp.com/)
+
 #### Blogs
 
 <a href="https://jdm7dvfreebsd.blogspot.com/">FreeBSD Blog</a>
