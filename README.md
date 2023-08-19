@@ -57,6 +57,8 @@ Amortization is paying off a debt over time in equal installments.
 
 <a href="https://www.sphinxlogic.org/">Sphinx Logic</a>
 
+<a href="https://www.crunchbase.com/organization/sphinx-logic">Tech Crunch Profile</a>
+
 ### Greece Debit Crisis
 
 <a href="https://www.cnbc.com/2015/07/07/greece-crisis-the-worlds-biggest-sovereign-defaults.html">The world’s biggest sovereign defaults</a>
