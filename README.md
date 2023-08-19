@@ -125,6 +125,10 @@ Amortization is paying off a debt over time in equal installments.
 
 [Obtaining Extended Security Updates for eligible Windows devices](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/obtaining-extended-security-updates-for-eligible-windows-devices/ba-p/1167091)
 
+### 2000 Macromedia User Group
+
+[Macromedia User Group](https://web.archive.org/web/20001002153818/http://www.macromedia.com/support/programs/usergroup.cgi?state=Virginia)
+
 ### Contracts and Finance
 
 Preferred Shares of Equity. This may be considered a cash equivalent if they are purchased shortly before the redemption date and not expected to experience material fluctuation in value
