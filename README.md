@@ -87,6 +87,8 @@ Amortization is paying off a debt over time in equal installments.
 
 <a href="https://www.16personalities.com/profiles/2ebeedfa55fbe">My 16 Personalties Profile</a>
 
+<a href="https://www.e-ir.info/2008/05/25/an-examination-of-the-personality-types-of-three-intelligence-leaders-within-the-british-intelligence-community/">An Examination of the Personality Types of Three Intelligence Leaders Within the British Intelligence Community</a>
+
 <a href="https://www.truity.com/infographic/16-personality-types-animals">Animal Personalites</a>
 
 <a href="https://blogs.scientificamerican.com/beautiful-minds/how-does-iq-relate-to-personality/">How Does IQ Relate to Personality?</a>
