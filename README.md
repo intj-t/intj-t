@@ -39,7 +39,7 @@
 
 I own a patent worth $8 million from Macromedia Flash which was rebranded to Amimate which is good for loans and amortilization.
 
-Amortization is paying off a debt over time in equal installments. I do have my Bankers Acceptance letter and Fidelity gold card but nothing changes until my father's signs off on the Trust.
+Amortization is paying off a debt over time in equal installments. I do have my Bankers Acceptance letter and Fidelity gold card but nothing changes until my father's signs off on the Trust. Cash Distributions means dividends, interest and other distributions and payments (including proceeds of liquidation, sale or other disposition) made or received in cash upon or with respect to any Collateral.
 
 [System Integrator Contract](https://github.com/jonathanchapmanmoore/jonathanchapmanmoore/blob/master/images/contract.jpg)
 
