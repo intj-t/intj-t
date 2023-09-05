@@ -33,6 +33,8 @@
 
 [Net Worth](https://github.com/jonathanchapmanmoore/jonathanchapmanmoore/blob/master/images/networth.png)
 
+[Patents as loan collateral can help businesses](https://news.rice.edu/news/2021/patents-loan-collateral-can-help-businesses-meet-financial-needs-study-shows)
+
 [Anne Hathaway](https://sphinxlogic.org/thefourfaces/index.html)
 
 [Sir Thomas More and Jane Austen](https://janeaustensworld.com/2021/07/25/sir-thomas-more-and-jane-austen/)
