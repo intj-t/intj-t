@@ -69,7 +69,7 @@ Amortization is paying off a debt over time in equal installments. I do have my 
 
 ### Website Hosted on Azure
 
-<a href="https://www.sphinxlogic.org/">Sphinx Logic</a>
+<a href="https://sphinxlogic.org/">Sphinx Logic</a>
 
 <a href="https://www.crunchbase.com/organization/sphinx-logic">Tech Crunch Profile</a>
 
