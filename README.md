@@ -173,6 +173,8 @@ I Graduated Bizspark and had Windows CE Access and was in the CE Shared Source p
 
 <a href="https://www.investopedia.com/terms/c/cashconversioncycle.asp">Cash Conversion Cycle (CCC): What Is It, and How Is It Calculated?</a>
 
+<a href="https://www.investopedia.com/terms/c/cashequivalents.asp">What Are Cash Equivalents? Types, Features, Examples</a>
+
 <a href="https://www.investopedia.com/ask/answers/100515/does-working-capital-include-salaries.asp">Does Working Capital Include Salaries?</a>
 
 <a href="https://www.investopedia.com/terms/s/section-1202.asp">IRS Section 1202</a>
