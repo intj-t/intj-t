@@ -39,10 +39,7 @@
 
 [Sir Thomas More and Jane Austen](https://janeaustensworld.com/2021/07/25/sir-thomas-more-and-jane-austen/)
 
-I own a patent worth $8 million from Macromedia Flash which was rebranded to Amimate which is good for loans and amortilization.
-
-Amortization is paying off a debt over time in equal installments. I do have my Bankers Acceptance letter and Fidelity gold card but nothing changes until my father's signs off on the Trust. Cash Distributions means dividends, interest and other distributions and payments (including proceeds of liquidation, sale or other disposition) made or received in cash upon or with respect to any Collateral.
-
+Net Worth was $500K to 1 million from 2002 when I was 24 at Edward Jones to 2017 at Fidelity. Invested in Microsoft and Adobe all 1099's filed. I have a Macromedia patent for a $6.3 million taxed S Corporation or partnership capital gain. Since 1954, under Section 1235 of the Code, the transfer of a patent by the inventor generally has been entitled to long-term capital gains treatment, irrespective of whether the patent had been held for more than one year. The Tax Cuts and Jobs Growth Act. Signed into law by President Trump. On IRS Form 1040 Schedule E .Completing a 2006 Microsoft Tender offer that was extended Have $6 million in unrealized gains in my Edge account and a 529 Plan. Microsoft and Adobe 1099-NEC have to be given to Microsoft and Adobe.
 [System Integrator Contract](https://github.com/jonathanchapmanmoore/jonathanchapmanmoore/blob/master/images/contract.jpg)
 
 [Bizspark Graduation](https://github.com/jonathanchapmanmoore/jonathanchapmanmoore/blob/master/images/bizspark.jpg)
