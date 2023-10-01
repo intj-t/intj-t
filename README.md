@@ -11,7 +11,7 @@
 <li><a href="https://web.archive.org/web/20060509003149/http://forums.microsoft.com/MSDN/default.aspx?forumgroupid=12&siteid=1">2004 MSDN Fourms</a></li> 
 <li><a href="https://web.archive.org/web/20010403224927/http://research.microsoft.com/">University Programs</a></li>
 </ul>-->
-<!--<ul>
+<ul>
 	<li>1. Set the date to August 1st 2003 by typing 'date' in the cmd window</li>
 	<li>2. Make sure the files are not read only.</li>
 	<li>3. Install the 2003 SP1 driver certificate.</li>
@@ -23,7 +23,7 @@
 	<li>9. type 'BUILD /ZP' after you fix errors</li>
 	<li>10. If you need to use 'expand /r' to X:\ENGLISH\WIN2003\ENT\I386\* C:\binaries.x86fre from a retail DVD.</li>
         <li>11. certmgr.msc, go to Trusted Root Certification Authorities\Certificates and remove the Microsoft Test Root Authority certificate, Sign out and Sign in again.</li>
-</ul>-->
+</ul>
 
 ### Jonathan Chapman Moore
 
@@ -35,7 +35,7 @@
 
 [Patents as loan collateral can help businesses](https://news.rice.edu/news/2021/patents-loan-collateral-can-help-businesses-meet-financial-needs-study-shows)
 
-[Anne Hathaway](https://sphinxlogic.org/thefourfaces/index.html)
+[Anne Hathaway](https://annehathaway.azurewebsites.net/)
 
 [Sir Thomas More and Jane Austen](https://janeaustensworld.com/2021/07/25/sir-thomas-more-and-jane-austen/)
 
