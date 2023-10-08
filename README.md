@@ -29,9 +29,9 @@
 
 <a href="https://www.sphinxlogic.org/Jonathan Chapman Moore FRSA.docx">Curriculum Vitae</a>
 
-[Family Tree](https://github.com/jonathanchapmanmoore/jonathanchapmanmoore/blob/master/images/familytree.jpg)
+[Family Tree](https://github.com/jonathanlyonchapmanmoore/jonathanlyonchapmanmoore/blob/master/images/familytree.jpg)
 
-[Net Worth](https://github.com/jonathanchapmanmoore/jonathanchapmanmoore/blob/master/images/networth.png)
+[Net Worth](https://github.com/jonathanlyonchapmanmoore/jonathanlyonchapmanmoore/blob/master/images/networth.png)
 
 [Patents as loan collateral can help businesses](https://news.rice.edu/news/2021/patents-loan-collateral-can-help-businesses-meet-financial-needs-study-shows)
 
@@ -41,13 +41,13 @@
 
 Net Worth was $500K to 1 million from 2002 when I was 24 at Edward Jones to 2017 at Fidelity. Invested in Microsoft and Adobe all 1099's filed. I have a Macromedia patent for a $6.3 million taxed S Corporation or partnership capital gain. Since 1954, under Section 1235 of the Code, the transfer of a patent by the inventor generally has been entitled to long-term capital gains treatment, irrespective of whether the patent had been held for more than one year. The Tax Cuts and Jobs Growth Act. Signed into law by President Trump. On IRS Form 1040 Schedule E .Completing a 2006 Microsoft Tender offer that was extended Have $6 million in unrealized gains in my Edge account and a 529 Plan. Microsoft and Adobe 1099-NEC have to be given to Microsoft and Adobe.
 
-[System Integrator Contract](https://github.com/jonathanchapmanmoore/jonathanchapmanmoore/blob/master/images/contract.jpg)
+[System Integrator Contract](https://github.com/jonathanlyonchapmanmoore/jonathanlyonchapmanmoore/blob/master/images/contract.jpg)
 
-[Bizspark Graduation](https://github.com/jonathanchapmanmoore/jonathanchapmanmoore/blob/master/images/bizspark.jpg)
+[Bizspark Graduation](https://github.com/jonathanlyonchapmanmoore/jonathanlyonchapmanmoore/blob/master/images/bizspark.jpg)
 
-[My Ambient BMI Registered Works](https://github.com/jonathanchapmanmoore/jonathanchapmanmoore/blob/master/images/bmi.png)
+[My Ambient BMI Registered Works](https://github.com/jonathanlyonchapmanmoore/jonathanlyonchapmanmoore/blob/master/images/bmi.png)
 
-[My Music On Bandcamp](https://jonathanchapmanmoore.bandcamp.com/)
+[My Music On Bandcamp](https://jonathanlyonchapmanmoore.bandcamp.com/)
 
 [My Blend.io](https://blend.io/jonathanmoore)
 
@@ -59,13 +59,13 @@ Net Worth was $500K to 1 million from 2002 when I was 24 at Edward Jones to 2017
 
 <a href="https://jdm7dvcsmath.blogspot.com/">Mathematics Blog</a>
 
-<a href="https://github.com/jonathanchapmanmoore/UWA">My University of Washington Gift</a>
+<a href="https://github.com/jonathanlyonchapmanmoore/UWA">My University of Washington Gift</a>
 
-[Ecology and the Jewish Spirit where Nature and the sacred meet](https://github.com/jonathanchapmanmoore/jonathanchapmanmoore/blob/master/images/jewish.jpg)
+[Ecology and the Jewish Spirit where Nature and the sacred meet](https://github.com/jonathanlyonchapmanmoore/jonathanlyonchapmanmoore/blob/master/images/jewish.jpg)
 
 <a href="https://www.jstor.org/stable/25071523">Competition in Consumption as Viewed by Jewish Law</a>
 
-<a href="https://github.com/jonathanchapmanmoore/My-Mensa-Tests">My Mensa Tests</a>
+<a href="https://github.com/jonathanlyonchapmanmoore/My-Mensa-Tests">My Mensa Tests</a>
 
 ### Website Hosted on Azure
 
@@ -87,9 +87,9 @@ Net Worth was $500K to 1 million from 2002 when I was 24 at Edward Jones to 2017
 
 ### My Virginia Soho
 
-[My Soho](https://github.com/jonathanchapmanmoore/jonathanchapmanmoore/blob/master/images/apt.jpg)
+[My Soho](https://github.com/jonathanlyonchapmanmoore/jonathanlyonchapmanmoore/blob/master/images/apt.jpg)
 
-[Instagram](https://www.instagram.com/jonathanchapmanmoore/)
+[Instagram](https://www.instagram.com/jonathanlyonchapmanmoore/)
 
 ### My Personality and IQ
 
@@ -161,7 +161,7 @@ Preferred Shares of Equity. This may be considered a cash equivalent if they are
 
 I Graduated Bizspark and had Windows CE Access and was in the CE Shared Source programe And I would like my Code Center Premium Smart Card Access I've been emailing Microsoft for a while about it. I should be eliglible.
 
-[Bill Gates Forrester Email to me in 2005](https://github.com/jonathanchapmanmoore/jonathanchapmanmoore/blob/master/images/gates.jpg)
+[Bill Gates Forrester Email to me in 2005](https://github.com/jonathanlyonchapmanmoore/jonathanlyonchapmanmoore/blob/master/images/gates.jpg)
 
 [How to pull a Bill Gates](https://www.forbes.com/sites/johngreathouse/2015/03/23/pull-a-bill-gates-dont-let-your-company-drown-in-cash/?sh=74726b75556c)
 
@@ -218,7 +218,7 @@ I Graduated Bizspark and had Windows CE Access and was in the CE Shared Source p
 ### Population
 
 [The Population Crisis: The Stork, the Plow, and the
-IRS](https://github.com/jonathanchapmanmoore/jonathanchapmanmoore/blob/master/docs/The%20Population%20CrisisTheStorkthePlowandtheIRS.pdf)
+IRS](https://github.com/jonathanlyonchapmanmoore/jonathanlyonchapmanmoore/blob/master/docs/The%20Population%20CrisisTheStorkthePlowandtheIRS.pdf)
 
 ### Autism
 
@@ -240,7 +240,7 @@ CS Lewis The Cronicales of Narnia $7,500 x7 $52,500 in value
 
 208 garments worth a value of $3,500 each $728,000
 
-[My Credit Score](https://github.com/jonathanchapmanmoore/jonathanchapmanmoore/blob/master/images/credit.jpg)
+[My Credit Score](https://github.com/jonathanlyonchapmanmoore/jonathanlyonchapmanmoore/blob/master/images/credit.jpg)
 
 <a href="https://www.investopedia.com/how-to-refinance-a-second-home-7487004">How to Refinance a Second Home</a>
 
@@ -298,7 +298,7 @@ It all started in 2001 when a Microsoft TV commercial mentioned 'age' it can be 
 <a href="https://www.sciencedirect.com/science/article/pii/S1571064513001188">Consciousness in the universe: A review of the ‘Orch OR’ theory</a>
 
 ### Views
-![](https://komarev.com/ghpvc/?username=jonathanchapmanmoore)
+![](https://komarev.com/ghpvc/?username=jonathanlyonchapmanmoore)
 
 		
 
