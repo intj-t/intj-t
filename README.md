@@ -27,7 +27,7 @@
 
 ### Jonathan Chapman Moore
 
-<a href="https://www.sphinxlogic.org/Jonathan Chapman Moore FRSA.docx">Curriculum Vitae</a>
+<a href="Jonathan Chapman Moore FRSA.docx">Curriculum Vitae</a>
 
 [Family Tree](https://github.com/jonathanlyonchapmanmoore/jonathanlyonchapmanmoore/blob/master/images/familytree.jpg)
 
@@ -60,8 +60,6 @@ Net Worth was $500K to 1 million from 2002 when I was 24 at Edward Jones to 2017
 <a href="https://jdm7dvcsmath.blogspot.com/">Mathematics Blog</a>
 
 <a href="https://github.com/jonathanlyonchapmanmoore/UWA">My University of Washington Gift</a>
-
-[Ecology and the Jewish Spirit where Nature and the sacred meet](https://github.com/jonathanlyonchapmanmoore/jonathanlyonchapmanmoore/blob/master/images/jewish.jpg)
 
 <a href="https://www.jstor.org/stable/25071523">Competition in Consumption as Viewed by Jewish Law</a>
 
