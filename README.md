@@ -27,6 +27,8 @@
 
 ### Jonathan Chapman Moore
 
+## Tell the physicans to pay five more dollars for the frames than the UX designer or computer scientist.
+
 <a href="Jonathan Chapman Moore FRSA.docx">Curriculum Vitae</a>
 
 [Family Tree](https://github.com/jonathanlyonchapmanmoore/jonathanlyonchapmanmoore/blob/master/images/familytree.jpg)
