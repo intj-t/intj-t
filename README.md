@@ -156,13 +156,14 @@ Net Worth was $500K to 1 million from 2002 when I was 24 at Edward Jones to 2017
 <li><a href="https://www.computerworld.com/article/2570686/sco-confirms-microsoft-has-licensed-its-unix-technology.html">SCO confirms Microsoft has licensed its Unix technology</a></li>
 <li><a href="https://www.zdnet.com/article/last-of-original-sco-v-ibm-linux-lawsuit-settled/">Last of original SCO v IBM Linux lawsuit settled</a></li>
 <li><a href="https://www.itprotoday.com/compute-engines/windows-nt-and-vms-rest-story">Windows NT and VMS: The Rest of the Story</a></li>
-<li><a href="https://www.zdnet.com/article/who-really-owns-unix/">Who really owns Unix?</a></li> 
-<li><a href="https://archive.org/details/VCPP4.00Macintosh">Visual C++ 4.0 Cross-Development Edition for Macintosh</a></li>
-<li><a href="https://archive.org/details/ms-visual-c-4.0-risc-edition">MS Visual C++ 4.0 RISC Edition</a></li>
+<li><a href="https://www.zdnet.com/article/who-really-owns-unix/">Who really owns Unix?</a></li>
+
 </ul>
 
 <h4>Microsoft</h4>
 <ul>
+<li><a href="https://archive.org/details/VCPP4.00Macintosh">Visual C++ 4.0 Cross-Development Edition for Macintosh</a></li>
+<li><a href="https://archive.org/details/ms-visual-c-4.0-risc-edition">MS Visual C++ 4.0 RISC Edition</a></li>
 <li><a href="https://betawiki.net/wiki/Build_lab">Windows Build Lab</a></li>
 <li><a href="https://windows-never-released.fandom.com/wiki/Windows_Never_Released_Wiki">Windows Never Released Wiki</a></li>
 <li><a href="https://www.microsoft.com/en-us/sharedsource/debugging.aspx">Debug with Code Center Premium Source</a>
