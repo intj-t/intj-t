@@ -31,6 +31,16 @@
 
 [Family Tree](https://github.com/jonathanlyonchapmanmoore/jonathanlyonchapmanmoore/blob/master/images/familytree.jpg)
 
+[Macromedia User Group 2000](https://web.archive.org/web/20001002153818/http://www.macromedia.com/support/programs/usergroup.cgi?state=Virginia)
+
+[Ableton User Group 2017](https://web.archive.org/web/20190502233051/https://www.ableton.com/en/community/user-groups/tri-cities-ableton-user-group/)
+
+<a href="https://www.thersa.org/fellowship/find-a-fellow/profile/139174">My Royal Soceity of the Arts Fellowship</a>
+
+<a href="https://www.theguardian.com/books/2012/jan/08/history-western-thought-trombley-review">A Short History of Western Thought by Stephen Trombley – review</a>
+
+<a href="https://hbr.org/2009/05/equity-or-cash-the-signal-sent-by-the-way-you-pay">Equity or Cash? The Signal Sent by the Way You Pay</a> 
+
 <a href="https://github.com/jonathanlyonchapmanmoore/jonathanlyonchapmanmoore/blob/master/images/IMG_0607.JPG">University of Virginia College at Wise Acceptance Letter</a>
 
 <a href="https://visualstudio.microsoft.com/subscriptions-administration/">Visual Studio Subscriptions administration</a>
@@ -88,22 +98,6 @@ Gates Orginially wanted me to for to Oxford in 2005 but management messed up the
 [My Music On Bandcamp](https://jonathanlyonchapmanmoore.bandcamp.com/)
 
 [My Blend.io](https://blend.io/jonathanmoore)
-
-#### 2000 Macromedia User Group
-
-[Macromedia User Group](https://web.archive.org/web/20001002153818/http://www.macromedia.com/support/programs/usergroup.cgi?state=Virginia)
-
-#### 2017 Ableton User Group
-
-[Ableton User Group](https://web.archive.org/web/20190502233051/https://www.ableton.com/en/community/user-groups/tri-cities-ableton-user-group/)
-
-#### Royal Society of the Arts 
-
-<a href="https://www.thersa.org/fellowship/find-a-fellow/profile/139174">My Royal Soceity of the Arts Fellowship</a>
-
-<a href="https://www.theguardian.com/books/2012/jan/08/history-western-thought-trombley-review">A Short History of Western Thought by Stephen Trombley – review</a>
-
-<a href="https://hbr.org/2009/05/equity-or-cash-the-signal-sent-by-the-way-you-pay">Equity or Cash? The Signal Sent by the Way You Pay</a> 
 
 #### Grants
 
