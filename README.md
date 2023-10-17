@@ -174,6 +174,11 @@ Gates Orginially wanted me to for to Oxford in 2005 but management messed up the
 <li><a href="https://www.zdnet.com/finance/berkeley-unix-moves-to-walnut-creek/">Berkeley UNIX moves to Walnut Creek</a></li>
 </ul>
 
+<h4>DEC</h4>
+<ul>
+<li><a href="https://digital.com/digital-equipment-corporation/">Digital Equipment Corporation, or DEC, who began paving the way for everyone starting in 1957</a></li>
+</ul>
+
 <h4>Apple</h4>
 <ul>
 <li><a href="https://www.macports.org/">Macports</a></li>
