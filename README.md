@@ -10,7 +10,7 @@
 <li><a href="images/microsoft-azure-stack-block-diagram.jpg">Microsoft Azure Architectural Stack</a></li>  
 <li><a href="https://web.archive.org/web/20060509003149/http://forums.microsoft.com/MSDN/default.aspx?forumgroupid=12&siteid=1">2004 MSDN Fourms</a></li> 
 </ul>
-<h4>Building Windoiws XP/2003</h4>
+<h4>Building Windows XP/2003</h4>
 <ul>
 	<li>1. Set the date to August 1st 2003 by typing 'date' in the cmd window</li>
 	<li>2. Make sure the files are not read only.</li>
