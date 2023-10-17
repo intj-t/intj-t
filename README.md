@@ -59,6 +59,36 @@ Net Worth was $500K to 1 million from 2002 when I was 24 at Edward Jones to 2017
 
 [My Blend.io](https://blend.io/jonathanmoore)
 
+### Royal Society of the Arts 
+
+<a href="https://www.thersa.org/fellowship/find-a-fellow/profile/139174">My Royal Soceity of the Arts Fellowship</a>
+
+### Grants
+
+<a href="https://www.upwork.com/hire/grant-writers/">Upwork Grant Writers</a>
+
+### My Virginia Soho
+
+[My Soho](https://github.com/jonathanlyonchapmanmoore/jonathanlyonchapmanmoore/blob/master/images/apt.jpg)
+
+[Instagram](https://www.instagram.com/jonathanlyonchapmanmoore/)
+
+### My Personality and IQ
+
+<a href="https://www.16personalities.com/profiles/2ebeedfa55fbe">My 16 Personalties Profile</a>
+
+<a href="https://www.e-ir.info/2008/05/25/an-examination-of-the-personality-types-of-three-intelligence-leaders-within-the-british-intelligence-community/">An Examination of the Personality Types of Three Intelligence Leaders Within the British Intelligence Community</a>
+
+<a href="https://www.truity.com/infographic/16-personality-types-animals">Animal Personalites</a>
+
+<a href="https://blogs.scientificamerican.com/beautiful-minds/how-does-iq-relate-to-personality/">How Does IQ Relate to Personality?</a>
+
+<a href="https://www.youtube.com/watch?v=hWSgH8ytLJI">Paul Allen's Yacht</a>
+
+### Code Project
+
+<a href="https://www.codeproject.com/script/Membership/View.aspx?mid=527156">My Code Project Profesional Profile</a>
+
 <h4>The Book of Sir Thomas More: Shakespeare's only surviving literary manuscript</h4>
 <ul>
 <li><a href="https://www.bl.uk/collection-items/shakespeares-handwriting-in-the-book-of-sir-thomas-more">The Book of Sir Thomas More: Shakespeare's only surviving literary manuscript</li>
@@ -131,6 +161,16 @@ Net Worth was $500K to 1 million from 2002 when I was 24 at Edward Jones to 2017
 <li><a href="https://archive.org/details/ms-visual-c-4.0-risc-edition">MS Visual C++ 4.0 RISC Edition</a></li>
 </ul>
 
+<a href="https://www.microsoft.com/en-us/research/project/language-integrated-quantum-operations-liqui/">Language-Integrated Quantum Operations: LIQUi|</a>
+
+<a href="https://betawiki.net/wiki/Build_lab">Windows Build Lab</a>
+
+<a href="https://windows-never-released.fandom.com/wiki/Windows_Never_Released_Wiki">Windows Never Released Wiki</a> 
+
+<a href="https://www.microsoft.com/en-us/sharedsource/debugging.aspx">Debug with Code Center Premium Source</a>
+
+<a href="https://news.microsoft.com/2002/02/21/microsoft-announces-major-expansion-of-shared-source-initiativeproviding-source-code-to-systems-integrators/">Microsoft Announces Major Expansion of Shared Source Initiative,Providing Source Code to Systems Integrators</a> 
+
 <h4>Open Group</h4>
 <ul>
 <li><a href="https://www.dmtf.org/standards/">Distributed Management Task Force</a></li>
@@ -158,40 +198,6 @@ Net Worth was $500K to 1 million from 2002 when I was 24 at Edward Jones to 2017
 
 <a href="https://www.crunchbase.com/organization/sphinx-logic">Tech Crunch Profile</a>
 
-### Greece Debit Crisis
-
-<a href="https://www.cnbc.com/2015/07/07/greece-crisis-the-worlds-biggest-sovereign-defaults.html">The world’s biggest sovereign defaults</a>
-
-### Royal Society of the Arts 
-
-<a href="https://www.thersa.org/fellowship/find-a-fellow/profile/139174">My Royal Soceity of the Arts Fellowship</a>
-
-### Grants
-
-<a href="https://www.upwork.com/hire/grant-writers/">Upwork Grant Writers</a>
-
-### My Virginia Soho
-
-[My Soho](https://github.com/jonathanlyonchapmanmoore/jonathanlyonchapmanmoore/blob/master/images/apt.jpg)
-
-[Instagram](https://www.instagram.com/jonathanlyonchapmanmoore/)
-
-### My Personality and IQ
-
-<a href="https://www.16personalities.com/profiles/2ebeedfa55fbe">My 16 Personalties Profile</a>
-
-<a href="https://www.e-ir.info/2008/05/25/an-examination-of-the-personality-types-of-three-intelligence-leaders-within-the-british-intelligence-community/">An Examination of the Personality Types of Three Intelligence Leaders Within the British Intelligence Community</a>
-
-<a href="https://www.truity.com/infographic/16-personality-types-animals">Animal Personalites</a>
-
-<a href="https://blogs.scientificamerican.com/beautiful-minds/how-does-iq-relate-to-personality/">How Does IQ Relate to Personality?</a>
-
-<a href="https://www.youtube.com/watch?v=hWSgH8ytLJI">Paul Allen's Yacht</a>
-
-### Code Project
-
-<a href="https://www.codeproject.com/script/Membership/View.aspx?mid=527156">My Code Project Profesional Profile</a>
-
 ### Intel
 
 <a href="https://hbr.org/2014/07/resentment-jealousy-feuds-a-look-at-intels-founding-team">Resentment, Jealousy, Feuds: A Look at Intel’s Founding Team</a>
@@ -199,22 +205,6 @@ Net Worth was $500K to 1 million from 2002 when I was 24 at Edward Jones to 2017
 ### Infinity
 
 <a href="https://plato.stanford.edu/entries/infinity/">Intinity</a>
-
-### Windows
-
-3 Saved Jobs at Microsoft Careers
-
-#### Quantam Kernel
-
-<a href="https://www.microsoft.com/en-us/research/project/language-integrated-quantum-operations-liqui/">Language-Integrated Quantum Operations: LIQUi|</a>
-
-<a href="https://betawiki.net/wiki/Build_lab">Windows Build Lab</a>
-
-<a href="https://windows-never-released.fandom.com/wiki/Windows_Never_Released_Wiki">Windows Never Released Wiki</a> 
-
-<a href="https://www.microsoft.com/en-us/sharedsource/debugging.aspx">Debug with Code Center Premium Source</a>
-
-<a href="https://news.microsoft.com/2002/02/21/microsoft-announces-major-expansion-of-shared-source-initiativeproviding-source-code-to-systems-integrators/">Microsoft Announces Major Expansion of Shared Source Initiative,Providing Source Code to Systems Integrators</a> 
 
 ### Channel 9
 
