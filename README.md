@@ -30,6 +30,8 @@
 
 <a href="https://visualstudio.microsoft.com/subscriptions-administration/">Visual Studio Subscriptions administration</a>
 
+<a href="https://www.microsoft.com/en-us/licensing/licensing-programs/open-license?activetab=open-license-tab%3aprimaryr2">What is the Microsoft Open Value program?</a>
+
 #### Tell the physicans to pay five more dollars for the frames than the UX designer or computer scientist at least at Gucci and Ralph Lauren.
 
 ### Websites Hosted on Azure
