@@ -228,7 +228,7 @@ Gates Orginially wanted me to for to Oxford in 2005 but management messed up the
 <li><a href="https://en.opensuse.org/openSUSE:Mirror_infrastructure">openSUSE:Mirror infrastructure</a></li>
 <li><a href="https://www.zdnet.com/article/when-microsoft-met-suse-this-windows-linux-partnership-gets-stronger-every-day/">When Microsoft met SUSE: This Windows-Linux partnership gets stronger every day</a></li>
 
-### Intel
+<!--### Intel
 
 <a href="https://hbr.org/2014/07/resentment-jealousy-feuds-a-look-at-intels-founding-team">Resentment, Jealousy, Feuds: A Look at Intel’s Founding Team</a>
 
@@ -384,7 +384,7 @@ It all started in 2001 when a Microsoft TV commercial mentioned 'age' it can be 
 
 <a href="https://www.newscientist.com/article/mg15621052-800-radio-head-the-brain-has-its-own-fm-receiver/">Radio head – The brain has its own FM receiver</a>
 
-<a href="https://www.sciencedirect.com/science/article/pii/S1571064513001188">Consciousness in the universe: A review of the ‘Orch OR’ theory</a>
+<a href="https://www.sciencedirect.com/science/article/pii/S1571064513001188">Consciousness in the universe: A review of the ‘Orch OR’ theory</a>-->
 
 ### Views
 ![](https://komarev.com/ghpvc/?username=jonathanlyonchapmanmoore)
