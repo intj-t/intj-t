@@ -34,6 +34,8 @@
 
 <a href="https://azure.microsoft.com/en-us/">Azure Sign In</a>
 
+[System Integrator Contract](https://github.com/jonathanlyonchapmanmoore/jonathanlyonchapmanmoore/blob/master/images/contract.jpg)
+
 <a href="https://github.com/jonathanlyonchapmanmoore/jonathanlyonchapmanmoore/blob/master/images/380739123_164881003326819_2771160564294002295_n.jpg">My Visual Studio Industry Partner Paid Contract</a>
 
 <a href="https://www.microsoft.com/en-us/licensing/licensing-programs/open-license?activetab=open-license-tab%3aprimaryr2">What is the Microsoft Open Value program?</a>
@@ -71,8 +73,6 @@ Gates Orginially wanted me to for to Oxford in 2005 but management messed up the
 [Net Worth](https://github.com/jonathanlyonchapmanmoore/jonathanlyonchapmanmoore/blob/master/images/networth.png)
 
 [Patents as loan collateral can help businesses](https://news.rice.edu/news/2021/patents-loan-collateral-can-help-businesses-meet-financial-needs-study-shows)
-
-[System Integrator Contract](https://github.com/jonathanlyonchapmanmoore/jonathanlyonchapmanmoore/blob/master/images/contract.jpg)
 
 [Bizspark Graduation](https://github.com/jonathanlyonchapmanmoore/jonathanlyonchapmanmoore/blob/master/images/bizspark.jpg)
 
