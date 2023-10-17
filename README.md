@@ -169,7 +169,7 @@ Net Worth was $500K to 1 million from 2002 when I was 24 at Edward Jones to 2017
 
 <a href="https://www.microsoft.com/en-us/sharedsource/debugging.aspx">Debug with Code Center Premium Source</a>
 
-<a href="https://news.microsoft.com/2002/02/21/microsoft-announces-major-expansion-of-shared-source-initiativeproviding-source-code-to-systems-integrators/">Microsoft Announces Major Expansion of Shared Source Initiative,Providing Source Code to Systems Integrators</a> 
+<a href="https://news.microsoft.com/2002/02/21/microsoft-announces-major-expansion-of-shared-source-initiativeproviding-source-code-to-systems-integrators/">Microsoft Announces Major Expansion of Shared Source Initiative,Providing Source Code to Systems Integrators, Individuals need 700 resourcxe hours.</a> 
 
 <h4>Open Group</h4>
 <ul>
