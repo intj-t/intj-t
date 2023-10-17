@@ -29,6 +29,8 @@
 
 <a href="Jonathan Chapman Moore FRSA.docx">Curriculum Vitae</a>
 
+[Family Tree](https://github.com/jonathanlyonchapmanmoore/jonathanlyonchapmanmoore/blob/master/images/familytree.jpg)
+
 <a href="https://github.com/jonathanlyonchapmanmoore/jonathanlyonchapmanmoore/blob/master/images/IMG_0607.JPG">University of Virginia College at Wise Acceptance Letter</a>
 
 <a href="https://visualstudio.microsoft.com/subscriptions-administration/">Visual Studio Subscriptions administration</a>
@@ -76,8 +78,6 @@ Gates Orginially wanted me to for to Oxford in 2005 but management messed up the
 [Bill Gates Forrester Email to me in 2005](https://github.com/jonathanlyonchapmanmoore/jonathanlyonchapmanmoore/blob/master/images/gates.jpg)
 
 <a href="https://www.forrester.com/blogs/determining-the-value-of-a-perpetual-license/">Determining the Value of a Perpetual License</a>
-
-[Family Tree](https://github.com/jonathanlyonchapmanmoore/jonathanlyonchapmanmoore/blob/master/images/familytree.jpg)
 
 [Net Worth](https://github.com/jonathanlyonchapmanmoore/jonathanlyonchapmanmoore/blob/master/images/networth.png)
 
