@@ -31,6 +31,12 @@
 
 #### Tell the physicans to pay five more dollars for the frames than the UX designer or computer scientist at least at Gucci and Ralph Lauren.
 
+### Website Hosted on Azure
+
+<a href="https://sphinxlogic.org/">Sphinx Logic</a>
+
+<a href="https://www.crunchbase.com/organization/sphinx-logic">Tech Crunch Profile</a>
+
 [Anne Hathaway](https://annehathaway.azurewebsites.net/)
 
 [Sir Thomas More and Jane Austen](https://janeaustensworld.com/2021/07/25/sir-thomas-more-and-jane-austen/)
@@ -211,12 +217,6 @@ Gates Orginially wanted me to for to Oxford in 2004 but management messed up the
 <ul>
 <li><a href="https://en.opensuse.org/openSUSE:Mirror_infrastructure">openSUSE:Mirror infrastructure</a></li>
 <li><a href="https://www.zdnet.com/article/when-microsoft-met-suse-this-windows-linux-partnership-gets-stronger-every-day/">When Microsoft met SUSE: This Windows-Linux partnership gets stronger every day</a></li>
-
-### Website Hosted on Azure
-
-<a href="https://sphinxlogic.org/">Sphinx Logic</a>
-
-<a href="https://www.crunchbase.com/organization/sphinx-logic">Tech Crunch Profile</a>
 
 ### Intel
 
