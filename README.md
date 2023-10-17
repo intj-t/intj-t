@@ -71,23 +71,23 @@ Gates Orginially wanted me to for to Oxford in 2005 but management messed up the
 
 [My Blend.io](https://blend.io/jonathanmoore)
 
-### 2000 Macromedia User Group
+##### 2000 Macromedia User Group
 
 [Macromedia User Group](https://web.archive.org/web/20001002153818/http://www.macromedia.com/support/programs/usergroup.cgi?state=Virginia)
 
-### 2017 Ableton User Group
+##### 2017 Ableton User Group
 
 [Ableton User Group](https://web.archive.org/web/20190502233051/https://www.ableton.com/en/community/user-groups/tri-cities-ableton-user-group/)
 
-### Royal Society of the Arts 
+##### Royal Society of the Arts 
 
 <a href="https://www.thersa.org/fellowship/find-a-fellow/profile/139174">My Royal Soceity of the Arts Fellowship</a>
 
-### Grants
+##### Grants
 
 <a href="https://www.upwork.com/hire/grant-writers/">Upwork Grant Writers</a>
 
-#### Blogs
+##### Blogs
 
 <a href="https://jdm7dvfreebsd.blogspot.com/">FreeBSD Blog</a>
 
