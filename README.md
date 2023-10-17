@@ -88,6 +88,8 @@ Gates Orginially wanted me to for to Oxford in 2005 but management messed up the
 
 <a href="https://www.thersa.org/fellowship/find-a-fellow/profile/139174">My Royal Soceity of the Arts Fellowship</a>
 
+<a href="https://www.theguardian.com/books/2012/jan/08/history-western-thought-trombley-review">A Short History of Western Thought by Stephen Trombley – review</a>
+
 #### Grants
 
 <a href="https://www.upwork.com/hire/grant-writers/">Upwork Grant Writers</a>
