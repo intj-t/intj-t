@@ -26,14 +26,22 @@
 </ul>
 
 ### Jonathan Lyon Chapman Moore
-
+ 
 <a href="Jonathan Chapman Moore FRSA.docx">Curriculum Vitae</a>
 
 [Family Tree](https://github.com/jonathanlyonchapmanmoore/jonathanlyonchapmanmoore/blob/master/images/familytree.jpg)
 
 [Macromedia User Group 2000](https://web.archive.org/web/20001002153818/http://www.macromedia.com/support/programs/usergroup.cgi?state=Virginia)
 
+[System Integrator Contract](https://github.com/jonathanlyonchapmanmoore/jonathanlyonchapmanmoore/blob/master/images/contract.jpg)
+
+<a href="https://github.com/jonathanlyonchapmanmoore/jonathanlyonchapmanmoore/blob/master/images/380739123_164881003326819_2771160564294002295_n.jpg">My Visual Studio Industry Partner Paid Contract</a>
+
 [Ableton User Group 2017](https://web.archive.org/web/20190502233051/https://www.ableton.com/en/community/user-groups/tri-cities-ableton-user-group/)
+
+<a href="https://github.com/jonathanlyonchapmanmoore/jonathanlyonchapmanmoore/blob/master/images/IMG_0607.JPG">University of Virginia College at Wise Acceptance Letter</a>
+
+[Bizspark Graduation](https://github.com/jonathanlyonchapmanmoore/jonathanlyonchapmanmoore/blob/master/images/bizspark.jpg)
 
 <a href="https://www.thersa.org/fellowship/find-a-fellow/profile/139174">My Royal Soceity of the Arts Fellowship</a>
 
@@ -41,17 +49,9 @@
 
 <a href="https://hbr.org/2009/05/equity-or-cash-the-signal-sent-by-the-way-you-pay">Equity or Cash? The Signal Sent by the Way You Pay</a> 
 
-<a href="https://github.com/jonathanlyonchapmanmoore/jonathanlyonchapmanmoore/blob/master/images/IMG_0607.JPG">University of Virginia College at Wise Acceptance Letter</a>
-
 <a href="https://visualstudio.microsoft.com/subscriptions-administration/">Visual Studio Subscriptions administration</a>
 
 <a href="https://azure.microsoft.com/en-us/">Azure Sign In</a>
-
-[System Integrator Contract](https://github.com/jonathanlyonchapmanmoore/jonathanlyonchapmanmoore/blob/master/images/contract.jpg)
-
-<a href="https://github.com/jonathanlyonchapmanmoore/jonathanlyonchapmanmoore/blob/master/images/380739123_164881003326819_2771160564294002295_n.jpg">My Visual Studio Industry Partner Paid Contract</a>
-
-[Bizspark Graduation](https://github.com/jonathanlyonchapmanmoore/jonathanlyonchapmanmoore/blob/master/images/bizspark.jpg)
 
 <a href="https://www.microsoft.com/en-us/licensing/licensing-programs/open-license?activetab=open-license-tab%3aprimaryr2">What is the Microsoft Open Value program?</a>
 
