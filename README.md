@@ -9,7 +9,6 @@
 <li><a href="https://upload.wikimedia.org/wikipedia/commons/f/f2/Diagram_of_Mac_OS_X_architecture.svg">macOS Operating System Architectural Stack</a></li>
 <li><a href="images/microsoft-azure-stack-block-diagram.jpg">Microsoft Azure Architectural Stack</a></li>  
 <li><a href="https://web.archive.org/web/20060509003149/http://forums.microsoft.com/MSDN/default.aspx?forumgroupid=12&siteid=1">2004 MSDN Fourms</a></li> 
-<li><a href="https://web.archive.org/web/20010403224927/http://research.microsoft.com/">University Programs</a></li>
 </ul>
 <ul>
 	<li>1. Set the date to August 1st 2003 by typing 'date' in the cmd window</li>
@@ -207,6 +206,7 @@ Gates Orginially wanted me to for to Oxford in 2005 but management messed up the
 <li><a href="https://www.nordier.com/">Classic BCPL for Windows</a></li>
 <li><a href="https://archive.org/details/VCPP4.00Macintosh">Visual C++ 4.0 Cross-Development Edition for Macintosh</a></li>
 <li><a href="https://archive.org/details/ms-visual-c-4.0-risc-edition">MS Visual C++ 4.0 RISC Edition</a></li>
+<li><a href="https://web.archive.org/web/20010403224927/http://research.microsoft.com/">University Programs</a></li>
 <li><a href="https://news.microsoft.com/2002/02/21/microsoft-announces-major-expansion-of-shared-source-initiativeproviding-source-code-to-systems-integrators/">Microsoft Announces Major Expansion of Shared Source Initiative,Providing Source Code to Systems Integrators, Individuals need 700 resource hours.</a></li>
 <li><a href="https://archive.org/details/pdc-2003-conference-dvds-presentation-and-longhorn-discs">PDC 2003 Developer Connection</a></li>
 <li><a href="https://betawiki.net/wiki/Build_lab">Windows Build Lab</a></li>
