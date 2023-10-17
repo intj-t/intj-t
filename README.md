@@ -168,6 +168,7 @@ Net Worth was $500K to 1 million from 2002 when I was 24 at Edward Jones to 2017
 
 <h4>Microsoft</h4>
 <ul>
+<li><a href="https://en.wikipedia.org/wiki/Version_7_Unix">Version 7 Unix</a></li>
 <li><a href="https://www.nordier.com/">Classic BCPL for Windows</a></li>
 <li><a href="https://archive.org/details/VCPP4.00Macintosh">Visual C++ 4.0 Cross-Development Edition for Macintosh</a></li>
 <li><a href="https://archive.org/details/ms-visual-c-4.0-risc-edition">MS Visual C++ 4.0 RISC Edition</a></li>
