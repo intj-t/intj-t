@@ -27,23 +27,27 @@
 
 ### Jonathan Chapman Moore
 
-#### Tell the physicans to pay five more dollars for the frames than the UX designer or computer scientist at least at Gucci and Ralph Lauren.
-
-[Politically Correct Labels and Schizophrenia: A Rose by Any Other Name?](https://academic.oup.com/schizophreniabulletin/article/27/2/197/1870998?login=false)
-
 <a href="Jonathan Chapman Moore FRSA.docx">Curriculum Vitae</a>
 
-[Family Tree](https://github.com/jonathanlyonchapmanmoore/jonathanlyonchapmanmoore/blob/master/images/familytree.jpg)
-
-[Net Worth](https://github.com/jonathanlyonchapmanmoore/jonathanlyonchapmanmoore/blob/master/images/networth.png)
-
-[Patents as loan collateral can help businesses](https://news.rice.edu/news/2021/patents-loan-collateral-can-help-businesses-meet-financial-needs-study-shows)
+#### Tell the physicans to pay five more dollars for the frames than the UX designer or computer scientist at least at Gucci and Ralph Lauren.
 
 [Anne Hathaway](https://annehathaway.azurewebsites.net/)
 
 [Sir Thomas More and Jane Austen](https://janeaustensworld.com/2021/07/25/sir-thomas-more-and-jane-austen/)
 
 Net Worth was $500K to 1 million from 2002 when I was 24 at Edward Jones to 2017 at Fidelity. Invested in Microsoft and Adobe all 1099's filed. I have a Macromedia patent for a $6.3 million taxed S Corporation or partnership capital gain if sold. The patent needs to be expensed and amortilized. Since 1954, under Section 1235 of the Code, the transfer of a patent by the inventor generally has been entitled to long-term capital gains treatment, irrespective of whether the patent had been held for more than one year. The Tax Cuts and Jobs Growth Act. Signed into law by President Trump. On IRS Form 1040 Schedule E .Completing a 2006 Microsoft Tender offer that was extended Have $6 million in unrealized gains in my Edge account and a 529 Plan. Microsoft and Adobe 1099-NEC have to be given to Microsoft and Adobe.
+
+### Personal
+
+[Politically Correct Labels and Schizophrenia: A Rose by Any Other Name?](https://academic.oup.com/schizophreniabulletin/article/27/2/197/1870998?login=false)
+
+[My Microsoft Rersearch Complete Proposal](369999128_151207254694194_2520353806552438269_n.jpg)
+
+[Family Tree](https://github.com/jonathanlyonchapmanmoore/jonathanlyonchapmanmoore/blob/master/images/familytree.jpg)
+
+[Net Worth](https://github.com/jonathanlyonchapmanmoore/jonathanlyonchapmanmoore/blob/master/images/networth.png)
+
+[Patents as loan collateral can help businesses](https://news.rice.edu/news/2021/patents-loan-collateral-can-help-businesses-meet-financial-needs-study-shows)
 
 [System Integrator Contract](https://github.com/jonathanlyonchapmanmoore/jonathanlyonchapmanmoore/blob/master/images/contract.jpg)
 
@@ -54,8 +58,6 @@ Net Worth was $500K to 1 million from 2002 when I was 24 at Edward Jones to 2017
 [My Music On Bandcamp](https://jonathanlyonchapmanmoore.bandcamp.com/)
 
 [My Blend.io](https://blend.io/jonathanmoore)
-
-#### Windows 
 
 <h4>The Book of Sir Thomas More: Shakespeare's only surviving literary manuscript</h4>
 <ul>
