@@ -112,7 +112,7 @@ Net Worth was $500K to 1 million from 2002 when I was 24 at Edward Jones to 2017
 </ul>
 <h4>Leo Computer</h4>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/LEO_(computer)">LEO_(computer)</a></li>
+<li><a href="https://en.wikipedia.org/wiki/LEO_(computer)">LEO(computer)</a></li>
 </ul>
 <h4>XKL</h4>
 <p>The internals of the Toad-1 lived on in the Toad-2 processor used as the setup processor in earlier generations of XKL's high-end network switches.</p>
@@ -121,13 +121,13 @@ Net Worth was $500K to 1 million from 2002 when I was 24 at Edward Jones to 2017
 </ul>
 <h4>Cambridge</h4>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Nemesis_(operating_system)">Nemesis_(operating_system)</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Nemesis_(operating_system)">Nemesis(operating_system)</a></li>
 <li><a href="https://sphinxlogic.org/windows/acedemic/cambridge/nemesis-release.zip">Nemesis Source</a></li>
 </ul>
 
 <h4>Washington</h4>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/SPIN_(operating_system)">SPIN_(operating_system)</a></li>
+<li><a href="https://en.wikipedia.org/wiki/SPIN_(operating_system)">SPIN(operating_system)</a></li>
 <li><a href="http://sphinxlogic.org/windows/acedemic/washington/Spin.zip">Spin Source</a></li>
 </ul>
 
@@ -161,15 +161,13 @@ Net Worth was $500K to 1 million from 2002 when I was 24 at Edward Jones to 2017
 <li><a href="https://archive.org/details/ms-visual-c-4.0-risc-edition">MS Visual C++ 4.0 RISC Edition</a></li>
 </ul>
 
-<a href="https://www.microsoft.com/en-us/research/project/language-integrated-quantum-operations-liqui/">Language-Integrated Quantum Operations: LIQUi|</a>
-
-<a href="https://betawiki.net/wiki/Build_lab">Windows Build Lab</a>
-
-<a href="https://windows-never-released.fandom.com/wiki/Windows_Never_Released_Wiki">Windows Never Released Wiki</a> 
-
-<a href="https://www.microsoft.com/en-us/sharedsource/debugging.aspx">Debug with Code Center Premium Source</a>
-
-<a href="https://news.microsoft.com/2002/02/21/microsoft-announces-major-expansion-of-shared-source-initiativeproviding-source-code-to-systems-integrators/">Microsoft Announces Major Expansion of Shared Source Initiative,Providing Source Code to Systems Integrators, Individuals need 700 resourcxe hours.</a> 
+<ul>
+<li><a href="https://betawiki.net/wiki/Build_lab">Windows Build Lab</a></li>
+<li><a href="https://windows-never-released.fandom.com/wiki/Windows_Never_Released_Wiki">Windows Never Released Wiki</a></li>
+<li><a href="https://www.microsoft.com/en-us/sharedsource/debugging.aspx">Debug with Code Center Premium Source</a>
+<li><a href="https://news.microsoft.com/2002/02/21/microsoft-announces-major-expansion-of-shared-source-initiativeproviding-source-code-to-systems-integrators/">Microsoft Announces Major Expansion of Shared Source Initiative,Providing Source Code to Systems Integrators, Individuals need 700 resourcxe hours.</a></li>
+<li><a href="https://www.microsoft.com/en-us/research/project/language-integrated-quantum-operations-liqui/">Language-Integrated Quantum Operations: LIQUi|</a></li>
+</ul>
 
 <h4>Open Group</h4>
 <ul>
