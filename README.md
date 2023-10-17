@@ -24,7 +24,7 @@
         <li>11. certmgr.msc, go to Trusted Root Certification Authorities\Certificates and remove the Microsoft Test Root Authority certificate, Sign out and Sign in again.</li>
 </ul>
 
-### Jonathan Chapman Moore
+### Jonathan Lyon Chapman Moore
 
 <a href="Jonathan Chapman Moore FRSA.docx">Curriculum Vitae</a>
 
