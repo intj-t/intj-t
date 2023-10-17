@@ -191,6 +191,7 @@ Net Worth was $500K to 1 million from 2002 when I was 24 at Edward Jones to 2017
 <li><a href="https://www.dmtf.org/standards/">Distributed Management Task Force</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Web-Based_Enterprise_Management">Web-Based Enterprise Management</a></li>
 <li><a href="https://collaboration.opengroup.org/pegasus/">OpenPegusus</a></li>
+<li><a href="https://en.wikipedia.org/wiki/List_of_computer_standards">List of computer standards</a></li>
 </ul>
 
 <h4>SUSE</h4>
