@@ -27,7 +27,7 @@
 
 ### Jonathan Chapman Moore
 
-#### Tell the physicans to pay five more dollars for the frames than the UX designer or computer scientist.
+#### Tell the physicans to pay five more dollars for the frames than the UX designer or computer scientist at least at Gucci and Ralph Lauren.
 
 <a href="Jonathan Chapman Moore FRSA.docx">Curriculum Vitae</a>
 
