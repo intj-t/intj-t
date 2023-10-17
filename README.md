@@ -155,6 +155,7 @@ Net Worth was $500K to 1 million from 2002 when I was 24 at Edward Jones to 2017
 </ul>
 
 <h4>Apple</h4>
+<li><a href="https://www.macosforge.org/">MacOSforge</a></li>
 
 <h4>Santa Cruz Operation</h4>
 <p>You will need Open Server 5 <a href="ftp://ftp2.sco.com/pub/skunkware/src/">Source</a> it builds on Windows XP Services For UNIX You will also need the MSDN Magazine Archive which contains Windows XP Partners also which I will sell you for $100 begining in 2024.</p>
