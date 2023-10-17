@@ -30,6 +30,8 @@
 
 <a href="https://visualstudio.microsoft.com/subscriptions-administration/">Visual Studio Subscriptions administration</a>
 
+<a href="https://azure.microsoft.com/en-us/">Azure Sign In</a>
+
 <a href="https://www.microsoft.com/en-us/licensing/licensing-programs/open-license?activetab=open-license-tab%3aprimaryr2">What is the Microsoft Open Value program?</a>
 
 <a href="https://support.serviceshub.microsoft.com/supportforbusiness">Services Hub where my 25 year Microsoft case load is hosted</a>
