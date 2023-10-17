@@ -41,7 +41,7 @@ Net Worth was $500K to 1 million from 2002 when I was 24 at Edward Jones to 2017
 
 [Politically Correct Labels and Schizophrenia: A Rose by Any Other Name?](https://academic.oup.com/schizophreniabulletin/article/27/2/197/1870998?login=false)
 
-[My Microsoft Rersearch Complete Proposal](369999128_151207254694194_2520353806552438269_n.jpg)
+[My Microsoft Rersearch Complete Proposal]((https://github.com/jonathanlyonchapmanmoore/jonathanlyonchapmanmoore/blob/master/images/369999128_151207254694194_2520353806552438269_n.jpg)
 
 [Family Tree](https://github.com/jonathanlyonchapmanmoore/jonathanlyonchapmanmoore/blob/master/images/familytree.jpg)
 
