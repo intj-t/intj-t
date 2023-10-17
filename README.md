@@ -69,8 +69,6 @@
 
 <a href="https://github.com/jonathanlyonchapmanmoore/My-Mensa-Tests">My Mensa Tests</a>
 
-#### My Personality and IQ
-
 <a href="https://www.16personalities.com/profiles/2ebeedfa55fbe">My 16 Personalties Profile</a>
 
 <a href="https://www.e-ir.info/2008/05/25/an-examination-of-the-personality-types-of-three-intelligence-leaders-within-the-british-intelligence-community/">An Examination of the Personality Types of Three Intelligence Leaders Within the British Intelligence Community</a>
