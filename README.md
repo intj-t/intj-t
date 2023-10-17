@@ -38,9 +38,15 @@
 
 <a href="https://github.com/jonathanlyonchapmanmoore/jonathanlyonchapmanmoore/blob/master/images/380739123_164881003326819_2771160564294002295_n.jpg">My Visual Studio Industry Partner Paid Contract</a>
 
+[Bizspark Graduation](https://github.com/jonathanlyonchapmanmoore/jonathanlyonchapmanmoore/blob/master/images/bizspark.jpg)
+
 <a href="https://www.microsoft.com/en-us/licensing/licensing-programs/open-license?activetab=open-license-tab%3aprimaryr2">What is the Microsoft Open Value program?</a>
 
 <a href="https://support.serviceshub.microsoft.com/supportforbusiness">Services Hub where my 25 year Microsoft case load is hosted</a>
+
+<a href="https://github.com/jonathanlyonchapmanmoore/UWA">My University of Washington Gift</a>
+
+<a href="https://github.com/jonathanlyonchapmanmoore/My-Mensa-Tests">My Mensa Tests</a>
 
 #### Tell the physicans to pay five more dollars for the frames than the UX designer or computer scientist at least at Gucci and Ralph Lauren.
 
@@ -73,8 +79,6 @@ Gates Orginially wanted me to for to Oxford in 2005 but management messed up the
 [Net Worth](https://github.com/jonathanlyonchapmanmoore/jonathanlyonchapmanmoore/blob/master/images/networth.png)
 
 [Patents as loan collateral can help businesses](https://news.rice.edu/news/2021/patents-loan-collateral-can-help-businesses-meet-financial-needs-study-shows)
-
-[Bizspark Graduation](https://github.com/jonathanlyonchapmanmoore/jonathanlyonchapmanmoore/blob/master/images/bizspark.jpg)
 
 [My Ambient BMI Registered Works](https://github.com/jonathanlyonchapmanmoore/jonathanlyonchapmanmoore/blob/master/images/bmi.png)
 
@@ -109,10 +113,6 @@ Gates Orginially wanted me to for to Oxford in 2005 but management messed up the
 <a href="https://jdm7dvwindows.blogspot.com/">Windows Blog</a>
 
 <a href="https://jdm7dvcsmath.blogspot.com/">Mathematics Blog</a>
-
-<a href="https://github.com/jonathanlyonchapmanmoore/UWA">My University of Washington Gift</a>
-
-<a href="https://github.com/jonathanlyonchapmanmoore/My-Mensa-Tests">My Mensa Tests</a>
 
 [Instagram](https://www.instagram.com/jonathanlyonchapmanmoore/)
 
