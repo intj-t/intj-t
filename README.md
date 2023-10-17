@@ -226,7 +226,7 @@ Gates Orginially wanted me to for to Oxford in 2005 but management messed up the
 <li><a href="https://www.microsoft.com/en-us/sharedsource/debugging.aspx">Debug with Code Center Premium Source</a>
 <li><a href="https://learn.microsoft.com/en-us/openspecs/dev_center/ms-devcentlp/d84cac00-b312-44ee-9156-23bde6477c3d">Interoperability Principles Program</a></li>
 <li><a href="https://wiki.netbsd.org/ports/arc/">NetBSD Arc</a></li>
-<li><a href="https://www.netbsd.org/docs/software/packages.html>The NetBSD Packages Collection Interix (Microsoft Windows Services for Unix)</a></li>
+<li><a href="https://www.netbsd.org/docs/software/packages.html">The NetBSD Packages Collection Interix (Microsoft Windows Services for Unix)</a></li>
 <li><a href="https://www.microsoft.com/en-us/research/project/language-integrated-quantum-operations-liqui/">Language-Integrated Quantum Operations: LIQUi|</a></li>
 </ul>
 
