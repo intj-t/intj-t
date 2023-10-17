@@ -47,6 +47,8 @@
 
 <a href="https://www.theguardian.com/books/2012/jan/08/history-western-thought-trombley-review">A Short History of Western Thought by Stephen Trombley – review</a>
 
+<a href="https://github.com/jonathanlyonchapmanmoore/jonathanlyonchapmanmoore/blob/master/images/366747667_142894705525449_4368536133200378218_n.jpg">My President Obama Grant Letter which Grants Congressional Rights.</a>
+
 <a href="https://hbr.org/2009/05/equity-or-cash-the-signal-sent-by-the-way-you-pay">Equity or Cash? The Signal Sent by the Way You Pay</a> 
 
 <a href="https://visualstudio.microsoft.com/subscriptions-administration/">Visual Studio Subscriptions administration</a>
