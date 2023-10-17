@@ -79,9 +79,17 @@ Gates Orginially wanted me to for to Oxford in 2004 but management messed up the
 
 <a href="https://www.upwork.com/hire/grant-writers/">Upwork Grant Writers</a>
 
-### My Virginia Soho
+#### Blogs
 
-[My Soho](https://github.com/jonathanlyonchapmanmoore/jonathanlyonchapmanmoore/blob/master/images/apt.jpg)
+<a href="https://jdm7dvfreebsd.blogspot.com/">FreeBSD Blog</a>
+
+<a href="https://jdm7dvwindows.blogspot.com/">Windows Blog</a>
+
+<a href="https://jdm7dvcsmath.blogspot.com/">Mathematics Blog</a>
+
+<a href="https://github.com/jonathanlyonchapmanmoore/UWA">My University of Washington Gift</a>
+
+<a href="https://github.com/jonathanlyonchapmanmoore/My-Mensa-Tests">My Mensa Tests</a>
 
 [Instagram](https://www.instagram.com/jonathanlyonchapmanmoore/)
 
@@ -203,20 +211,6 @@ Gates Orginially wanted me to for to Oxford in 2004 but management messed up the
 <ul>
 <li><a href="https://en.opensuse.org/openSUSE:Mirror_infrastructure">openSUSE:Mirror infrastructure</a></li>
 <li><a href="https://www.zdnet.com/article/when-microsoft-met-suse-this-windows-linux-partnership-gets-stronger-every-day/">When Microsoft met SUSE: This Windows-Linux partnership gets stronger every day</a></li>
-
-#### Blogs
-
-<a href="https://jdm7dvfreebsd.blogspot.com/">FreeBSD Blog</a>
-
-<a href="https://jdm7dvwindows.blogspot.com/">Windows Blog</a>
-
-<a href="https://jdm7dvcsmath.blogspot.com/">Mathematics Blog</a>
-
-<a href="https://github.com/jonathanlyonchapmanmoore/UWA">My University of Washington Gift</a>
-
-<a href="https://www.jstor.org/stable/25071523">Competition in Consumption as Viewed by Jewish Law</a>
-
-<a href="https://github.com/jonathanlyonchapmanmoore/My-Mensa-Tests">My Mensa Tests</a>
 
 ### Website Hosted on Azure
 
