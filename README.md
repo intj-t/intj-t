@@ -53,6 +53,8 @@ Gates Orginially wanted me to for to Oxford in 2005 but management messed up the
 
 [Bill Gates Forrester Email to me in 2005](https://github.com/jonathanlyonchapmanmoore/jonathanlyonchapmanmoore/blob/master/images/gates.jpg)
 
+<a href="https://www.forrester.com/blogs/determining-the-value-of-a-perpetual-license/">Determining the Value of a Perpetual License</a>
+
 [Family Tree](https://github.com/jonathanlyonchapmanmoore/jonathanlyonchapmanmoore/blob/master/images/familytree.jpg)
 
 [Net Worth](https://github.com/jonathanlyonchapmanmoore/jonathanlyonchapmanmoore/blob/master/images/networth.png)
@@ -244,13 +246,9 @@ Gates Orginially wanted me to for to Oxford in 2005 but management messed up the
 
 Preferred Shares of Equity. This may be considered a cash equivalent if they are purchased shortly before the redemption date and not expected to experience material fluctuation in value
 
-
-
 [How to pull a Bill Gates](https://www.forbes.com/sites/johngreathouse/2015/03/23/pull-a-bill-gates-dont-let-your-company-drown-in-cash/?sh=74726b75556c)
 
 <a href="https://www.sphinxlogic.org/The Million Dollar Equation.docx">The Million Dollar Equation</a>
-
-<a href="https://www.forrester.com/blogs/determining-the-value-of-a-perpetual-license/">Determining the Value of a Perpetual License</a>
 
 <a href="https://www.investopedia.com/terms/e/ev-revenue-multiple.asp">Enterprise-Value-to-Revenue Multiple (EV/R): Definition</a>
 
