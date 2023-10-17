@@ -251,7 +251,7 @@ Gates Orginially wanted me to for to Oxford in 2005 but management messed up the
 
 ## Jonathan Moore Bio
 
-The founder is Irish, Spanish, Native American and Mediterranean I'm a Moore, Chapman, Little, Vaughn, Turner, Spencer, Lyon, Hathaway, and McCaultey. Jonathan tested as a INTJ-T top 1% personality of the population and Royal Society of the Arts Fellow. Went to Sullins Academy and St Annes Catholic School starting in 1984. Now Anglican, Computer Science
+The founder is Irish, Spanish, Native American and Mediterranean I'm a Moore, Chapman, Little, Vaughn, Turner, Spencer, Lyon, Hathaway, and McCaulley. Jonathan tested as a INTJ-T top 1% personality of the population and Royal Society of the Arts Fellow. Went to Sullins Academy and St Annes Catholic School starting in 1984. Now Anglican, Computer Science
 
 Company Founder made straight A's in College in 2000 and Ivy League College Graduate. and an 3.5 GPA at UVa in 2013 with as Virginia Scholar Award. Was ACM Vice President of the UVa Wise chapter from 2011-2013. And met Harvard's author Steven Pinker at UVa-Wise. and grant letter from President Obama. And now invest in bonds and non volatile funds. Since 2015 With intracompany Email from Microsoft Co-Founder Bill Gates and Steve Ballmer and a 20 year Microsoft partner with official Windows 8 Storyboards and fixed variable revenue. Which was featured in MSDN Magazine. And have MFC, COM COM+ Win32 and .NET Framework Projects. And Working on UNIX and OpenVMS Win32 ports. Our business is UX, Virtualization, and Operating System Theory The founder is Windows 7 Internals and Network+ Certified.
 
