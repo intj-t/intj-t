@@ -273,6 +273,10 @@ The founder Jonathan has a famous technical case at Microsoft with https://refer
 
 Jonathan lives in historic Abingdon, Va. and owns two homes. And was placed on child benefits after his mother died.
 
+### Theories of Evolution Onto Music
+
+The piece, This Paradise I give thee, is a short composition for 13 instruments and baritone solo which draws inspiration from the diversity of the natural world alongside the words of Charles Darwin and John Milton. With this piece Gabriel maps processes and theories of evolution onto music
+
 <!--### Intel
 
 <a href="https://hbr.org/2014/07/resentment-jealousy-feuds-a-look-at-intels-founding-team">Resentment, Jealousy, Feuds: A Look at Intel’s Founding Team</a>
