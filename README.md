@@ -59,6 +59,14 @@ Net Worth was $500K to 1 million from 2002 when I was 24 at Edward Jones to 2017
 
 [My Blend.io](https://blend.io/jonathanmoore)
 
+### 2000 Macromedia User Group
+
+[Macromedia User Group](https://web.archive.org/web/20001002153818/http://www.macromedia.com/support/programs/usergroup.cgi?state=Virginia)
+
+### 2017 Ableton User Group
+
+[Ableton User Group](https://web.archive.org/web/20190502233051/https://www.ableton.com/en/community/user-groups/tri-cities-ableton-user-group/)
+
 ### Royal Society of the Arts 
 
 <a href="https://www.thersa.org/fellowship/find-a-fellow/profile/139174">My Royal Soceity of the Arts Fellowship</a>
@@ -218,23 +226,11 @@ Net Worth was $500K to 1 million from 2002 when I was 24 at Edward Jones to 2017
 
 [Obtaining Extended Security Updates for eligible Windows devices](https://techcommunity.microsoft.com/t5/windows-it-pro-blog/obtaining-extended-security-updates-for-eligible-windows-devices/ba-p/1167091)
 
-### 2000 Macromedia User Group
-
-[Macromedia User Group](https://web.archive.org/web/20001002153818/http://www.macromedia.com/support/programs/usergroup.cgi?state=Virginia)
-
-### 2017 Ableton User Group
-
-[Ableton User Group](https://web.archive.org/web/20190502233051/https://www.ableton.com/en/community/user-groups/tri-cities-ableton-user-group/)
-
 ### [Conserving software: Unity, Macromedia Director, Max/MSP and time-based media in ACMI’s Collection](https://labs.acmi.net.au/conserving-software-unity-macromedia-director-max-msp-and-time-based-media-acmis-collection-7a5fd7e52922)
 
 ### Contracts and Finance
 
 Preferred Shares of Equity. This may be considered a cash equivalent if they are purchased shortly before the redemption date and not expected to experience material fluctuation in value
-
-
-
-I Graduated Bizspark and had Windows CE Access and was in the CE Shared Source programe And I would like my Code Center Premium Smart Card Access I've been emailing Microsoft for a while about it. I should be eliglible.
 
 [Bill Gates Forrester Email to me in 2005](https://github.com/jonathanlyonchapmanmoore/jonathanlyonchapmanmoore/blob/master/images/gates.jpg)
 
