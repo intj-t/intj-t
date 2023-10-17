@@ -275,7 +275,7 @@ Jonathan lives in historic Abingdon, Va. and owns two homes. And was placed on c
 
 ### Theories of Evolution Onto Music
 
-The piece, This Paradise I give thee, is a short composition for 13 instruments and baritone solo which draws inspiration from the diversity of the natural world alongside the words of Charles Darwin and John Milton. With this piece Gabriel maps processes and theories of evolution onto music
+The piece, This Paradise I give thee, is a short composition for 13 instruments and baritone solo which draws inspiration from the diversity of the natural world alongside the words of Charles Darwin and John Milton. With this piece Gabriel maps processes and theories of evolution onto music.
 
 <!--### Intel
 
