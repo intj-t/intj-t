@@ -43,6 +43,10 @@ Net Worth was $500K to 1 million from 2002 when I was 24 at Edward Jones to 2017
 
 [My Microsoft Rersearch Complete Proposal](https://github.com/jonathanlyonchapmanmoore/jonathanlyonchapmanmoore/blob/master/images/369999128_151207254694194_2520353806552438269_n.jpg)
 
+Gates Orginially wanted me to for to Oxford in 2004 but management messed up the ACT, I scored a 24.
+
+[Bill Gates Forrester Email to me in 2005](https://github.com/jonathanlyonchapmanmoore/jonathanlyonchapmanmoore/blob/master/images/gates.jpg)
+
 [Family Tree](https://github.com/jonathanlyonchapmanmoore/jonathanlyonchapmanmoore/blob/master/images/familytree.jpg)
 
 [Net Worth](https://github.com/jonathanlyonchapmanmoore/jonathanlyonchapmanmoore/blob/master/images/networth.png)
@@ -246,7 +250,7 @@ Net Worth was $500K to 1 million from 2002 when I was 24 at Edward Jones to 2017
 
 Preferred Shares of Equity. This may be considered a cash equivalent if they are purchased shortly before the redemption date and not expected to experience material fluctuation in value
 
-[Bill Gates Forrester Email to me in 2005](https://github.com/jonathanlyonchapmanmoore/jonathanlyonchapmanmoore/blob/master/images/gates.jpg)
+
 
 [How to pull a Bill Gates](https://www.forbes.com/sites/johngreathouse/2015/03/23/pull-a-bill-gates-dont-let-your-company-drown-in-cash/?sh=74726b75556c)
 
