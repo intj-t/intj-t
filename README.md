@@ -28,6 +28,8 @@
 
 <a href="Jonathan Chapman Moore FRSA.docx">Curriculum Vitae</a>
 
+<a href="https://visualstudio.microsoft.com/subscriptions-administration/">Visual Studio Subscriptions administration</a>
+
 #### Tell the physicans to pay five more dollars for the frames than the UX designer or computer scientist at least at Gucci and Ralph Lauren.
 
 ### Website Hosted on Azure
