@@ -59,6 +59,8 @@
 
 [My Credit Score](https://github.com/jonathanlyonchapmanmoore/jonathanlyonchapmanmoore/blob/master/images/credit.jpg)
 
+<a href="https://www.investopedia.com/how-to-refinance-a-second-home-7487004">How to Refinance a Second Home</a>
+
 <a href="https://github.com/jonathanlyonchapmanmoore/UWA">My University of Washington Gift</a>
 
 <a href="https://github.com/jonathanlyonchapmanmoore/My-Mensa-Tests">My Mensa Tests</a>
@@ -344,10 +346,6 @@ Ian Fleming Collection 26 Books or Movies $20K each $520,000 in value
 CS Lewis The Cronicales of Narnia $7,500 x7 $52,500 in value
 
 208 garments worth a value of $3,500 each $728,000
-
-
-
-<a href="https://www.investopedia.com/how-to-refinance-a-second-home-7487004">How to Refinance a Second Home</a>
 
 I'm inheriting a home when my father starts a trust I want to buy a second home. And get a jumbo loan and pay it off with a market bond. My family lived on Maryland Ave in a large home 
 before my moms heart attack in 1986, we moved to Redstone Condos. she lived until 1996. After getting diabeties when she was three years old. After eating alot of sugar at a young age. My step mom died of cancer she was a Sexton. She was adopted from the Tates. My mom and father and a morgage on a large home in Bristol TN in 1984 before her heart attack. My father and step mother bought the families childhood home that my grandfather rented in 1960 in 2000. I went to Sullins Acedemy boarding school. Skipped the first grade, Graduated Catholic School, Graduated High School, Graduated Prep School and have 98 bachelor of science credits in Computer Science at UVa Wise. I'm Windows Server 2003 and Windows 7 Internals Certified. I'm a Silverlight Partner and A Microsoft Design Partner from 2011-2014. And I'm applying for a Windows 8/8.1 Copyright I was awarded a Flash patent by Macromedia in 2003. I was unaware of Sony Extra Sensory Perception in 2001 and was dianognosed with schizoaffective disorder. I thought a NBC broadcaster was talking to me when it was realy Sony ESP. I have a normal MRI. I have old heritage. I have $400K in Macromedia working capital from the Adobe and Macrromedia Merger for salaries. Own shares of a income fund small initial investment in 2003. Thousands of shares are pooled into the fund. I have picture framed Gates and Ballmer email. One of which Ballmer called Linux a cancer. In my Soho I'm running Windows Server 2012 R2 with VLC ESU's, Trying Configuration Manager. I own a patent worth $8 million from Macromedia Flash which was rebranded to Amimate which is good for loans and amortilization. My family consists of Robert Hathaway, Curtis Hathaway, Patricia McCauley, Debbie Bright, Anne Turner from New York City, Rebecca McGiunness from Califorinia, Patrica Shubert Robison that gratuated Standord in 1939 in creative writing. Through Familiy TreeDNA's X match's
