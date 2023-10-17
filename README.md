@@ -164,6 +164,7 @@ Net Worth was $500K to 1 million from 2002 when I was 24 at Edward Jones to 2017
 <h4>Santa Cruz Operation</h4>
 <p>You will need Open Server 5 <a href="ftp://ftp2.sco.com/pub/skunkware/src/">Source</a> it builds on Windows XP Services For UNIX You will also need the MSDN Magazine Archive which contains Windows XP Partners also which I will sell you for $100 begining in 2024.</p>
 <ul>
+<li><a href="https://www.sco.com/skunkware/">SCO Skunkware</a></li>
 <li><a href="https://www.computerworld.com/article/2570686/sco-confirms-microsoft-has-licensed-its-unix-technology.html">SCO confirms Microsoft has licensed its Unix technology</a></li>
 <li><a href="https://www.zdnet.com/article/last-of-original-sco-v-ibm-linux-lawsuit-settled/">Last of original SCO v IBM Linux lawsuit settled</a></li>
 <li><a href="https://www.itprotoday.com/compute-engines/windows-nt-and-vms-rest-story">Windows NT and VMS: The Rest of the Story</a></li>
