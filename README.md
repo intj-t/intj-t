@@ -55,6 +55,38 @@ Net Worth was $500K to 1 million from 2002 when I was 24 at Edward Jones to 2017
 
 [My Blend.io](https://blend.io/jonathanmoore)
 
+#### Windows 
+
+<h4>BSD</h4>
+<p> Here will be the old <a href="">FreeBSD from Scratch</a> which Linux stole from and OpenBSD which is based off of BSD 4.4 the Apple and Microsoft Subsystem fork.</p>
+
+<h4>Walnut Creek</h4>
+<ul>
+<li><a href="https://archive.org/details/walnutcreekcdrom">The Walnut Creek CD-ROM Collection</a></li>
+<li><a href="https://oac.cdlib.org/findaid/ark:/13030/c81r6wmh/entire_text/">Guide to the Walnut Creek Shareware Collection</a></li>
+<li><a href="https://www.zdnet.com/finance/berkeley-unix-moves-to-walnut-creek/">Berkeley UNIX moves to Walnut Creek</a></li>
+</ul>
+
+<h4>Apple</h4>
+
+<h4>Santa Cruz Operation</h4>
+<p>You will need Open Server 5 <a href="ftp://ftp2.sco.com/pub/skunkware/src/">Source</a> it builds on Windows XP Services For UNIX You will also need the MSDN Magazine Archive which contains Windows XP Partners also which I will sell you for $100 begining in 2024.</p>
+<ul>
+<li><a href="https://www.computerworld.com/article/2570686/sco-confirms-microsoft-has-licensed-its-unix-technology.html">SCO confirms Microsoft has licensed its Unix technology</a></li>
+<li><a href="https://www.zdnet.com/article/last-of-original-sco-v-ibm-linux-lawsuit-settled/">Last of original SCO v IBM Linux lawsuit settled</a></li>
+<li><a href="https://www.itprotoday.com/compute-engines/windows-nt-and-vms-rest-story">Windows NT and VMS: The Rest of the Story</a></li>
+<li><a href="https://www.zdnet.com/article/who-really-owns-unix/">Who really owns Unix?</a></li> 
+<li><a href="https://archive.org/details/VCPP4.00Macintosh">Visual C++ 4.0 Cross-Development Edition for Macintosh</a></li>
+<li><a href="https://archive.org/details/ms-visual-c-4.0-risc-edition">MS Visual C++ 4.0 RISC Edition</a></li>
+</ul>
+
+<h4>Open Group</h4>
+<ul>
+<li><a href="https://www.dmtf.org/standards/">Distributed Management Task Force</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Web-Based_Enterprise_Management">Web-Based Enterprise Management</a></li>
+<li><a href="https://collaboration.opengroup.org/pegasus/">OpenPegusus</a></li>
+</ul>
+
 #### Blogs
 
 <a href="https://jdm7dvfreebsd.blogspot.com/">FreeBSD Blog</a>
