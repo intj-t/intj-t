@@ -92,6 +92,8 @@ Gates Orginially wanted me to for to Oxford in 2005 but management messed up the
 
 <a href="https://www.theguardian.com/books/2012/jan/08/history-western-thought-trombley-review">A Short History of Western Thought by Stephen Trombley – review</a>
 
+<a href="https://hbr.org/2009/05/equity-or-cash-the-signal-sent-by-the-way-you-pay">Equity or Cash? The Signal Sent by the Way You Pay</a> 
+
 #### Grants
 
 <a href="https://www.upwork.com/hire/grant-writers/">Upwork Grant Writers</a>
