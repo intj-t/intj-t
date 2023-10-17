@@ -207,6 +207,7 @@ Gates Orginially wanted me to for to Oxford in 2005 but management messed up the
 <li><a href="https://www.nordier.com/">Classic BCPL for Windows</a></li>
 <li><a href="https://archive.org/details/VCPP4.00Macintosh">Visual C++ 4.0 Cross-Development Edition for Macintosh</a></li>
 <li><a href="https://archive.org/details/ms-visual-c-4.0-risc-edition">MS Visual C++ 4.0 RISC Edition</a></li>
+<li><a href="https://archive.org/details/pdc-2003-conference-dvds-presentation-and-longhorn-discs">PDC 2003 Developer Connection</a></li>
 <li><a href="https://betawiki.net/wiki/Build_lab">Windows Build Lab</a></li>
 <li><a href="https://windows-never-released.fandom.com/wiki/Windows_Never_Released_Wiki">Windows Never Released Wiki</a></li>
 <li><a href="https://www.microsoft.com/en-us/sharedsource/debugging.aspx">Debug with Code Center Premium Source</a>
