@@ -44,6 +44,8 @@
 
 <a href="https://support.serviceshub.microsoft.com/supportforbusiness">Services Hub where my 25 year Microsoft case load is hosted</a>
 
+[My Credit Score](https://github.com/jonathanlyonchapmanmoore/jonathanlyonchapmanmoore/blob/master/images/credit.jpg)
+
 <a href="https://github.com/jonathanlyonchapmanmoore/UWA">My University of Washington Gift</a>
 
 <a href="https://github.com/jonathanlyonchapmanmoore/My-Mensa-Tests">My Mensa Tests</a>
@@ -348,7 +350,7 @@ CS Lewis The Cronicales of Narnia $7,500 x7 $52,500 in value
 
 208 garments worth a value of $3,500 each $728,000
 
-[My Credit Score](https://github.com/jonathanlyonchapmanmoore/jonathanlyonchapmanmoore/blob/master/images/credit.jpg)
+
 
 <a href="https://www.investopedia.com/how-to-refinance-a-second-home-7487004">How to Refinance a Second Home</a>
 
