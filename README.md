@@ -130,13 +130,11 @@ Net Worth was $500K to 1 million from 2002 when I was 24 at Edward Jones to 2017
 <h4>Cambridge</h4>
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/Nemesis_(operating_system)">Nemesis(operating_system)</a></li>
-<li><a href="https://sphinxlogic.org/windows/acedemic/cambridge/nemesis-release.zip">Nemesis Source</a></li>
 </ul>
 
 <h4>Washington</h4>
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/SPIN_(operating_system)">SPIN(operating_system)</a></li>
-<li><a href="http://sphinxlogic.org/windows/acedemic/washington/Spin.zip">Spin Source</a></li>
 </ul>
 
 <h4>AT&T</h4>
@@ -170,6 +168,7 @@ Net Worth was $500K to 1 million from 2002 when I was 24 at Edward Jones to 2017
 
 <h4>Microsoft</h4>
 <ul>
+<li><a href="https://www.nordier.com/">Classic BCPL for Windows</a></li>
 <li><a href="https://archive.org/details/VCPP4.00Macintosh">Visual C++ 4.0 Cross-Development Edition for Macintosh</a></li>
 <li><a href="https://archive.org/details/ms-visual-c-4.0-risc-edition">MS Visual C++ 4.0 RISC Edition</a></li>
 <li><a href="https://betawiki.net/wiki/Build_lab">Windows Build Lab</a></li>
