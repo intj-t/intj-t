@@ -57,6 +57,55 @@ Net Worth was $500K to 1 million from 2002 when I was 24 at Edward Jones to 2017
 
 #### Windows 
 
+<h4>The Book of Sir Thomas More: Shakespeare's only surviving literary manuscript</h4>
+<ul>
+<li><a href="https://www.bl.uk/collection-items/shakespeares-handwriting-in-the-book-of-sir-thomas-more">The Book of Sir Thomas More: Shakespeare's only surviving literary manuscript</li>
+</ul>
+<h4>The Babbage Engine</h4>
+<ul>
+<li><a href="https://www.computerhistory.org/babbage/">The Babbage Engine</a></li>
+</ul>
+<h4>Konrad Zuse</h4>
+<ul>
+<li><a href="https://people.idsia.ch/~juergen/zuse.html">First Working Computer</a></li>
+</ul>
+<h4>ENIAC</h4>
+<ul>
+<li><a href="https://penntoday.upenn.edu/news/worlds-first-general-purpose-computer-turns-75">First Programable Computer (ENIAC)</a></li>
+</ul>
+<h4>Michael Tiemann</h4>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Michael_Tiemann">Michael Tiemann</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Shared_Source_Initiative">Shared Source Initiative</a></li>
+</ul>
+<h4>Leo Computer</h4>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/LEO_(computer)">LEO_(computer)</a></li>
+</ul>
+<h4>XKL</h4>
+<p>The internals of the Toad-1 lived on in the Toad-2 processor used as the setup processor in earlier generations of XKL's high-end network switches.</p>
+<ul>
+<li><a href="https://www.livingcomputers.org/Computer-Collection/Vintage-Computers/Mainframes/XKL-TOAD-1-System.aspx">XKL</a></li>
+</ul>
+<h4>Cambridge</h4>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/Nemesis_(operating_system)">Nemesis_(operating_system)</a></li>
+<li><a href="https://sphinxlogic.org/windows/acedemic/cambridge/nemesis-release.zip">Nemesis Source</a></li>
+</ul>
+
+<h4>Washington</h4>
+<ul>
+<li><a href="https://en.wikipedia.org/wiki/SPIN_(operating_system)">SPIN_(operating_system)</a></li>
+<li><a href="http://sphinxlogic.org/windows/acedemic/washington/Spin.zip">Spin Source</a></li>
+</ul>
+
+<h4>AT&T</h4>
+<p>Below is System V Source which are tape files which can be extracted with 7-Zip. On Windows 10.</p>
+<ul>
+<li><a href="https://sphinxlogic.org/windows/product/1975/SystemV.zip">AT&T System V Source</a></li>
+<li><a href="https://cybersecurity.att.com/blogs/security-essentials/its-only-a-hacker-if-its-linus-himself">It's Only A Hacker If It's Linus Himself</a></li>
+</ul>
+
 <h4>BSD</h4>
 <p> Here will be the old <a href="">FreeBSD from Scratch</a> which Linux stole from and OpenBSD which is based off of BSD 4.4 the Apple and Microsoft Subsystem fork.</p>
 
