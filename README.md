@@ -192,6 +192,11 @@ Net Worth was $500K to 1 million from 2002 when I was 24 at Edward Jones to 2017
 <li><a href="https://collaboration.opengroup.org/pegasus/">OpenPegusus</a></li>
 </ul>
 
+<h4>SUSE</h4>
+<ul>
+<li><a href="https://en.opensuse.org/openSUSE:Mirror_infrastructure">openSUSE:Mirror infrastructure</a></li>
+<li><a href="https://www.zdnet.com/article/when-microsoft-met-suse-this-windows-linux-partnership-gets-stronger-every-day/">When Microsoft met SUSE: This Windows-Linux partnership gets stronger every day</a></li>
+
 #### Blogs
 
 <a href="https://jdm7dvfreebsd.blogspot.com/">FreeBSD Blog</a>
