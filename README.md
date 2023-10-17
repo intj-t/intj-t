@@ -157,6 +157,7 @@ Net Worth was $500K to 1 million from 2002 when I was 24 at Edward Jones to 2017
 <h4>Apple</h4>
 <ul>
 <li><a href="https://www.macosforge.org/">MacOSforge</a></li>
+<li><a href="https://en.wikibooks.org/wiki/VirtualBox/Setting_up_a_Virtual_Machine/Mac_OS_X">Setting up a Virtual Machine/Mac OS X</a></li>
 </ul>
 
 <h4>Santa Cruz Operation</h4>
