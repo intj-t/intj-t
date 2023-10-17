@@ -69,6 +69,18 @@
 
 <a href="https://github.com/jonathanlyonchapmanmoore/My-Mensa-Tests">My Mensa Tests</a>
 
+#### My Personality and IQ
+
+<a href="https://www.16personalities.com/profiles/2ebeedfa55fbe">My 16 Personalties Profile</a>
+
+<a href="https://www.e-ir.info/2008/05/25/an-examination-of-the-personality-types-of-three-intelligence-leaders-within-the-british-intelligence-community/">An Examination of the Personality Types of Three Intelligence Leaders Within the British Intelligence Community</a>
+
+<a href="https://www.truity.com/infographic/16-personality-types-animals">Animal Personalites</a>
+
+<a href="https://blogs.scientificamerican.com/beautiful-minds/how-does-iq-relate-to-personality/">How Does IQ Relate to Personality?</a>
+
+<a href="https://www.youtube.com/watch?v=hWSgH8ytLJI">Paul Allen's Yacht</a>
+
 #### Tell the physicans to pay five more dollars for the frames than the UX designer or computer scientist at least at Gucci and Ralph Lauren.
 
 ### Websites Hosted on Azure
@@ -119,17 +131,6 @@ Gates Orginially wanted me to for to Oxford in 2005 but management messed up the
 
 [Instagram](https://www.instagram.com/jonathanlyonchapmanmoore/)
 
-#### My Personality and IQ
-
-<a href="https://www.16personalities.com/profiles/2ebeedfa55fbe">My 16 Personalties Profile</a>
-
-<a href="https://www.e-ir.info/2008/05/25/an-examination-of-the-personality-types-of-three-intelligence-leaders-within-the-british-intelligence-community/">An Examination of the Personality Types of Three Intelligence Leaders Within the British Intelligence Community</a>
-
-<a href="https://www.truity.com/infographic/16-personality-types-animals">Animal Personalites</a>
-
-<a href="https://blogs.scientificamerican.com/beautiful-minds/how-does-iq-relate-to-personality/">How Does IQ Relate to Personality?</a>
-
-<a href="https://www.youtube.com/watch?v=hWSgH8ytLJI">Paul Allen's Yacht</a>
 
 #### Code Project
 
