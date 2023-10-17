@@ -32,7 +32,7 @@
 
 #### Tell the physicans to pay five more dollars for the frames than the UX designer or computer scientist at least at Gucci and Ralph Lauren.
 
-### Website Hosted on Azure
+### Websites Hosted on Azure
 
 <a href="https://sphinxlogic.org/">Sphinx Logic</a>
 
