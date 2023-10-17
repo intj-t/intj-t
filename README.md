@@ -73,7 +73,7 @@
 
 ### Websites Hosted on Azure
 
-<a href="https://sphinxlogic.org/">Sphinx Logic</a>
+<a href="https://sphinxlogic.azurewebsites.net/">Sphinx Logic</a>
 
 <a href="https://www.crunchbase.com/organization/sphinx-logic">Tech Crunch Profile</a>
 
