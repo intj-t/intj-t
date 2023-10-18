@@ -249,6 +249,12 @@ Gates Orginially wanted me to for to Oxford in 2005 but management messed up the
 <li><a href="https://en.opensuse.org/openSUSE:Mirror_infrastructure">openSUSE:Mirror infrastructure</a></li>
 <li><a href="https://www.zdnet.com/article/when-microsoft-met-suse-this-windows-linux-partnership-gets-stronger-every-day/">When Microsoft met SUSE: This Windows-Linux partnership gets stronger every day</a></li>
 
+### Autism
+
+<a href="https://hbr.org/2013/05/autisms-competitive-advantage">Autism’s Competitive Advantage, and Challenge, in the Workplace</a>
+
+<a href="https://www.forbes.com/sites/drnancydoyle/2021/01/16/is-everyone-a-little-autistic/?sh=2d2bba475666">Is Everyone A Little Autistic?</a>
+
 ## Jonathan Moore Bio
 
 The founder is Irish, Spanish, Native American and Mediterranean I'm a Moore, Chapman, Little, Vaughn, Turner, Spencer, Lyon, Hathaway, and McCaulley. Jonathan tested as a INTJ-T top 1% personality of the population and Royal Society of the Arts Fellow. Went to Sullins Academy and St Annes Catholic School starting in 1984. Now Anglican, Computer Science
@@ -360,11 +366,7 @@ Preferred Shares of Equity. This may be considered a cash equivalent if they are
 [The Population Crisis: The Stork, the Plow, and the
 IRS](https://github.com/jonathanlyonchapmanmoore/jonathanlyonchapmanmoore/blob/master/docs/The%20Population%20CrisisTheStorkthePlowandtheIRS.pdf)
 
-### Autism
 
-<a href="https://hbr.org/2013/05/autisms-competitive-advantage">Autism’s Competitive Advantage, and Challenge, in the Workplace</a>
-
-<a href="https://www.forbes.com/sites/drnancydoyle/2021/01/16/is-everyone-a-little-autistic/?sh=2d2bba475666">Is Everyone A Little Autistic?</a>
 
 Net Worth $229,493,000
 
