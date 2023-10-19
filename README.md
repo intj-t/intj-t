@@ -279,7 +279,7 @@ The founder Jonathan has a famous technical case at Microsoft with https://refer
 
 Jonathan lives in historic Abingdon, Va. and owns two homes. And was placed on child benefits after his mother died. Working on family trust by putting property in the trust as shares to have income as dividends. His Working Capital or Net Worth is high and there are lawsuits for unpaid startup salaries dating back to 2011 pending at Microsoft Legal. Cashing out shares converted into the right to receive the Cash Merger Consideration pursuant to this Section 2.02.
 
-He has Micosoft UNIX Licenced Source 1974-2012, SUSE Source Cache, Microsoft Samples 1974-present, And MSDN Magazine Partner Source from Component Source. Microsoft Code Center Priemium, Every Windows SDK and DDK And Visual Sudio 2003, 2005, 2017 Source. Plus Microsoft Research and Code Plex Archive. Macromedia Flash 4 Source now in the Computer History Museum. Adobe Source Libraies Etc, Subraten Cube 2 Source. IRCAM Sources. Hio Northrup Grumann Mars Rover which he was lead Software Engineer on in college.
+He has Micosoft UNIX Licenced Source 1974-2012, SUSE Source Cache, Microsoft Samples 1974-present, And MSDN Magazine Partner Source from Component Source. Microsoft Code Center Priemium, Every Windows SDK and DDK And Visual Sudio 2003, 2005, 2017 Source. Plus Microsoft Research and Code Plex Archive. Macromedia Flash 4 Source now in the Computer History Museum. Adobe Source Libraies Etc, Subraten Cube 2 Source. IRCAM Sources. His Northrup Grumann Mars Rover which he was lead Software Engineer on in college.
 
 <ul>
 <li><a href="https://www.youtube.com/watch?v=78LsXbMCNMk">Prick: Riverhead</a></li>
