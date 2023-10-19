@@ -284,6 +284,7 @@ Jonathan lives in historic Abingdon, Va. and owns two homes. And was placed on c
 <li><a href="https://www.youtube.com/watch?v=K6wW5qrPM2c">Prick: Makebelieve</a></li>
 <li><a href="https://www.youtube.com/watch?v=m98To04DUy0">Prick: Tough</a></li>
 <li><a href="https://www.youtube.com/watch?v=DDwBphJjwso">Prick: No Fair Fights</a></li>
+<li><a href="https://www.youtube.com/watch?v=4FcF5iBhyew">Prick: I Got It Bad</a></li>
 
 ### Theories of Evolution Onto Music
 
