@@ -35,6 +35,8 @@
 
 [Macromedia User Group 2000](https://web.archive.org/web/20001002153818/http://www.macromedia.com/support/programs/usergroup.cgi?state=Virginia)
 
+<a href="https://www.cnbc.com/2018/04/03/the-real-danger-in-sinclair-broadcasts-fake-news-scandal.html">The real danger in Sinclair Broadcast’s ‘fake news’ scandal</a>
+
 [System Integrator Contract](https://github.com/jonathanlyonchapmanmoore/jonathanlyonchapmanmoore/blob/master/images/contract.jpg)
 
 <a href="https://github.com/jonathanlyonchapmanmoore/jonathanlyonchapmanmoore/blob/master/images/380739123_164881003326819_2771160564294002295_n.jpg">My Visual Studio Industry Partner Paid Contract</a>
@@ -408,7 +410,7 @@ Collateral is an asset pledged by a borrower to a lender until a loan is paid ba
 
 <a href="https://www.independent.co.uk/news/world/sony-senses-a-market-in-esp-1577154.html">Sony senses a market in ESP</a>
 
-<a href="https://www.cnbc.com/2018/04/03/the-real-danger-in-sinclair-broadcasts-fake-news-scandal.html">The real danger in Sinclair Broadcast’s ‘fake news’ scandal</a>
+
 
 <a href="https://www.prwatch.org/fakenews/tv-stations">Fake News TV Stations</a>
 
