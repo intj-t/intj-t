@@ -292,6 +292,8 @@ The piece, This Paradise I give thee, is a short composition for 13 instruments 
 
 <a href="https://www.psychologytoday.com/us/blog/between-cultures/202303/saying-the-unsayable-the-psychology-of-poetry">Saying the Unsayable: The Psychology of Poetry</a> 
 
+Make sure to wear a dark helmet.
+
 <!--### Intel
 
 <a href="https://hbr.org/2014/07/resentment-jealousy-feuds-a-look-at-intels-founding-team">Resentment, Jealousy, Feuds: A Look at Intel’s Founding Team</a>
