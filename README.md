@@ -290,7 +290,7 @@ He has Open Group Sources 1995-present, GNU, Apache and Perl, Micosoft UNIX Lice
 
 <li><a href="https://www.youtube.com/watch?v=fX7o-1OH-WM">Sauerbraten: Cube 2</a></li>
 
-### Theories of Evolution Onto Music
+## Theories of Evolution Onto Music
 
 The piece, This Paradise I give thee, is a short composition for 13 instruments and baritone solo which draws inspiration from the diversity of the natural world alongside the words of Charles Darwin and John Milton. With this piece Gabriel maps processes and theories of evolution onto music.
 
