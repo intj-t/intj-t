@@ -279,6 +279,8 @@ The founder Jonathan has a famous technical case at Microsoft with https://refer
 
 Jonathan lives in historic Abingdon, Va. and owns two homes. And was placed on child benefits after his mother died. Working on family trust by putting property in the trust as shares to have income as divideds. My Working Capital or Net Worth is high and there are lawsuits for unpaid startup salaries dating back to 2011 pending at Microsoft Legal.
 
+<a href="https://www.youtube.com/watch?v=78LsXbMCNMk">Prick: Riverhead</a>
+
 ### Theories of Evolution Onto Music
 
 The piece, This Paradise I give thee, is a short composition for 13 instruments and baritone solo which draws inspiration from the diversity of the natural world alongside the words of Charles Darwin and John Milton. With this piece Gabriel maps processes and theories of evolution onto music.
