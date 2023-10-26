@@ -403,6 +403,8 @@ Collateral is an asset pledged by a borrower to a lender until a loan is paid ba
 
 <a href="https://www.independent.co.uk/news/world/sony-senses-a-market-in-esp-1577154.html">Sony senses a market in ESP</a>
 
+<a href="https://taxfoundation.org/research/all/federal/moore-v-united-states-tax-unrealized-income/">Moore vs the United States</a> In Coccomo II it is Taxonomoy not tax
+
 
 
 <a href="https://www.prwatch.org/fakenews/tv-stations">Fake News TV Stations</a>
