@@ -210,7 +210,7 @@ Gates Orginially wanted me to for to Oxford in 2005 but management messed up the
 </ul>
 
 <h4>Santa Cruz Operation</h4>
-<p>You will need Open Server 5 <a href="ftp://ftp2.sco.com/pub/skunkware/src/">Source</a> it builds on Windows 2003 R2 SUA You will also need the MSDN Magazine Archive which contains Windows 2003 R@ Partners also which I will sell you for $100 begining in 2024.</p>
+<p>You will need Open Server 5 <a href="ftp://ftp2.sco.com/pub/skunkware/src/">Source</a> it builds on Windows 2003 R2 SUA You will also need the MSDN Magazine Archive which contains Windows 2003 R2 Partners also which I will sell you for $100 begining in 2024.</p>
 <ul>
 <li><a href="https://www.sco.com/skunkware/">SCO Skunkware</a></li>
 <li><a href="https://www.computerworld.com/article/2570686/sco-confirms-microsoft-has-licensed-its-unix-technology.html">SCO confirms Microsoft has licensed its Unix technology</a></li>
