@@ -185,7 +185,6 @@ Gates Orginially wanted me to for to Oxford in 2005 but management messed up the
 <li><a href="https://www.nordier.com/">Classic BCPL for Windows</a></li>
 <li><a href="https://community.kde.org/Main_Page">KDE Community</a></li>
 <li><a href="https://www.perl.org">Perl Community</a></li>
-
 <li><a href="https://archive.org/details/VCPP4.00Macintosh">Visual C++ 4.0 Cross-Development Edition for Macintosh</a></li>
 <li><a href="https://archive.org/details/ms-visual-c-4.0-risc-edition">MS Visual C++ 4.0 RISC Edition</a></li>
 <li><a href="https://archive.org/details/en_windows_embedded_ce_6.0_dvd"> Windows CE 6.0</a></li>
@@ -200,9 +199,9 @@ Gates Orginially wanted me to for to Oxford in 2005 but management messed up the
 <li><a href="https://www.microsoft.com/en-us/research/project/language-integrated-quantum-operations-liqui/">Language-Integrated Quantum Operations: LIQUi|</a></li>
 </ul>
 
-Install or Copy the following
+Install or Copy the following into a vitrual machine
 
-1. Install Windows 2003 R2 32 bit with Windows Internals 4th ebook
+1. Install Windows 2003 R2 32-bit with Windows Internals 4th ebook
 
 2. Install Windows XP Embedded
 
@@ -224,7 +223,7 @@ Install or Copy the following
 
 11. Install MinWin (from Beta Archive)
 
-12. Install SUA for Windows server R2 32 Bit
+12. Install SUA for Windows server R2 32-Bit
 
 13. Install the MSDN Magazine Archive CDROM.
 
