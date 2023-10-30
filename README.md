@@ -176,7 +176,7 @@ Gates Orginially wanted me to for to Oxford in 2005 but management messed up the
 <ul>
 <li><a href="https://www.amazon.com/Operating-Systems-Design-Implementation-3rd/dp/0131429388">Operating Systems Design and Implementation 3rd Edition</a></li>
 </ul>
-<h4>Washington, Wa</h4>
+<h4>Redmond, Wa</h4>
 <ul>
 	<h4>CTSS</h4>
  	<ul>	
@@ -186,26 +186,32 @@ Gates Orginially wanted me to for to Oxford in 2005 but management messed up the
 	<ul>	
 	<li><a href="https://en.wikipedia.org/wiki/Version_7_Unix">Version 7 Unix</a></li>
 	<li><a href="https://www.nordier.com/">Classic BCPL for Windows</a></li>
-	</ul>	
-	<li><a href="https://en.wikipedia.org/wiki/SPIN_(operating_system)">SPIN</a></li>
 	</ul>
-<li><a href="https://web.archive.org/web/20010403224927/http://research.microsoft.com/">University Programs</a></li>
-<li><a href="https://betawiki.net/wiki/Build_lab">Windows Build Lab</a></li>
-<li><a href="https://community.kde.org/Main_Page">KDE Community</a></li>
-<li><a href="https://www.perl.org">Perl Community</a></li>
-<li><a href="https://archive.org/details/VCPP4.00Macintosh">Visual C++ 4.0 Cross-Development Edition for Macintosh</a></li>
-<li><a href="https://archive.org/details/ms-visual-c-4.0-risc-edition">MS Visual C++ 4.0 RISC Edition</a></li>
-<li><a href="https://archive.org/details/en_windows_embedded_ce_6.0_dvd"> Windows CE 6.0</a></li>
-<li><a href="https://news.microsoft.com/2002/02/21/microsoft-announces-major-expansion-of-shared-source-initiativeproviding-source-code-to-systems-integrators/">Microsoft Announces Major Expansion of Shared Source Initiative,Providing Source Code to Systems Integrators, Individuals need 700 resource hours.</a></li>
-<li><a href="https://archive.org/details/pdc-2003-conference-dvds-presentation-and-longhorn-discs">PDC 2003 Developer Connection</a></li>
+	<h4>University of Washington</h4>
+	<ul>	
+	<li><a href="https://en.wikipedia.org/wiki/SPIN_(operating_system)">SPIN</a></li>
+	<li><a href="https://wiki.netbsd.org/ports/arc/">NetBSD Arc</a></li>
+	<li><a href="https://www.netbsd.org/docs/software/packages.html">The NetBSD Packages Collection Interix (Microsoft Windows Services for Unix)</a></li>
+	<li><a href="https://community.kde.org/Main_Page">KDE Community</a></li>
+	<li><a href="https://www.perl.org">Perl Community</a></li>
+	</ul>
+	<h4>Microsoft</h4>
+	<ul>
+	<li><a href="https://web.archive.org/web/20010403224927/http://research.microsoft.com/">University Programs</a></li>
+	<li><a href="https://betawiki.net/wiki/Build_lab">Windows Build Lab</a></li>
+	<li><a href="https://archive.org/details/VCPP4.00Macintosh">Visual C++ 4.0 Cross-Development Edition for Macintosh</a></li>
+	<li><a href="https://archive.org/details/ms-visual-c-4.0-risc-edition">MS Visual C++ 4.0 RISC Edition</a></li>
+	<li><a href="https://archive.org/details/pdc-2003-conference-dvds-presentation-and-longhorn-discs">PDC 2003 Developer Connection</a></li>
+	<li><a href="https://archive.org/details/en_windows_embedded_ce_6.0_dvd"> Windows CE 6.0</a></li>
+	<li><a href="https://news.microsoft.com/2002/02/21/microsoft-announces-major-expansion-of-shared-source-initiativeproviding-source-code-to-systems-integrators/">Microsoft Announces 		Major Expansion of Shared Source Initiative,Providing Source Code to Systems Integrators, Individuals need 700 resource hours.</a></li>
+	
 
-<li><a href="https://windows-never-released.fandom.com/wiki/Windows_Never_Released_Wiki">Windows Never Released Wiki</a></li>
-<li><a href="https://www.microsoft.com/en-us/sharedsource/debugging.aspx">Debug with Code Center Premium Source</a>
-<li><a href="https://learn.microsoft.com/en-us/openspecs/dev_center/ms-devcentlp/d84cac00-b312-44ee-9156-23bde6477c3d">Interoperability Principles Program</a></li>
-<li><a href="https://wiki.netbsd.org/ports/arc/">NetBSD Arc</a></li>
-<li><a href="https://www.netbsd.org/docs/software/packages.html">The NetBSD Packages Collection Interix (Microsoft Windows Services for Unix)</a></li>
-<li><a href="https://www.microsoft.com/en-us/research/project/language-integrated-quantum-operations-liqui/">Language-Integrated Quantum Operations: LIQUi|</a></li>
-</ul>
+	<li><a href="https://windows-never-released.fandom.com/wiki/Windows_Never_Released_Wiki">Windows Never Released Wiki</a></li>
+	<li><a href="https://www.microsoft.com/en-us/sharedsource/debugging.aspx">Debug with Code Center Premium Source</a>
+	<li><a href="https://learn.microsoft.com/en-us/openspecs/dev_center/ms-devcentlp/d84cac00-b312-44ee-9156-23bde6477c3d">Interoperability Principles Program</a></li>
+
+	<li><a href="https://www.microsoft.com/en-us/research/project/language-integrated-quantum-operations-liqui/">Language-Integrated Quantum Operations: LIQUi|</a></li>
+	</ul>
 
 Install or Copy the following into a vitrual machine
 
