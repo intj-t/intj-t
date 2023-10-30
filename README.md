@@ -186,6 +186,10 @@ Gates Orginially wanted me to for to Oxford in 2005 but management messed up the
 <ul>
 <li><a href="https://digital.com/digital-equipment-corporation/">Digital Equipment Corporation, or DEC, who began paving the way for everyone starting in 1957</a></li>
 </ul>
+<ul>
+<h4>University of Calgary</h4>
+<p>Here will be the old <a href="">FreeBSD from Scratch</a> which Linux stole from and OpenBSD which is based off of BSD 4.4 the Apple and Microsoft Subsystem fork.</p>
+</ul>
 <h4>Redmond, Wa</h4>
 <ul>
 	<h4>Compatible Time-Sharing System</h4>
@@ -254,9 +258,6 @@ Install or Copy the following into a vitrual machine
 </ul>
 
 
-
-<h4>BSD</h4>
-<p>Here will be the old <a href="">FreeBSD from Scratch</a> which Linux stole from and OpenBSD which is based off of BSD 4.4 the Apple and Microsoft Subsystem fork.</p>
 
 <h4>Walnut Creek</h4>
 <ul>
