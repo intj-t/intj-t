@@ -176,13 +176,9 @@ Gates Orginially wanted me to for to Oxford in 2005 but management messed up the
 <ul>
 <li><a href="https://www.amazon.com/Operating-Systems-Design-Implementation-3rd/dp/0131429388">Operating Systems Design and Implementation 3rd Edition</a></li>
 </ul>
-<h4>Maynard, Massachusetts</h4>
-<ul>
-<li><a href="https://digital.com/digital-equipment-corporation/">Digital Equipment Corporation, or DEC, who began paving the way for everyone starting in 1957</a></li>
-</ul>
 <h4>Redmond, Wa</h4>
 <ul>
-	<h4>CTSS</h4>
+	<h4>Compatible Time-Sharing System</h4>
  	<ul>	
 	<li><a href="https://www.livingcomputers.org/Computer-Collection/Vintage-Computers/Mainframes/XKL-TOAD-1-System.aspx">XKL</a></li>
 	</ul>
@@ -207,7 +203,7 @@ Gates Orginially wanted me to for to Oxford in 2005 but management messed up the
 	<li><a href="https://archive.org/details/ms-visual-c-4.0-risc-edition">MS Visual C++ 4.0 RISC Edition</a></li>
 	<li><a href="https://archive.org/details/pdc-2003-conference-dvds-presentation-and-longhorn-discs">PDC 2003 Developer Connection</a></li>
 	<li><a href="https://archive.org/details/en_windows_embedded_ce_6.0_dvd">Windows CE 6.0</a></li>
-	</ul>&nbsp&nbsp
+	</ul>
 
 Install or Copy the following into a vitrual machine
 
@@ -262,6 +258,11 @@ Install or Copy the following into a vitrual machine
 <li><a href="https://archive.org/details/walnutcreekcdrom">The Walnut Creek CD-ROM Collection</a></li>
 <li><a href="https://oac.cdlib.org/findaid/ark:/13030/c81r6wmh/entire_text/">Guide to the Walnut Creek Shareware Collection</a></li>
 <li><a href="https://www.zdnet.com/finance/berkeley-unix-moves-to-walnut-creek/">Berkeley UNIX moves to Walnut Creek</a></li>
+</ul>
+
+<h4>DEC</h4>
+<ul>
+<li><a href="https://digital.com/digital-equipment-corporation/">Digital Equipment Corporation, or DEC, who began paving the way for everyone starting in 1957</a></li>
 </ul>
 
 <h4>Apple</h4>
