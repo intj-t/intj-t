@@ -103,7 +103,19 @@
 
 Net Worth was $500K to 1 million from 2002 when I was 24 at Edward Jones to 2017 at Fidelity. Invested in Microsoft and Adobe all 1099's filed. I have a Macromedia patent for a $6.3 million taxed S Corporation or partnership capital gain if sold. The patent needs to be expensed and amortilized. Since 1954, under Section 1235 of the Code, the transfer of a patent by the inventor generally has been entitled to long-term capital gains treatment, irrespective of whether the patent had been held for more than one year. The Tax Cuts and Jobs Growth Act. Signed into law by President Trump. On IRS Form 1040 Schedule E .Completing a 2006 Microsoft Tender offer that was extended Have $6 million in unrealized gains for a IPO. Microsoft and Adobe 1099-NEC have to be given to Microsoft and Adobe.
 
-<!--### Personal
+### Intel
+
+<a href="https://hbr.org/2014/07/resentment-jealousy-feuds-a-look-at-intels-founding-team">Resentment, Jealousy, Feuds: A Look at Intel’s Founding Team</a>
+
+### Infinity
+
+<a href="https://plato.stanford.edu/entries/infinity/">Intinity</a>
+
+### Channel 9
+
+[Microsoft Channel 9](https://walkingcat.github.io/ch9-index/)
+
+### Personal
 
 [Politically Correct Labels and Schizophrenia: A Rose by Any Other Name?](https://academic.oup.com/schizophreniabulletin/article/27/2/197/1870998?login=false)
 
@@ -146,7 +158,7 @@ Gates Orginially wanted me to for to Oxford in 2005 but management messed up the
 <h4>The Book of Sir Thomas More: Shakespeare's only surviving literary manuscript</h4>
 <ul>
 <li><a href="https://www.bl.uk/collection-items/shakespeares-handwriting-in-the-book-of-sir-thomas-more">The Book of Sir Thomas More: Shakespeare's only surviving literary manuscript</li>
-</ul>-->
+</ul>
 
 ## Computer History 
 
