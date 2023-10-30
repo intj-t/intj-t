@@ -25,6 +25,14 @@
         <li>11. certmgr.msc, go to Trusted Root Certification Authorities\Certificates and remove the Microsoft Test Root Authority certificate, Sign out and Sign in again.</li>
 </ul>
 
+### Moore's Law
+
+<a href="https://acim.nidec.com/en-us/drives/control-techniques/news-and-media/blog/insights/calculating-infinity-the-paradox-of-moores-law">Calculating Infinity: The Paradox Of Moore's Law</a>
+
+<a href="https://www.nature.com/articles/pj201764">In pursuit of Moore’s Law: polymer chemistry in action</a>
+
+<a href="https://journals.aps.org/pra/abstract/10.1103/PhysRevA.77.022104">Exponential complexity and ontological theories of quantum mechanics</a>
+
 ### Jonathan Lyon Chapman Moore
  
 <a href="Jonathan Chapman Moore FRSA.docx">Curriculum Vitae</a>
