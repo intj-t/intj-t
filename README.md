@@ -170,8 +170,13 @@ Gates Orginially wanted me to for to Oxford in 2005 but management messed up the
 <li><a href="https://penntoday.upenn.edu/news/worlds-first-general-purpose-computer-turns-75">First Programable Computer (ENIAC)</a></li>
 </ul>
 <h4>Charlotteville, Virginia</h4>
-<h4>Princton, NJ, Virginia</h4>
-
+<ul>
+<li><a href="https://www.amazon.com/Operating-Systems-Design-Implementation-3rd/dp/0131429388">Operating Systems Design and Implementation 3rd Edition</a></li>
+</ul>
+<h4>Princeton, NJ, Virginia</h4>
+<ul>
+<li><a href=""></a></li>
+</ul>
 <h4>Washington, Wa</h4>
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/SPIN_(operating_system)">SPIN(operating_system)</a></li>
