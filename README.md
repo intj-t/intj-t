@@ -196,6 +196,14 @@ Gates Orginially wanted me to for to Oxford in 2005 but management messed up the
 <ul>
 <p>University of Calgary, Here will be the old <a href="">FreeBSD from Scratch</a> which Linux stole from and OpenBSD which is based off of BSD 4.4 the Apple and Microsoft Subsystem fork.</p>
 </ul>
+<h4>University of Washington</h4>
+<ul>	
+<li><a href="https://en.wikipedia.org/wiki/SPIN_(operating_system)">SPIN</a></li>
+<li><a href="https://wiki.netbsd.org/ports/arc/">NetBSD Arc</a></li>
+<li><a href="https://www.netbsd.org/docs/software/packages.html">The NetBSD Packages Collection Interix (Microsoft Windows Services for Unix)</a></li>
+<li><a href="https://community.kde.org/Main_Page">KDE Community</a></li>
+<li><a href="https://www.perl.org">Perl Community</a></li>
+</ul>
 <h4>Santa Cruz, California</h4>
 <p>Santa Cruz Operation You will need Open Server 5 <a href="ftp://ftp2.sco.com/pub/skunkware/src/">Source</a> it builds on Windows 2003 R2 SUA You will also need the MSDN Magazine Archive which contains Windows 2003 R2 Partners also which I will sell you for $100 begining in 2024.</p>
 <ul>
@@ -215,15 +223,7 @@ Gates Orginially wanted me to for to Oxford in 2005 but management messed up the
 	<ul>	
 	<li><a href="https://en.wikipedia.org/wiki/Version_7_Unix">Version 7 Unix</a></li>
 	<li><a href="https://www.nordier.com/">Classic BCPL for Windows</a></li>
-	</ul>
-	<h4>University of Washington</h4>
-	<ul>	
-	<li><a href="https://en.wikipedia.org/wiki/SPIN_(operating_system)">SPIN</a></li>
-	<li><a href="https://wiki.netbsd.org/ports/arc/">NetBSD Arc</a></li>
-	<li><a href="https://www.netbsd.org/docs/software/packages.html">The NetBSD Packages Collection Interix (Microsoft Windows Services for Unix)</a></li>
-	<li><a href="https://community.kde.org/Main_Page">KDE Community</a></li>
-	<li><a href="https://www.perl.org">Perl Community</a></li>
-	</ul>
+	</ul>	
 	<h4>Microsoft</h4>
 	<ul>
 	<li><a href="https://web.archive.org/web/20010403224927/http://research.microsoft.com/">University Programs</a></li>
