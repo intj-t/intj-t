@@ -158,11 +158,11 @@ Gates Orginially wanted me to for to Oxford in 2005 but management messed up the
 </ul>
 <h4>London, UK</h4>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/LEO_(computer)">LEO(computer)</a></li>
+<li><a href="https://en.wikipedia.org/wiki/LEO_(computer)">LEO Computer</a></li>
 </ul>
 <h4>Cambridge, UK</h4>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Nemesis_(operating_system)">Nemesis(operating_system)</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Nemesis operating system">Nemesis(operating_system)</a></li>
 </ul>
 <h4>Pennsivania, PA</h4>
 <ul>
@@ -182,6 +182,8 @@ Gates Orginially wanted me to for to Oxford in 2005 but management messed up the
 <li><a href="https://en.wikipedia.org/wiki/SPIN_(operating_system)">SPIN(operating_system)</a></li>
 <li><a href="https://www.livingcomputers.org/Computer-Collection/Vintage-Computers/Mainframes/XKL-TOAD-1-System.aspx">XKL</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Version_7_Unix">Version 7 Unix</a></li>
+<li><a href="https://wiki.netbsd.org/ports/arc/">NetBSD Arc</a></li>
+<li><a href="https://www.netbsd.org/docs/software/packages.html">The NetBSD Packages Collection Interix (Microsoft Windows Services for Unix)</a></li>
 <li><a href="https://www.nordier.com/">Classic BCPL for Windows</a></li>
 <li><a href="https://community.kde.org/Main_Page">KDE Community</a></li>
 <li><a href="https://www.perl.org">Perl Community</a></li>
@@ -194,10 +196,38 @@ Gates Orginially wanted me to for to Oxford in 2005 but management messed up the
 <li><a href="https://windows-never-released.fandom.com/wiki/Windows_Never_Released_Wiki">Windows Never Released Wiki</a></li>
 <li><a href="https://www.microsoft.com/en-us/sharedsource/debugging.aspx">Debug with Code Center Premium Source</a>
 <li><a href="https://learn.microsoft.com/en-us/openspecs/dev_center/ms-devcentlp/d84cac00-b312-44ee-9156-23bde6477c3d">Interoperability Principles Program</a></li>
-<li><a href="https://wiki.netbsd.org/ports/arc/">NetBSD Arc</a></li>
-<li><a href="https://www.netbsd.org/docs/software/packages.html">The NetBSD Packages Collection Interix (Microsoft Windows Services for Unix)</a></li>
 <li><a href="https://www.microsoft.com/en-us/research/project/language-integrated-quantum-operations-liqui/">Language-Integrated Quantum Operations: LIQUi|</a></li>
 </ul>
+
+Install or Copy the following in a Virtual Machine
+
+1. Install Windows 2003 R2 with Windows Internals 4th ebook
+
+2. Install Windows XP Embedded
+
+3. Install Windows XP/2003 Source (due to incomplete contract it's on the internet archive, but complete source).
+
+4. Install the Windows 2003 DDK and SDK
+
+5. Install Visual Studio 2003 Academic
+
+6. Install Visual Studio 2005 Professional  
+
+7. Install Office XP Professional
+
+8. Install the Windows Research Kernel Source. With Curriculum Toolkit (from 2009 UVa Wise Sysdmin)
+
+9. Install the Shared Source Common Language Infustructure v 2.0 with ebook (from Shared Source contract 2006)
+
+10. Install SCO OpenServer 5 Source 
+
+11. Install MinWin (from Beta Archive)
+
+12. Install SUA for Windows Server R2 32-bit
+
+13. Install the MSDN Magazine Archive CDROM.
+
+14. Make a Longhorn Virtual Machine from the PDC 2003 Discs and remove the time bomb and crack the activation then mount it in the Windows XP VM
 
 <h4>AT&T</h4>
 <p>Below is System V Source which are tape files which can be extracted with 7-Zip. On Windows 10.</p>
