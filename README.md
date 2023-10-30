@@ -33,6 +33,8 @@
 
 <a href="https://journals.aps.org/pra/abstract/10.1103/PhysRevA.77.022104">Exponential complexity and ontological theories of quantum mechanics</a>
 
+<a href="https://slate.com/technology/2013/03/quantum-computing-and-the-future-of-moore-s-law.html">Quantuam Computer and the Future of Moore's Law</a>
+
 ### Jonathan Lyon Chapman Moore
  
 <a href="Jonathan Chapman Moore FRSA.docx">Curriculum Vitae</a>
