@@ -161,7 +161,7 @@ Gates Orginially wanted me to for to Oxford in 2005 but management messed up the
 </ul>
 <h4>Cambridge, UK</h4>
 <ul>
-<li><a href="https://en.wikipedia.org/wiki/Nemesis operating system">Nemesis(operating_system)</a></li>
+<li><a href="https://en.wikipedia.org/wiki/Nemesis operating system">Nemesis</a></li>
 </ul>
 <h4>Pennsivania, PA</h4>
 <ul>
