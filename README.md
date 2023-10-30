@@ -180,9 +180,13 @@ Gates Orginially wanted me to for to Oxford in 2005 but management messed up the
 <ul>
 	<h4>CTSS</h4>
  	<ul>	
-	<li><a href="https://www.livingcomputers.org/Computer-Collection/Vintage-Computers/Mainframes/XKL-TOAD-1-System.aspx">XKL</a></li>	
+	<li><a href="https://www.livingcomputers.org/Computer-Collection/Vintage-Computers/Mainframes/XKL-TOAD-1-System.aspx">XKL</a></li>
+	</ul>
+	<h4>UNIX v7</h4>
+	<ul>	
 	<li><a href="https://en.wikipedia.org/wiki/Version_7_Unix">Version 7 Unix</a></li>
-	<li><a href="https://www.nordier.com/">Classic BCPL for Windows</a></li>	
+	<li><a href="https://www.nordier.com/">Classic BCPL for Windows</a></li>
+	</ul>	
 	<li><a href="https://en.wikipedia.org/wiki/SPIN_(operating_system)">SPIN</a></li>
 	</ul>
 <li><a href="https://web.archive.org/web/20010403224927/http://research.microsoft.com/">University Programs</a></li>
