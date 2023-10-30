@@ -200,6 +200,36 @@ Gates Orginially wanted me to for to Oxford in 2005 but management messed up the
 <li><a href="https://www.microsoft.com/en-us/research/project/language-integrated-quantum-operations-liqui/">Language-Integrated Quantum Operations: LIQUi|</a></li>
 </ul>
 
+Install or Copy the following
+
+1. Install Windows 2003 R2 32 bit with Windows Internals 4th ebook
+
+2. Install Windows XP Embedded
+
+3. Install Windows XP/2003 Source (due to incomplete contract it's on the internet archive, but complete source).
+
+4. Install the Windows 2003 DDK and SDK
+
+5. Install Visual Studio 2003 Academic
+
+6. Install Visual Studio 2005 Professional  
+
+7. Install Office XP Professional
+
+8. Install the Windows Research Kernel Source. With Curriculum Toolkit (from 2009 UVa Wise Sysdmin)
+
+9. Install the Shared Source Common Language Infustructure v 2.0 with ebook (from Shared Source contract 2006)
+
+10. Install SCO OpenServer 5 Source 
+
+11. Install MinWin (from Beta Archive)
+
+12. Install SUA for Windows server R2 32 Bit
+
+13. Install the MSDN Magazine Archive CDROM.
+
+14. Make a Longhorn Virtual Machine from the PDC 2003 Discs and remove the time bomb and crack the activation then mount it in the Windows XP VM
+
 <h4>AT&T</h4>
 <p>Below is System V Source which are tape files which can be extracted with 7-Zip. On Windows 10.</p>
 <ul>
