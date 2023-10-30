@@ -163,6 +163,12 @@ Gates Orginially wanted me to for to Oxford in 2005 but management messed up the
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/Nemesis operating system">Nemesis</a></li>
 </ul>
+<h4>Whitacre Tower, Dallas, Texas</h4>
+<p>Below is System V Source which are tape files which can be extracted with 7-Zip. On Windows 10.</p>
+<ul>
+<li><a href="https://sphinxlogic.org/windows/product/1975/SystemV.zip">AT&T System V Source</a></li>
+<li><a href="https://cybersecurity.att.com/blogs/security-essentials/its-only-a-hacker-if-its-linus-himself">It's Only A Hacker If It's Linus Himself</a></li>
+</ul>
 <h4>Pennsivania, PA</h4>
 <ul>
 <li><a href="https://penntoday.upenn.edu/news/worlds-first-general-purpose-computer-turns-75">First Programable Computer (ENIAC)</a></li>
@@ -243,12 +249,7 @@ Install or Copy the following into a vitrual machine
 <li><a href="https://www.microsoft.com/en-us/research/project/language-integrated-quantum-operations-liqui/">Language-Integrated Quantum Operations: LIQUi|</a></li>
 </ul>
 
-<h4>AT&T</h4>
-<p>Below is System V Source which are tape files which can be extracted with 7-Zip. On Windows 10.</p>
-<ul>
-<li><a href="https://sphinxlogic.org/windows/product/1975/SystemV.zip">AT&T System V Source</a></li>
-<li><a href="https://cybersecurity.att.com/blogs/security-essentials/its-only-a-hacker-if-its-linus-himself">It's Only A Hacker If It's Linus Himself</a></li>
-</ul>
+
 
 <h4>BSD</h4>
 <p>Here will be the old <a href="">FreeBSD from Scratch</a> which Linux stole from and OpenBSD which is based off of BSD 4.4 the Apple and Microsoft Subsystem fork.</p>
