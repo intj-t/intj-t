@@ -203,7 +203,7 @@ Gates Orginially wanted me to for to Oxford in 2005 but management messed up the
 	<li><a href="https://archive.org/details/ms-visual-c-4.0-risc-edition">MS Visual C++ 4.0 RISC Edition</a></li>
 	<li><a href="https://archive.org/details/pdc-2003-conference-dvds-presentation-and-longhorn-discs">PDC 2003 Developer Connection</a></li>
 	<li><a href="https://archive.org/details/en_windows_embedded_ce_6.0_dvd">Windows CE 6.0</a></li>
-	</ul>
+	</ul>&nbsp&nbsp
 
 Install or Copy the following into a vitrual machine
 
