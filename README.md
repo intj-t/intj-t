@@ -151,32 +151,28 @@ Gates Orginially wanted me to for to Oxford in 2005 but management messed up the
 <ul>
 <li><a href="https://people.idsia.ch/~juergen/zuse.html">First Working Computer</a></li>
 </ul>
-<h4>ENIAC</h4>
-<ul>
-<li><a href="https://penntoday.upenn.edu/news/worlds-first-general-purpose-computer-turns-75">First Programable Computer (ENIAC)</a></li>
-</ul>
+
 <h4>Michael Tiemann</h4>
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/Michael_Tiemann">Michael Tiemann</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Shared_Source_Initiative">Shared Source Initiative</a></li>
 </ul>
-<h4>Leo Computer</h4>
+<h4>London, UK</h4>
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/LEO_(computer)">LEO(computer)</a></li>
 </ul>
-<h4>XKL</h4>
-<p>The internals of the Toad-1 lived on in the Toad-2 processor used as the setup processor in earlier generations of XKL's high-end network switches.</p>
-<ul>
-<li><a href="https://www.livingcomputers.org/Computer-Collection/Vintage-Computers/Mainframes/XKL-TOAD-1-System.aspx">XKL</a></li>
-</ul>
-<h4>Cambridge</h4>
+<h4>Cambridge, UK</h4>
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/Nemesis_(operating_system)">Nemesis(operating_system)</a></li>
 </ul>
-
-<h4>Washington</h4>
+<h4>Pennsivania, PA</h4>
+<ul>
+<li><a href="https://penntoday.upenn.edu/news/worlds-first-general-purpose-computer-turns-75">First Programable Computer (ENIAC)</a></li>
+</ul>
+<h4>Washington, Wa</h4>
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/SPIN_(operating_system)">SPIN(operating_system)</a></li>
+<li><a href="https://www.livingcomputers.org/Computer-Collection/Vintage-Computers/Mainframes/XKL-TOAD-1-System.aspx">XKL</a></li>
 <li><a href="https://archive.org/details/en_windows_embedded_ce_6.0_dvd"> Windows CE 6.0</a></li>
 <li><a href="https://community.kde.org/Infrastructure/Subversion">KDE Subversion</a></li>
 </ul>
