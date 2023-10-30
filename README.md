@@ -177,6 +177,7 @@ Gates Orginially wanted me to for to Oxford in 2005 but management messed up the
 <h4>Washington</h4>
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/SPIN_(operating_system)">SPIN(operating_system)</a></li>
+<li><a href="https://archive.org/details/en_windows_embedded_ce_6.0_dvd"> Windows CE 6.0</a></li>
 <li><a href="https://community.kde.org/Infrastructure/Subversion">KDE Subversion</a></li>
 </ul>
 
