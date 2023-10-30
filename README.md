@@ -183,7 +183,7 @@ Gates Orginially wanted me to for to Oxford in 2005 but management messed up the
 <li><a href="https://www.livingcomputers.org/Computer-Collection/Vintage-Computers/Mainframes/XKL-TOAD-1-System.aspx">XKL</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Version_7_Unix">Version 7 Unix</a></li>
 <li><a href="https://www.nordier.com/">Classic BCPL for Windows</a></li>
-<li><a href="https://community.kde.org/Infrastructure/Subversion">KDE Subversion</a></li>
+<li><a href="https://community.kde.org/Main_Page">KDE Subversion</a></li>
 <li><a href="https://web.archive.org/web/20010403224927/http://research.microsoft.com/">University Programs</a></li>
 <li><a href="https://archive.org/details/VCPP4.00Macintosh">Visual C++ 4.0 Cross-Development Edition for Macintosh</a></li>
 <li><a href="https://archive.org/details/ms-visual-c-4.0-risc-edition">MS Visual C++ 4.0 RISC Edition</a></li>
