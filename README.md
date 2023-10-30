@@ -205,7 +205,7 @@ Gates Orginially wanted me to for to Oxford in 2005 but management messed up the
 <li><a href="https://www.perl.org">Perl Community</a></li>
 </ul>
 <h4>Santa Cruz, California</h4>
-<p>Santa Cruz Operation You will need Open Server 5 <a href="ftp://ftp2.sco.com/pub/skunkware/src/">Source</a> it builds on Windows 2003 R2 SUA You will also need the MSDN Magazine Archive which contains Windows 2003 R2 Partners also which I will sell you for $100 begining in 2024.</p>
+<p>Santa Cruz Operation You will need Open Server 5 <a href="ftp://ftp2.sco.com/pub/skunkware/src/">Source</a>it builds on Windows 2003 R2 SUA You will also need the MSDN Magazine Archive which contains Windows 2003 R2 Partners also which I will sell you for $100 begining in 2024.</p>
 <ul>
 <li><a href="https://www.sco.com/skunkware/">SCO Skunkware</a></li>
 <li><a href="https://www.computerworld.com/article/2570686/sco-confirms-microsoft-has-licensed-its-unix-technology.html">SCO confirms Microsoft has licensed its Unix technology</a></li>
@@ -293,6 +293,7 @@ Install or Copy the following into a vitrual machine
 <ul>
 <li><a href="https://en.opensuse.org/openSUSE:Mirror_infrastructure">openSUSE:Mirror infrastructure</a></li>
 <li><a href="https://www.zdnet.com/article/when-microsoft-met-suse-this-windows-linux-partnership-gets-stronger-every-day/">When Microsoft met SUSE: This Windows-Linux partnership gets stronger every day</a></li>
+</ul>
 
 ### Autism Which I will not support
 
