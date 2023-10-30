@@ -169,16 +169,19 @@ Gates Orginially wanted me to for to Oxford in 2005 but management messed up the
 <ul>
 <li><a href="https://penntoday.upenn.edu/news/worlds-first-general-purpose-computer-turns-75">First Programable Computer (ENIAC)</a></li>
 </ul>
+<h4>Charlotteville, Virginia</h4>
+<h4>Princton, NJ, Virginia</h4>
+
 <h4>Washington, Wa</h4>
 <ul>
 <li><a href="https://en.wikipedia.org/wiki/SPIN_(operating_system)">SPIN(operating_system)</a></li>
 <li><a href="https://www.livingcomputers.org/Computer-Collection/Vintage-Computers/Mainframes/XKL-TOAD-1-System.aspx">XKL</a></li>
-<li><a href="https://community.kde.org/Infrastructure/Subversion">KDE Subversion</a></li>
 <li><a href="https://en.wikipedia.org/wiki/Version_7_Unix">Version 7 Unix</a></li>
 <li><a href="https://www.nordier.com/">Classic BCPL for Windows</a></li>
+<li><a href="https://community.kde.org/Infrastructure/Subversion">KDE Subversion</a></li>
+<li><a href="https://web.archive.org/web/20010403224927/http://research.microsoft.com/">University Programs</a></li>
 <li><a href="https://archive.org/details/VCPP4.00Macintosh">Visual C++ 4.0 Cross-Development Edition for Macintosh</a></li>
 <li><a href="https://archive.org/details/ms-visual-c-4.0-risc-edition">MS Visual C++ 4.0 RISC Edition</a></li>
-<li><a href="https://web.archive.org/web/20010403224927/http://research.microsoft.com/">University Programs</a></li>
 <li><a href="https://archive.org/details/en_windows_embedded_ce_6.0_dvd"> Windows CE 6.0</a></li>
 <li><a href="https://news.microsoft.com/2002/02/21/microsoft-announces-major-expansion-of-shared-source-initiativeproviding-source-code-to-systems-integrators/">Microsoft Announces Major Expansion of Shared Source Initiative,Providing Source Code to Systems Integrators, Individuals need 700 resource hours.</a></li>
 <li><a href="https://archive.org/details/pdc-2003-conference-dvds-presentation-and-longhorn-discs">PDC 2003 Developer Connection</a></li>
