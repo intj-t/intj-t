@@ -186,6 +186,12 @@ Gates Orginially wanted me to for to Oxford in 2005 but management messed up the
 <ul>
 <li><a href="https://digital.com/digital-equipment-corporation/">Digital Equipment Corporation, or DEC, who began paving the way for everyone starting in 1957</a></li>
 </ul>
+<h4>Walnut Creek</h4>
+<ul>
+<li><a href="https://archive.org/details/walnutcreekcdrom">The Walnut Creek CD-ROM Collection</a></li>
+<li><a href="https://oac.cdlib.org/findaid/ark:/13030/c81r6wmh/entire_text/">Guide to the Walnut Creek Shareware Collection</a></li>
+<li><a href="https://www.zdnet.com/finance/berkeley-unix-moves-to-walnut-creek/">Berkeley UNIX moves to Walnut Creek</a></li>
+</ul>
 <h4>Calgary, Canada</h4>
 <ul>
 <p>University of Calgary, Here will be the old <a href="">FreeBSD from Scratch</a> which Linux stole from and OpenBSD which is based off of BSD 4.4 the Apple and Microsoft Subsystem fork.</p>
@@ -266,27 +272,14 @@ Install or Copy the following into a vitrual machine
 <li><a href="https://www.microsoft.com/en-us/research/project/language-integrated-quantum-operations-liqui/">Language-Integrated Quantum Operations: LIQUi|</a></li>
 </ul>
 
-
-
-<h4>Walnut Creek</h4>
-<ul>
-<li><a href="https://archive.org/details/walnutcreekcdrom">The Walnut Creek CD-ROM Collection</a></li>
-<li><a href="https://oac.cdlib.org/findaid/ark:/13030/c81r6wmh/entire_text/">Guide to the Walnut Creek Shareware Collection</a></li>
-<li><a href="https://www.zdnet.com/finance/berkeley-unix-moves-to-walnut-creek/">Berkeley UNIX moves to Walnut Creek</a></li>
-</ul>
-
-
-
 <h4>Apple</h4>
 <ul>
+<li><a href="https://en.wikipedia.org/wiki/Comparison_of_BSD_operating_systems">Comparison of BSD operating systems</a></li>
 <li><a href="https://www.macports.org/">Macports</a></li>
 <li><a href="https://www.macosforge.org/">MacOSforge</a></li>
 <li><a href="https://en.wikibooks.org/wiki/VirtualBox/Setting_up_a_Virtual_Machine/Mac_OS_X">Setting up a Virtual Machine/Mac OS X</a></li>
 <li><a href="https://macintoshgarden.org/">Welcome to The Macintosh Garden</a></li>
 </ul>
-
-
-
 
 <h4>Open Group</h4>
 <ul>
