@@ -218,7 +218,7 @@ Gates Orginially wanted me to for to Oxford in 2005 but management messed up the
 <ul>
 <p>University of Calgary, Here will be the old <a href="">FreeBSD from Scratch</a> which Linux stole from and OpenBSD which is based off of BSD 4.4 the Apple and Microsoft Subsystem fork.</p>
 </ul>
-<h4>Hewlett Packard</h4>
+<h4>Hewlett Packard, Some ISO's are Alpha ISO's and won't mount on x86</h4>
 <ul>	
 <li><a href="https://archive.org/details/ftp-ftp.hp.com_pub-2013-10">HP FTP</a></li>
 </ul>
