@@ -190,6 +190,15 @@ Gates Orginially wanted me to for to Oxford in 2005 but management messed up the
 <ul>
 <p>Here will be the old <a href="">FreeBSD from Scratch</a> which Linux stole from and OpenBSD which is based off of BSD 4.4 the Apple and Microsoft Subsystem fork.</p>
 </ul>
+<h4>Santa Cruz, California</h4>
+<p>Santa Cruz Operation You will need Open Server 5 <a href="ftp://ftp2.sco.com/pub/skunkware/src/">Source</a> it builds on Windows 2003 R2 SUA You will also need the MSDN Magazine Archive which contains Windows 2003 R2 Partners also which I will sell you for $100 begining in 2024.</p>
+<ul>
+<li><a href="https://www.sco.com/skunkware/">SCO Skunkware</a></li>
+<li><a href="https://www.computerworld.com/article/2570686/sco-confirms-microsoft-has-licensed-its-unix-technology.html">SCO confirms Microsoft has licensed its Unix technology</a></li>
+<li><a href="https://www.zdnet.com/article/last-of-original-sco-v-ibm-linux-lawsuit-settled/">Last of original SCO v IBM Linux lawsuit settled</a></li>
+<li><a href="https://www.itprotoday.com/compute-engines/windows-nt-and-vms-rest-story">Windows NT and VMS: The Rest of the Story</a></li>
+<li><a href="https://www.zdnet.com/article/who-really-owns-unix/">Who really owns Unix?</a></li>
+</ul>
 <h4>Redmond, Wa</h4>
 <ul>
 	<h4>Compatible Time-Sharing System</h4>
@@ -276,16 +285,6 @@ Install or Copy the following into a vitrual machine
 <li><a href="https://macintoshgarden.org/">Welcome to The Macintosh Garden</a></li>
 </ul>
 
-<h4>Santa Cruz Operation</h4>
-<p>You will need Open Server 5 <a href="ftp://ftp2.sco.com/pub/skunkware/src/">Source</a> it builds on Windows 2003 R2 SUA You will also need the MSDN Magazine Archive which contains Windows 2003 R2 Partners also which I will sell you for $100 begining in 2024.</p>
-<ul>
-<li><a href="https://www.sco.com/skunkware/">SCO Skunkware</a></li>
-<li><a href="https://www.computerworld.com/article/2570686/sco-confirms-microsoft-has-licensed-its-unix-technology.html">SCO confirms Microsoft has licensed its Unix technology</a></li>
-<li><a href="https://www.zdnet.com/article/last-of-original-sco-v-ibm-linux-lawsuit-settled/">Last of original SCO v IBM Linux lawsuit settled</a></li>
-<li><a href="https://www.itprotoday.com/compute-engines/windows-nt-and-vms-rest-story">Windows NT and VMS: The Rest of the Story</a></li>
-<li><a href="https://www.zdnet.com/article/who-really-owns-unix/">Who really owns Unix?</a></li>
-
-</ul>
 
 
 
