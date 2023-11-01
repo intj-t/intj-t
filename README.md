@@ -45,11 +45,11 @@
 
 [Macromedia User Group 2000](https://web.archive.org/web/20001002153818/http://www.macromedia.com/support/programs/usergroup.cgi?state=Virginia)
 
-<a href="https://www.cnbc.com/2018/04/03/the-real-danger-in-sinclair-broadcasts-fake-news-scandal.html">The real danger in Sinclair Broadcast’s ‘fake news’ scandal</a>
+<!--<a href="https://www.cnbc.com/2018/04/03/the-real-danger-in-sinclair-broadcasts-fake-news-scandal.html">The real danger in Sinclair Broadcast’s ‘fake news’ scandal</a>-->
 
 [System Integrator Contract](https://github.com/jonathanlyonchapmanmoore/jonathanlyonchapmanmoore/blob/master/images/contract.jpg)
 
-<a href="https://github.com/jonathanlyonchapmanmoore/jonathanlyonchapmanmoore/blob/master/images/380739123_164881003326819_2771160564294002295_n.jpg">My Visual Studio Industry Partner Paid Contract</a>
+<a href="https://github.com/jonathanlyonchapmanmoore/jonathanlyonchapmanmoore/blob/master/images/380739123_164881003326819_2771160564294002295_n.jpg">My Visual Studio Industry Partner</a>
 
 [Ableton User Group 2017](https://web.archive.org/web/20190502233051/https://www.ableton.com/en/community/user-groups/tri-cities-ableton-user-group/)
 
@@ -63,19 +63,19 @@
 
 <a href="https://github.com/jonathanlyonchapmanmoore/jonathanlyonchapmanmoore/blob/master/images/366747667_142894705525449_4368536133200378218_n.jpg">My President Obama Grant Letter which Grants Congressional Rights.</a>
 
-<a href="https://hbr.org/2009/05/equity-or-cash-the-signal-sent-by-the-way-you-pay">Equity or Cash? The Signal Sent by the Way You Pay</a> 
+<!--<a href="https://hbr.org/2009/05/equity-or-cash-the-signal-sent-by-the-way-you-pay">Equity or Cash? The Signal Sent by the Way You Pay</a>--> 
 
 <a href="https://visualstudio.microsoft.com/subscriptions-administration/">Visual Studio Subscriptions administration</a>
 
-<a href="https://azure.microsoft.com/en-us/">Azure Sign In</a>
+<!--<a href="https://azure.microsoft.com/en-us/">Azure Sign In</a>-->
 
-<a href="https://www.microsoft.com/en-us/licensing/licensing-programs/open-license?activetab=open-license-tab%3aprimaryr2">What is the Microsoft Open Value program?</a>
+<!--<a href="https://www.microsoft.com/en-us/licensing/licensing-programs/open-license?activetab=open-license-tab%3aprimaryr2">What is the Microsoft Open Value program?</a>-->
 
 <a href="https://support.serviceshub.microsoft.com/supportforbusiness">Services Hub where my 25 year Microsoft case load is hosted</a>
 
-[My Credit Score](https://github.com/jonathanlyonchapmanmoore/jonathanlyonchapmanmoore/blob/master/images/credit.jpg)
+<!--[My Credit Score](https://github.com/jonathanlyonchapmanmoore/jonathanlyonchapmanmoore/blob/master/images/credit.jpg)-->
 
-<a href="https://www.investopedia.com/how-to-refinance-a-second-home-7487004">How to Refinance a Second Home</a>
+<!--<a href="https://www.investopedia.com/how-to-refinance-a-second-home-7487004">How to Refinance a Second Home</a>-->
 
 <a href="https://github.com/jonathanlyonchapmanmoore/UWA">My University of Washington Gift</a>
 
@@ -83,13 +83,13 @@
 
 <a href="https://www.16personalities.com/profiles/2ebeedfa55fbe">My 16 Personalties Profile</a>
 
-<a href="https://www.e-ir.info/2008/05/25/an-examination-of-the-personality-types-of-three-intelligence-leaders-within-the-british-intelligence-community/">An Examination of the Personality Types of Three Intelligence Leaders Within the British Intelligence Community</a>
+<!--<a href="https://www.e-ir.info/2008/05/25/an-examination-of-the-personality-types-of-three-intelligence-leaders-within-the-british-intelligence-community/">An Examination of the Personality Types of Three Intelligence Leaders Within the British Intelligence Community</a>-->
 
-<a href="https://www.truity.com/infographic/16-personality-types-animals">Animal Personalites</a>
+<!--<a href="https://www.truity.com/infographic/16-personality-types-animals">Animal Personalites</a>-->
 
 <a href="https://blogs.scientificamerican.com/beautiful-minds/how-does-iq-relate-to-personality/">How Does IQ Relate to Personality?</a>
 
-<a href="https://www.youtube.com/watch?v=hWSgH8ytLJI">Paul Allen's Yacht</a>
+>!--<a href="https://www.youtube.com/watch?v=hWSgH8ytLJI">Paul Allen's Yacht</a>-->
 
 #### Tell the physicans to pay five more dollars for the frames than the UX designer or computer scientist at least at Gucci and Ralph Lauren.
 
@@ -101,13 +101,13 @@
 
 [Anne Hathaway](https://annehathaway.azurewebsites.net/)
 
-[Sir Thomas More and Jane Austen](https://janeaustensworld.com/2021/07/25/sir-thomas-more-and-jane-austen/)
+<!--[Sir Thomas More and Jane Austen](https://janeaustensworld.com/2021/07/25/sir-thomas-more-and-jane-austen/)-->
 
 Net Worth was $500K to 1 million from 2002 when I was 24 at Edward Jones to 2017 at Fidelity. Invested in Microsoft and Adobe all 1099's filed. I have a Macromedia patent for a $6.3 million taxed S Corporation or partnership capital gain if sold. The patent needs to be expensed and amortilized. Since 1954, under Section 1235 of the Code, the transfer of a patent by the inventor generally has been entitled to long-term capital gains treatment, irrespective of whether the patent had been held for more than one year. The Tax Cuts and Jobs Growth Act. Signed into law by President Trump. On IRS Form 1040 Schedule E .Completing a 2006 Microsoft Tender offer that was extended Have $6 million in unrealized gains for a IPO. Microsoft and Adobe 1099-NEC have to be given to Microsoft and Adobe.
 
-### Intel
+<!--### Intel
 
-<a href="https://hbr.org/2014/07/resentment-jealousy-feuds-a-look-at-intels-founding-team">Resentment, Jealousy, Feuds: A Look at Intel’s Founding Team</a>
+<a href="https://hbr.org/2014/07/resentment-jealousy-feuds-a-look-at-intels-founding-team">Resentment, Jealousy, Feuds: A Look at Intel’s Founding Team</a>-->
 
 ### Infinity
 
@@ -119,7 +119,7 @@ Net Worth was $500K to 1 million from 2002 when I was 24 at Edward Jones to 2017
 
 ### Personal
 
-[Politically Correct Labels and Schizophrenia: A Rose by Any Other Name?](https://academic.oup.com/schizophreniabulletin/article/27/2/197/1870998?login=false)
+<!--[Politically Correct Labels and Schizophrenia: A Rose by Any Other Name?](https://academic.oup.com/schizophreniabulletin/article/27/2/197/1870998?login=false)
 
 [My Microsoft Rersearch Complete Proposal](https://github.com/jonathanlyonchapmanmoore/jonathanlyonchapmanmoore/blob/master/images/369999128_151207254694194_2520353806552438269_n.jpg)
 
@@ -151,16 +151,16 @@ Gates Orginially wanted me to for to Oxford in 2005 but management messed up the
 
 <a href="https://jdm7dvcsmath.blogspot.com/">Mathematics Blog</a>
 
-[Instagram](https://www.instagram.com/jonathanlyonchapmanmoore/)
+[Instagram](https://www.instagram.com/jonathanlyonchapmanmoore/)-->
 
 
 #### Code Project
 <a href="https://www.codeproject.com/script/Membership/View.aspx?mid=527156">My Code Project Profesional Profile</a>
 
-<h4>The Book of Sir Thomas More: Shakespeare's only surviving literary manuscript</h4>
+<!--<h4>The Book of Sir Thomas More: Shakespeare's only surviving literary manuscript</h4>
 <ul>
 <li><a href="https://www.bl.uk/collection-items/shakespeares-handwriting-in-the-book-of-sir-thomas-more">The Book of Sir Thomas More: Shakespeare's only surviving literary manuscript</li>
-</ul>
+</ul>-->
 
 ## Computer History 
 
