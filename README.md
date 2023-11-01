@@ -89,7 +89,7 @@
 
 <a href="https://blogs.scientificamerican.com/beautiful-minds/how-does-iq-relate-to-personality/">How Does IQ Relate to Personality?</a>
 
->!--<a href="https://www.youtube.com/watch?v=hWSgH8ytLJI">Paul Allen's Yacht</a>-->
+<!--<a href="https://www.youtube.com/watch?v=hWSgH8ytLJI">Paul Allen's Yacht</a>-->
 
 #### Tell the physicans to pay five more dollars for the frames than the UX designer or computer scientist at least at Gucci and Ralph Lauren.
 
@@ -117,9 +117,9 @@ Net Worth was $500K to 1 million from 2002 when I was 24 at Edward Jones to 2017
 
 [Microsoft Channel 9](https://walkingcat.github.io/ch9-index/)
 
-### Personal
+<!--### Personal
 
-<!--[Politically Correct Labels and Schizophrenia: A Rose by Any Other Name?](https://academic.oup.com/schizophreniabulletin/article/27/2/197/1870998?login=false)
+[Politically Correct Labels and Schizophrenia: A Rose by Any Other Name?](https://academic.oup.com/schizophreniabulletin/article/27/2/197/1870998?login=false)
 
 [My Microsoft Rersearch Complete Proposal](https://github.com/jonathanlyonchapmanmoore/jonathanlyonchapmanmoore/blob/master/images/369999128_151207254694194_2520353806552438269_n.jpg)
 
@@ -151,8 +151,8 @@ Gates Orginially wanted me to for to Oxford in 2005 but management messed up the
 
 <a href="https://jdm7dvcsmath.blogspot.com/">Mathematics Blog</a>
 
-[Instagram](https://www.instagram.com/jonathanlyonchapmanmoore/)-->
-
+[Instagram](https://www.instagram.com/jonathanlyonchapmanmoore/)
+-->
 
 #### Code Project
 <a href="https://www.codeproject.com/script/Membership/View.aspx?mid=527156">My Code Project Profesional Profile</a>
