@@ -170,7 +170,7 @@ The founder is Irish, Spanish, Native American and Mediterranean I'm a Moore, Ch
 
 In High School took AP English and AP Biology and obtained Mosaic the Web Browser. Company Founder made straight A's in College, Made Flash and Ideaworks Vecta 3D active desktop templates and folder views for Windows XP in 2001. A Ivy League College Graduate. and an 3.5 GPA at UVa in 2013 with as Virginia Scholar Award. Was ACM Vice President of the UVa Wise chapter from 2011-2013. And met Harvard's author Steven Pinker at UVa-Wise. and grant letter from President Obama. And now invest in bonds and non volatile funds. Since 2015 With intracompany Email from Microsoft Co-Founder Bill Gates and Steve Ballmer and a 20 year Microsoft partner with official Windows 8 Storyboards and fixed variable revenue. Which was featured in MSDN Magazine. And have MFC, COM COM+ Win32 and .NET Framework Projects. And Working on UNIX and OpenVMS Win32 ports. Our business is UX, Virtualization, and Operating System Theory The founder is Windows 7 Internals and Network+ Certified.
 
-in 2001 Intel Sponsered my kernel Jonathan wrote for IA-64 its now x86 and being developed for NetBSD and MINIX first. Jonathan is at version 3.2 with redendent OVA backups.
+in 2001 Intel Sponsored my kernel Jonathan wrote for IA-64 its now x86 and being developed for NetBSD and MINIX first. Jonathan is at version 3.2 with redendent OVA backups.
 
 Jonathan's first open source operating system was OpenBSD 2.3 and had a net worth of $500K or over at the age of 24 at Edward Jones Investments. At the time the most secure operating system according the NSA maybe still is.
 
