@@ -1,6 +1,6 @@
 ﻿<img src="images/inteluva.jpg">
 
-<img align="right" width="500" src="images/VirtualBox_Windows XP Professional_14_04_2023_09_58_41.png">
+<img align="right" width="500" src="images/windows-server-2003-end-life-showcase_image-3-a-8397.jpg">
 <img align="right" width="500" src="images/octo.jpg">
 <ul>
 <li><a href="https://upload.wikimedia.org/wikipedia/commons/c/cd/Unix_timeline.en.svg">UNIX Operating System Timeline</a></li>
@@ -41,7 +41,7 @@
  
 <a href="Jonathan Chapman Moore FRSA.docx">Curriculum Vitae</a>
 
-[Family Tree](https://github.com/jonathanlyonchapmanmoore/jonathanlyonchapmanmoore/blob/master/images/familytree.jpg)
+[Family Tree](https://github.com/jonathanlyonmoore/jonathanlyonmoore/blob/master/images/familytree.jpg)
 
 <a href="https://www.familytreedna.com/">Family Tree DNA X Matches, Maternal Ancestry, Family Ancestry</a>
 
@@ -49,21 +49,21 @@
 
 <!--<a href="https://www.cnbc.com/2018/04/03/the-real-danger-in-sinclair-broadcasts-fake-news-scandal.html">The real danger in Sinclair Broadcast’s ‘fake news’ scandal</a>-->
 
-[System Integrator Contract](https://github.com/jonathanlyonchapmanmoore/jonathanlyonchapmanmoore/blob/master/images/contract.jpg)
+[System Integrator Contract](https://github.com/jonathanlyonmoore/jonathanlyonmoore/blob/master/images/contract.jpg)
 
-<a href="https://github.com/jonathanlyonchapmanmoore/jonathanlyonchapmanmoore/blob/master/images/380739123_164881003326819_2771160564294002295_n.jpg">My Visual Studio Industry Partner</a>
+<a href="https://github.com/jonathanlyonmoore/jonathanlyonmoore/blob/master/images/380739123_164881003326819_2771160564294002295_n.jpg">My Visual Studio Industry Partner</a>
 
 [Ableton User Group 2017](https://web.archive.org/web/20190502233051/https://www.ableton.com/en/community/user-groups/tri-cities-ableton-user-group/)
 
-<a href="https://github.com/jonathanlyonchapmanmoore/jonathanlyonchapmanmoore/blob/master/images/IMG_0607.JPG">University of Virginia College at Wise Acceptance Letter</a>
+<a href="https://github.com/jonathanlyonmoore/jonathanlyonmoore/blob/master/images/IMG_0607.JPG">University of Virginia College at Wise Acceptance Letter</a>
 
-[Bizspark Graduation](https://github.com/jonathanlyonchapmanmoore/jonathanlyonchapmanmoore/blob/master/images/bizspark.jpg)
+[Bizspark Graduation](https://github.com/jonathanlyonmoore/jonathanlyonmoore/blob/master/images/bizspark.jpg)
 
 <a href="https://www.thersa.org/fellowship/find-a-fellow/profile/139174">My Royal Soceity of the Arts Fellowship</a>
 
 <a href="https://www.theguardian.com/books/2012/jan/08/history-western-thought-trombley-review">A Short History of Western Thought by Stephen Trombley – review</a>
 
-<a href="https://github.com/jonathanlyonchapmanmoore/jonathanlyonchapmanmoore/blob/master/images/366747667_142894705525449_4368536133200378218_n.jpg">My President Obama Grant Letter which Grants Congressional Rights.</a>
+<!--<a href="https://github.com/jonathanlyonmoore/jonathanlyonmoore/blob/master/images/366747667_142894705525449_4368536133200378218_n.jpg">My President Obama Grant Letter which Grants Congressional Rights.</a>-->
 
 <!--<a href="https://hbr.org/2009/05/equity-or-cash-the-signal-sent-by-the-way-you-pay">Equity or Cash? The Signal Sent by the Way You Pay</a>--> 
 
@@ -75,15 +75,15 @@
 
 <a href="https://support.serviceshub.microsoft.com/supportforbusiness">Services Hub where my 25 year Microsoft case load is hosted</a>
 
-<!--[My Credit Score](https://github.com/jonathanlyonchapmanmoore/jonathanlyonchapmanmoore/blob/master/images/credit.jpg)-->
+<!--[My Credit Score](https://github.com/jonathanlyonmoore/jonathanlyonmoore/blob/master/images/credit.jpg)-->
 
 <!--<a href="https://www.investopedia.com/how-to-refinance-a-second-home-7487004">How to Refinance a Second Home</a>-->
 
-<a href="https://github.com/jonathanlyonchapmanmoore/UWA">My University of Washington Gift</a>
+<!--<a href="https://github.com/jonathanlyonmoore/UWA">My University of Washington Gift</a>
 
-<a href="https://github.com/jonathanlyonchapmanmoore/My-Mensa-Tests">My Mensa Tests</a>
+<!--<a href="https://github.com/jonathanlyonmoore/My-Mensa-Tests">My Mensa Tests</a>-->
 
-<a href="https://www.16personalities.com/profiles/2ebeedfa55fbe">My 16 Personalties Profile</a>
+<a href="https://www.16personalities.com/profiles/2ebeedfa55fbe">My 16 Personalties Profile</a>-->
 
 <!--<a href="https://www.e-ir.info/2008/05/25/an-examination-of-the-personality-types-of-three-intelligence-leaders-within-the-british-intelligence-community/">An Examination of the Personality Types of Three Intelligence Leaders Within the British Intelligence Community</a>-->
 
@@ -92,8 +92,6 @@
 <a href="https://blogs.scientificamerican.com/beautiful-minds/how-does-iq-relate-to-personality/">How Does IQ Relate to Personality?</a>
 
 <!--<a href="https://www.youtube.com/watch?v=hWSgH8ytLJI">Paul Allen's Yacht</a>-->
-
-#### Tell the physicans to pay five more dollars for the frames than the UX designer or computer scientist at least at Gucci and Ralph Lauren.
 
 ### Websites Hosted on Azure
 
@@ -107,7 +105,7 @@
 
 <!--[Sir Thomas More and Jane Austen](https://janeaustensworld.com/2021/07/25/sir-thomas-more-and-jane-austen/)-->
 
-Net Worth was $500K to 1 million from 2002 when I was 24 at Edward Jones to 2017 at Fidelity. Invested in Microsoft and Adobe all 1099's filed. I have a Macromedia patent for a $6.3 million taxed S Corporation or partnership capital gain if sold. The patent needs to be expensed and amortilized. Since 1954, under Section 1235 of the Code, the transfer of a patent by the inventor generally has been entitled to long-term capital gains treatment, irrespective of whether the patent had been held for more than one year. The Tax Cuts and Jobs Growth Act. Signed into law by President Trump. On IRS Form 1040 Schedule E .Completing a 2006 Microsoft Tender offer that was extended Have $6 million in unrealized gains for a IPO. Microsoft and Adobe 1099-NEC have to be given to Microsoft and Adobe.
+Net Worth was $500K to 1 million from 2002 when I was 24 at Edward Jones to 2017 at Fidelity. Invested in Microsoft and Adobe all 1099's filed. I have a Macromedia patent for a $6.3 million taxed S Corporation or partnership capital gain if sold. The patent needs to be expensed and amortilized. Since 1954, under Section 1235 of the Code, the transfer of a patent by the inventor generally has been entitled to long-term capital gains treatment, irrespective of whether the patent had been held for more than one year. The Tax Cuts and Jobs Growth Act. Signed into law by President Trump. On IRS Form 1040 Schedule E .Completing a 2006 Microsoft Tender offer that was extended Have $6 million in unrealized gains for a IPO. Microsoft and Adobe 1099-NEC have to be given to Microsoft and Adobe. I'm related to the actreess Anne Hathaway and the produced Flood.
 
 <!--### Intel
 
@@ -125,21 +123,21 @@ Net Worth was $500K to 1 million from 2002 when I was 24 at Edward Jones to 2017
 
 [Politically Correct Labels and Schizophrenia: A Rose by Any Other Name?](https://academic.oup.com/schizophreniabulletin/article/27/2/197/1870998?login=false)
 
-[My Microsoft Rersearch Complete Proposal](https://github.com/jonathanlyonchapmanmoore/jonathanlyonchapmanmoore/blob/master/images/369999128_151207254694194_2520353806552438269_n.jpg)
+[My Microsoft Rersearch Complete Proposal](https://github.com/jonathanlyonmoore/jonathanlyonmoore/blob/master/images/369999128_151207254694194_2520353806552438269_n.jpg)
 
 Gates Orginially wanted me to for to Oxford in 2005 but management messed up the ACT, I scored a 24.
 
-[Bill Gates Forrester Email to me in 2005](https://github.com/jonathanlyonchapmanmoore/jonathanlyonchapmanmoore/blob/master/images/gates.jpg)
+[Bill Gates Forrester Email to me in 2005](https://github.com/jonathanlyonmoore/jonathanlyonmoore/blob/master/images/gates.jpg)
 
 <a href="https://www.forrester.com/blogs/determining-the-value-of-a-perpetual-license/">Determining the Value of a Perpetual License</a>
 
-[Net Worth](https://github.com/jonathanlyonchapmanmoore/jonathanlyonchapmanmoore/blob/master/images/networth.png)
+[Net Worth](https://github.com/jonathanlyonmoore/jonathanlyonmoore/blob/master/images/networth.png)
 
 [Patents as loan collateral can help businesses](https://news.rice.edu/news/2021/patents-loan-collateral-can-help-businesses-meet-financial-needs-study-shows)
 
-[My Ambient BMI Registered Works](https://github.com/jonathanlyonchapmanmoore/jonathanlyonchapmanmoore/blob/master/images/bmi.png)
+[My Ambient BMI Registered Works](https://github.com/jonathanlyonmoore/jonathanlyonmoore/blob/master/images/bmi.png)
 
-[My Music On Bandcamp](https://jonathanlyonchapmanmoore.bandcamp.com/)
+[My Music On Bandcamp](https://jonathanlyonmoore.bandcamp.com/)
 
 [My Blend.io](https://blend.io/jonathanmoore)
 
@@ -155,7 +153,7 @@ Gates Orginially wanted me to for to Oxford in 2005 but management messed up the
 
 <a href="https://jdm7dvcsmath.blogspot.com/">Mathematics Blog</a>
 
-[Instagram](https://www.instagram.com/jonathanlyonchapmanmoore/)
+[Instagram](https://www.instagram.com/jonathanlyonmoore/)
 -->
 
 #### Code Project
@@ -283,7 +281,7 @@ Preferred Shares of Equity. This may be considered a cash equivalent if they are
 ### Population
 
 [The Population Crisis: The Stork, the Plow, and the
-IRS](https://github.com/jonathanlyonchapmanmoore/jonathanlyonchapmanmoore/blob/master/docs/The%20Population%20CrisisTheStorkthePlowandtheIRS.pdf)
+IRS](https://github.com/jonathanlyonmoore/jonathanlyonmoore/blob/master/docs/The%20Population%20CrisisTheStorkthePlowandtheIRS.pdf)
 
 
 
@@ -357,7 +355,7 @@ It all started in 2001 when a Microsoft TV commercial mentioned 'age' it can be 
 <a href="https://www.sciencedirect.com/science/article/pii/S1571064513001188">Consciousness in the universe: A review of the ‘Orch OR’ theory</a>-->
 
 ### Views
-![](https://komarev.com/ghpvc/?username=jonathanlyonchapmanmoore)
+![](https://komarev.com/ghpvc/?username=jonathanlyonmoore)
 
 		
 
