@@ -1,6 +1,6 @@
-﻿<img src="images/inteluva.jpg">
+﻿<img src="images/windows-server-2003-end-life-showcase_image-3-a-8397.jpg">
 
-<img align="right" width="500" src="images/windows-server-2003-end-life-showcase_image-3-a-8397.jpg">
+<img align="right" width="500" src="images/VirtualBox_Windows XP Professional_14_04_2023_09_58_41.png">
 <img align="right" width="500" src="images/octo.jpg">
 <ul>
 <li><a href="https://upload.wikimedia.org/wikipedia/commons/c/cd/Unix_timeline.en.svg">UNIX Operating System Timeline</a></li>
