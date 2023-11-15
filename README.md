@@ -1,4 +1,4 @@
-﻿<img src="images/windows-server-2003-end-life-showcase_image-3-a-8397.jpg">
+﻿<img src="images/maxresdefault.jpg">
 
 <!--<img align="right" width="500" src="images/VirtualBox_Windows XP Professional_14_04_2023_09_58_41.png">
 <img align="right" width="500" src="images/octo.jpg">-->
