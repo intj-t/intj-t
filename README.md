@@ -1,4 +1,4 @@
-﻿<img src="images/maxresdefault.jpg">
+﻿<img src="images/windows-server-2003-end-life-showcase_image-3-a-8397.jpg">
 
 <!--<img align="right" width="500" src="images/VirtualBox_Windows XP Professional_14_04_2023_09_58_41.png">
 <img align="right" width="500" src="images/octo.jpg">-->
@@ -95,7 +95,7 @@
 
 ### Websites Hosted on Azure
 
-<a href="https://sphinxlogic.azurewebsites.net/">Sphinx Logic</a>
+<a href="https://abercrombieandmoore.github.io">Sphinx Logic</a>
 
 <a href="https://www.crunchbase.com/organization/sphinx-logic">Tech Crunch Profile</a>
 
@@ -105,7 +105,7 @@
 
 <!--[Sir Thomas More and Jane Austen](https://janeaustensworld.com/2021/07/25/sir-thomas-more-and-jane-austen/)-->
 
-Net Worth was $500K to 1 million from 2002 when I was 24 at Edward Jones to 2017 at Fidelity. Invested in Microsoft and Adobe all 1099's filed. I have a Macromedia patent for a $6.3 million taxed S Corporation or partnership capital gain if sold. The patent needs to be expensed and amortilized. Since 1954, under Section 1235 of the Code, the transfer of a patent by the inventor generally has been entitled to long-term capital gains treatment, irrespective of whether the patent had been held for more than one year. The Tax Cuts and Jobs Growth Act. Signed into law by President Trump. On IRS Form 1040 Schedule E .Completing a 2006 Microsoft Tender offer that was extended Have $6 million in unrealized gains for a IPO. Microsoft and Adobe 1099-NEC have to be given to Microsoft and Adobe. I'm related to the actreess Anne Hathaway and the music producer Flood.
+Net Worth was $500K to 1 million from 2002 when I was 24 at Edward Jones to 2017 at Fidelity. Invested in Microsoft and Adobe all 1099's filed. I have a Macromedia patent for a $6.3 million taxed S Corporation or partnership capital gain if sold. The patent needs to be expensed and amortilized. Since 1954, under Section 1235 of the Code, the transfer of a patent by the inventor generally has been entitled to long-term capital gains treatment, irrespective of whether the patent had been held for more than one year. The Tax Cuts and Jobs Growth Act. Signed into law by President Trump. On IRS Form 1040 Schedule E .Completing a 2006 Microsoft Tender offer that was extended Have $6 million in unrealized gains for a IPO. Microsoft and Adobe 1099-NEC have to be given to Microsoft and Adobe. I'm related to the actreess Anne Hathaway and the producer Flood.
 
 <!--### Intel
 
