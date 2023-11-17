@@ -83,7 +83,7 @@
 
 <!--<a href="https://github.com/jonathanlyonmoore/My-Mensa-Tests">My Mensa Tests</a>-->
 
-<a href="https://www.16personalities.com/profiles/2ebeedfa55fbe">My 16 Personalties Profile</a>-->
+<a href="https://www.16personalities.com/profiles/2ebeedfa55fbe">My 16 Personalties Profile</a>
 
 <!--<a href="https://www.e-ir.info/2008/05/25/an-examination-of-the-personality-types-of-three-intelligence-leaders-within-the-british-intelligence-community/">An Examination of the Personality Types of Three Intelligence Leaders Within the British Intelligence Community</a>-->
 
@@ -92,6 +92,10 @@
 <a href="https://blogs.scientificamerican.com/beautiful-minds/how-does-iq-relate-to-personality/">How Does IQ Relate to Personality?</a>
 
 <!--<a href="https://www.youtube.com/watch?v=hWSgH8ytLJI">Paul Allen's Yacht</a>-->
+
+### My Blogs
+
+<a href="https://jdm7dvcsmath.blogspot.com/">Mathmematics Blog</a>
 
 ### Websites Hosted on Azure and Github
 
