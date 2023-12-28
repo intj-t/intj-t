@@ -13,7 +13,7 @@
 <li><a href="https://web.archive.org/web/20060509003149/http://forums.microsoft.com/MSDN/default.aspx?forumgroupid=12&siteid=1">2004 MSDN Fourms</a></li> 
 </ul>
 <h4>Building Windows XP/2003</h4>
-<ul>
+<!--<ul>
 	<li>1. Set the date to August 1st 2003 by typing 'date' in the cmd window</li>
 	<li>2. Make sure the files are not read only.</li>
 	<li>3. Install the 2003 SP1 driver certificate.</li>
@@ -25,7 +25,7 @@
 	<li>9. type 'BUILD /ZP' after you fix errors</li>
 	<li>10. If you need to use 'expand /r' to X:\ENGLISH\WIN2003\ENT\I386\* C:\binaries.x86fre from a retail DVD.</li>
         <li>11. certmgr.msc, go to Trusted Root Certification Authorities\Certificates and remove the Microsoft Test Root Authority certificate, Sign out and Sign in again.</li>
-</ul>
+</ul>-->
 
 ### Moore's Law
 
