@@ -61,6 +61,8 @@
 
 [Macromedia User Group 2000](https://web.archive.org/web/20001002153818/http://www.macromedia.com/support/programs/usergroup.cgi?state=Virginia)
 
+[Patent Liqudity](https://www.tandfonline.com/doi/pdf/10.1080/00036847200000037)
+
 <!--<a href="https://www.cnbc.com/2018/04/03/the-real-danger-in-sinclair-broadcasts-fake-news-scandal.html">The real danger in Sinclair Broadcast’s ‘fake news’ scandal</a>-->
 
 [System Integrator Contract](https://github.com/jonathanlyonmoore/jonathanlyonmoore/blob/master/images/contract.jpg)
@@ -194,7 +196,7 @@ in 2001 Intel Sponsored my kernel Jonathan wrote for IA-64 its now x86 and being
 
 Jonathan's first open source operating system was OpenBSD 2.3 and had a net worth of $500K or over at the age of 24 at Edward Jones Investments. At the time the most secure operating system according the NSA maybe still is.
 
-We are a S corporation with Dunn and Bradstreet. with a Macromedia Patent with a $6.3 million taxed capital gain and another $6 million in unrealized gains. We have a extended Microsoft tender offer from 2006. We will use a 1040 Schedule E to report. He has been a diagnosed lisp and am a moderate. Through a psychologist used to be right brain dominant now a moderate. We use the Microsoft Loopback Test connector for Microsoft Research's Singularity communication. I have a complete Microsoft research proposal. And benefits from Microsoft's Midori Lawler. And my apply for the payroll protection program.
+We are a S corporation with Dunn and Bradstreet. With a Macromedia Patent and Microsoft Tender offer funds with a $28.3 million net worth and working capital $28.3 million. Good for salaries. When my father want to cut me a small check. We have a extended Microsoft tender offer from 2006. We will use a 1040 Schedule E to report. He has been a diagnosed lisp and am a moderate. Through a psychologist used to be right brain dominant now a moderate. We use the Microsoft Loopback Test connector for Microsoft Research's Singularity communication. I have a complete Microsoft research proposal. And benefits from Microsoft's Midori Lawler. And my apply for the payroll protection program.
 
 Jonathan is 45 and has been helping Microsoft with a Dev Drive for Windows 11 through Microsoft Collaborate and Virtual Box he can build Windows XP and 2003 from source as well as SCO's Open Server in XP's Services for UNIX. Microsoft uses UNIX System 7 and BCPL. Microsoft Windows XP is in support in Visual Studio 2019 until 2029 so is the .NET Framework 3.5. There is a difference between .NET and the .NET Framework. We are with Merrill Lynch. We gave a financial gift to the University of Washington in the memory of his parents and for future work with AT&T on UWIN. The AT&T UNIX Subsystem for Windows or MKS Toolkit. We were contracted by VMS Software to port VMS to x86 in their early adopters program. We almost have every version of the Windows SDK's and DDK's with Reference Source from 2009 with the .NET Framework 8.0 with true type source. Windows Research Kernel, Curriculum Kit, Walnut Creek Collection. and Windows Code Pack API. and Spec#
 
