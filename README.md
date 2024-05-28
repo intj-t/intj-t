@@ -39,7 +39,7 @@
 
 <a href="https://windows-never-released.fandom.com/wiki/">Windows Never Released</a>
 
-<a href="https://windows-never-released.fandom.com/wiki/Magnesium_3.0">Magnesium 3.0 (Codename ENIAC)Release date August 31, 2995</a>
+<a href="https://windows-never-released.fandom.com/wiki/Magnesium_3.0">Magnesium 3.0 (Codename ENIAC) Release date August 31, 2995</a>
 
 <a href="https://betawiki.net/wiki/Main_Page">Beta Wiki</a>
 
