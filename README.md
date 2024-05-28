@@ -41,6 +41,10 @@
 
 <a href="https://betawiki.net/wiki/Main_Page">Beta Wiki</a>
 
+<a href="https://betawiki.net/wiki/Build_lab">Beta Wiki Build Lab</a>
+
+<a href="https://sphinxlogic.azurewebsites.net/w2k3.aspx">How to Build Windows My Instructions</a>
+
 [My Windows Source Code](https://github.com/jonathanlyonmoore/jonathanlyonmoore/blob/master/images/Untitled.png)
 
 ### Jonathan Lyon Moore
