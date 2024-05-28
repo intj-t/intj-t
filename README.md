@@ -1,4 +1,4 @@
-﻿<img src="images/Magnesium_1.0.webp">
+﻿<img src="images/magnesium-blog-banner.jpg">
 
 <!--<img align="right" width="500" src="images/VirtualBox_Windows XP Professional_14_04_2023_09_58_41.png">
 <img align="right" width="500" src="images/octo.jpg">-->
