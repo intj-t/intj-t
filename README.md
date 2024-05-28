@@ -119,7 +119,7 @@
 
 <a href="https://www.crunchbase.com/organization/sphinx-logic">Tech Crunch Profile</a>
 
-[Anne Hathaway](https://annehathaway.azurewebsites.net/)
+[Anne Hathaway](https://hathaway.azurewebsites.net/)
 
 <a href="https://www.imdb.com/user/ur154049466/watchlist">Jonathan Moore's IMDB Watchlist</a>
 
