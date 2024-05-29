@@ -619,12 +619,14 @@ tools\ntnewver.cmd</pre>
 	<pre>delobj.cmd to clean the source tree</pre>
 
 <strong>Lab05</strong>: Shared Source Common Language infustructure
-<pre>However the Beta Wiki doesn't list a Lab 05 I believe it's either the SSCLI or the COM Stack. With the .NET Framework.
-To build the SSCLI you need Visual Studio 2005 Professional or higher in a 2000 or 2003 Virtual Machine. And Active State 
-Perl ActivePerl-5.16.3.1603-MSWin32-x86-296746.msi or ActivePerl-5.16.3.1603-MSWin32-x64-296746.msi for 64-Bit
-extract the sscli20_20060311.tgz for 2.0 or 1.0 sscli_20021101.tgz sscli_ref_20021101.tgz and and Gyro Genetrics with 1.0 
-and execute env.bat at the root of the directory. To set the free or checked environment then execute buildall.cmd.
-To build the COM stack run build -cz in the root of the COM directory or lab.</pre>
+<pre>However the Beta Wiki doesn't list a Lab 05 I believe it's either the SSCLI or the COM Stack. 
+With the .NET Framework. To build the SSCLI you need Visual Studio 2005 Professional or higher 
+in a 2000 or 2003 Virtual Machine. And Active State Perl ActivePerl-5.16.3.1603-MSWin32-x86-296746.msi
+ or ActivePerl-5.16.3.1603-MSWin32-x64-296746.msi for 64-Bit extract the sscli20_20060311.tgz for 2.0 
+or 1.0 sscli_20021101.tgz sscli_ref_20021101.tgz and and Gyro Genetrics with 1.0 and execute env.bat 
+at the root of the directory. To set the free or checked environment then execute buildall.cmd. 
+To build the COM stack run build -cz 
+in the root of the COM directory or lab.</pre>
 <strong>Lab06</strong>: User interface
 <pre>Copy NT\shell directory to Lab06. The UI Stack should build without error in the Virtual Lab.
 	 You might have issues in the Physical Lab. With the GNUmakfile
