@@ -59,6 +59,8 @@
  
 <a href="Jonathan Chapman Moore FRSA.docx">Curriculum Vitae</a>
 
+[Politically Correct Labels and Schizophrenia: A Rose by Any Other Name?](https://academic.oup.com/schizophreniabulletin/article/27/2/197/1870998?login=false)
+
 [What Is a Lisp?](https://www.webmd.com/children/what-is-a-lisp)
 
 [Family Tree](https://github.com/jonathanlyonmoore/jonathanlyonmoore/blob/master/images/familytree.jpg)
