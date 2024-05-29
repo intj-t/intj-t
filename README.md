@@ -63,6 +63,8 @@
 
 [“Schizophrenia” does not exist](https://www.bmj.com/content/352/bmj.i375)
 
+[Chaos theory and schizophrenia: elementary aspects](https://pubmed.ncbi.nlm.nih.gov/1661431/)
+
 [What Is a Lisp?](https://www.webmd.com/children/what-is-a-lisp)
 
 [Family Tree](https://github.com/jonathanlyonmoore/jonathanlyonmoore/blob/master/images/familytree.jpg)
