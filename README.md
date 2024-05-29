@@ -61,6 +61,8 @@
 
 [Politically Correct Labels and Schizophrenia: A Rose by Any Other Name?](https://academic.oup.com/schizophreniabulletin/article/27/2/197/1870998?login=false)
 
+[“Schizophrenia” does not exist](https://www.bmj.com/content/352/bmj.i375)
+
 [What Is a Lisp?](https://www.webmd.com/children/what-is-a-lisp)
 
 [Family Tree](https://github.com/jonathanlyonmoore/jonathanlyonmoore/blob/master/images/familytree.jpg)
