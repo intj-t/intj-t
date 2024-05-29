@@ -65,6 +65,8 @@
 
 [Chaos theory and schizophrenia: elementary aspects](https://pubmed.ncbi.nlm.nih.gov/1661431/)
 
+[Consciousness, High Probability of Afterlife, and the Evolution of the Intelligence in the Universe/s](https://www.cambridge.org/engage/coe/article-details/654f64812c3c11ed7131e8e2)
+
 [What Is a Lisp?](https://www.webmd.com/children/what-is-a-lisp)
 
 [Family Tree](https://github.com/jonathanlyonmoore/jonathanlyonmoore/blob/master/images/familytree.jpg)
