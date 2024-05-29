@@ -592,10 +592,7 @@ tools\ntnewver.cmd</pre>
 </p>
 <pre>tools\verifybuildmachine.cmd</pre>
 <pre>perl xcopy2binplace.pl</pre>
-<p>You can compile the Lab 01 down to about 8 errors the rest of the Labs and Operating System shouldn't have any errors. You should have the research kernel to muck around with also from college, 
-	needing to comment out the Longhorn additions in revision 6000, files beginning with 'dp' are Longhorn files. The 'dp' files are not in the 'Longhorn' beta LDK they maybe in a IDW or internal developer workstation release if I can find one. 
-	Maybe look in Embedded 2009 for supported hardware and maybe learning what PCI hardware and coding the plug n' play to support in the NT Kernel. 
-	The PCI codes you can use now a days in 2024 is Linux and you might want to remove some of the cheap hardware.</p>
+<p>You can compile the Lab 01 down to about 8 errors the rest of the Labs and Operating System shouldn't have any errors. You should have the research kernel to muck around with also from college, needing to comment out the Longhorn additions in revision 6000, files beginning with 'dp' are Longhorn files. The 'dp' files are not in the 'Longhorn' beta LDK they maybe in a IDW or internal developer workstation release if I can find one. Maybe look in Embedded 2009 for supported hardware and maybe learning what PCI hardware and coding the plug n' play to support in the NT Kernel. The PCI codes you can use now a days in 2024 is Linux and you might want to remove some of the cheap hardware.</p>
 
 <strong>Lab01</strong>: Kernel
 <pre>Copy the base\ntos directory and all of it's files to Lab01 it might be a virtual lab in source depot and it is a physical lab.</pre>
@@ -622,13 +619,12 @@ tools\ntnewver.cmd</pre>
 	<pre>delobj.cmd to clean the source tree</pre>
 
 <strong>Lab05</strong>: Shared Source Common Language infustructure
-<pre>However the Beta Wiki doesn't list a Lab 05 I believe it's either the SSCLI or the COM Stack. With the .NET Framework.</pre>
-	<pre>To build the SSCLI you need Visual Studio 2005 Professional or higher in a 2000 or 2003 Virtual Machine. And Active State 
-	Perl ActivePerl-5.16.3.1603-MSWin32-x86-296746.msi or ActivePerl-5.16.3.1603-MSWin32-x64-296746.msi for 64-Bit
-	</pre>
-	<pre>extract the sscli20_20060311.tgz for 2.0 or 1.0 sscli_20021101.tgz sscli_ref_20021101.tgz and and Gyro Genetrics with 1.0 
-	and execute env.bat at the root of the directory. To set the free or checked environment then execute buildall.cmd.</pre>
-	<pre>To build the COM stack run build -cz in the root of the COM directory or lab.</pre>
+<pre>However the Beta Wiki doesn't list a Lab 05 I believe it's either the SSCLI or the COM Stack. With the .NET Framework.
+To build the SSCLI you need Visual Studio 2005 Professional or higher in a 2000 or 2003 Virtual Machine. And Active State 
+Perl ActivePerl-5.16.3.1603-MSWin32-x86-296746.msi or ActivePerl-5.16.3.1603-MSWin32-x64-296746.msi for 64-Bit
+extract the sscli20_20060311.tgz for 2.0 or 1.0 sscli_20021101.tgz sscli_ref_20021101.tgz and and Gyro Genetrics with 1.0 
+and execute env.bat at the root of the directory. To set the free or checked environment then execute buildall.cmd.
+To build the COM stack run build -cz in the root of the COM directory or lab.</pre>
 <strong>Lab06</strong>: User interface
 <pre>Copy NT\shell directory to Lab06. The UI Stack should build without error in the Virtual Lab.
 	 You might have issues in the Physical Lab. With the GNUmakfile
