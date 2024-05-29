@@ -53,6 +53,8 @@
 
 [My Windows Source Code](https://github.com/jonathanlyonmoore/jonathanlyonmoore/blob/master/images/Untitled.png)
 
+[Digitization and IT Darwinism: Reinventing IT Leadership in 2016](https://www.microsoft.com/en-ca/industry/blog/uncategorized/2016/02/10/digitization-and-it-darwinism-reinventing-it-leadership-in-2016/)
+
 ### Jonathan Lyon Moore
  
 <a href="Jonathan Chapman Moore FRSA.docx">Curriculum Vitae</a>
