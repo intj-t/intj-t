@@ -312,8 +312,6 @@ Preferred Shares of Equity. This may be considered a cash equivalent if they are
 [The Population Crisis: The Stork, the Plow, and the
 IRS](https://github.com/jonathanlyonmoore/jonathanlyonmoore/blob/master/docs/The%20Population%20CrisisTheStorkthePlowandtheIRS.pdf)
 
-
-
 Net Worth $229,493,000
 
 I own 962 Perpetual Software Licences
@@ -342,8 +340,6 @@ Collateral is an asset pledged by a borrower to a lender until a loan is paid ba
 <a href="https://www.independent.co.uk/news/world/sony-senses-a-market-in-esp-1577154.html">Sony senses a market in ESP</a>
 
 <a href="https://taxfoundation.org/research/all/federal/moore-v-united-states-tax-unrealized-income/">Moore vs the United States</a> In Coccomo II it is Taxonomoy not tax
-
-
 
 <a href="https://www.prwatch.org/fakenews/tv-stations">Fake News TV Stations</a>
 
@@ -383,6 +379,7 @@ It all started in 2001 when a Microsoft TV commercial mentioned 'age' it can be 
 
 <a href="https://www.sciencedirect.com/science/article/pii/S1571064513001188">Consciousness in the universe: A review of the ‘Orch OR’ theory</a>-->
 
+
 How to Build MS-DOS and Windows
 				
 <p><a target="_self" href="https://computerhistory.org/blog/microsoft-ms-dos-early-source-code/" data-test-app-aware-link="">MS-DOS Source</a></p>
@@ -412,16 +409,7 @@ How to Build MS-DOS and Windows
 
 <p>Now, we are ready to compile MS-DOS 1.25 for the first time! If you are experienced in assembly, used those assemblers and tools listed above, then you should be able to get everything done by yourself. For those unable to assemble it on their own, my build disk will save your time.</p>
 
-<p>Here is how to build MS-DOS 1.25 with the build disk:
-
-    Download the build disk.
-    Create a new virtual machine using your favorite emulator or hypervisor.
-    Add a floppy drive, load the build disk.
-    Start the virtual machine (it should boot from the build disk).
-    Check the filenames using the DIR command and it should return:
-    Type in MK <FILENAME> to assemble that particular component or MK ALL to assemble everything.
-    Once you have everything assembled, type in DIR *.COM and DIR *.SYS to see the executable produced, it should be similar to:
-    You have done it! You can now copy those executables to another disk or extract them or run them!</p>
+<p>Here is how to build MS-DOS 1.25 with the build disk: Download the build disk. create a new virtual machine using your favorite emulator or hypervisor. Add a floppy drive, load the build disk. Start the virtual machine (it should boot from the build disk). Check the filenames using the DIR command and it should return: Type in MK <FILENAME> to assemble that particular component or MK ALL to assemble everything. Once you have everything assembled, type in DIR *.COM and DIR *.SYS to see the executable produced, it should be similar to: You have done it! You can now copy those executables to another disk or extract them or run them!</p>
 <p>I have my System Integrator ID and NDA which you can find in the Partner Center. You can access Microsoft Collaborate <a href="https://developer.microsoft.com/en-us/windows/support/?tabs=Contact-us">here</a> I'm retired from Microsoft until the faternity leaves and Computer Science teaches Opertaing System Theory again. Or until Microsoft is a Computer Science Company not a IT Company.</p>
 <p id="ember670"> You may want to try DR-DOS 7.03 from 
 <a target="_self" href="https://en.wikipedia.org/wiki/Santa_Cruz_Operation" data-test-app-aware-link="">Caldera</a> Licensing or
