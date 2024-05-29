@@ -81,6 +81,8 @@
 
 [The Intervening State](https://github.com/jonathanlyonmoore/jonathanlyonmoore/blob/master/docs/rsa-issue-3-2021.pdf) 
 
+[Quantum Theory Fails Reality Checks](https://www.scientificamerican.com/article/quantum-theory-fails-reality/)
+
 <a href="https://www.theguardian.com/books/2012/jan/08/history-western-thought-trombley-review">A Short History of Western Thought by Stephen Trombley – review</a>
 
 <!--<a href="https://github.com/jonathanlyonmoore/jonathanlyonmoore/blob/master/images/366747667_142894705525449_4368536133200378218_n.jpg">My President Obama Grant Letter which Grants Congressional Rights.</a>-->
