@@ -196,6 +196,10 @@ Gates Orginially wanted me to for to Oxford in 2005 but management messed up the
 <li><a href="https://www.bl.uk/collection-items/shakespeares-handwriting-in-the-book-of-sir-thomas-more">The Book of Sir Thomas More: Shakespeare's only surviving literary manuscript</li>
 </ul>-->
 
+## Price Discrimination
+
+According to price discrimination law the more the unit of a product that can be produced the lower the cost per unit.
+
 ## Jonathan Moore Bio
 
 The founder is Irish, Spanish, Native American and Mediterranean I'm a Moore, Chapman, Little, Vaughn, Turner, Spencer, Lyon, Hathaway, and McCaulley. Jonathan tested as a INTJ-T top 1% personality of the population and Royal Society of the Arts Fellow. Went to Sullins Academy and St Annes Catholic School starting in 1984. Went to Hollins Communications in 1989 in Roanoake Va, right next door the a entertainment law firm. Now Anglican, Computer Science
