@@ -75,6 +75,8 @@
 
 [What Is a Lisp?](https://www.webmd.com/children/what-is-a-lisp)
 
+[Competitive Advantage Is Dead. Here's What To Do About It.](https://www.forbes.com/sites/dorieclark/2013/05/16/competitive-advantage-is-dead-heres-what-to-do-about-it/?sh=63c06843743b)
+
 [Family Tree](https://github.com/jonathanlyonmoore/jonathanlyonmoore/blob/master/images/familytree.jpg)
 
 <a href="https://www.familytreedna.com/">Family Tree DNA X Matches, Maternal Ancestry, Family Ancestry</a>
