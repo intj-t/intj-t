@@ -73,6 +73,8 @@
 
 [Autism’s Competitive Advantage, and Challenge, in the Workplace](https://hbr.org/2013/05/autisms-competitive-advantage)
 
+[Is Everyone A Little Autistic?](https://www.forbes.com/sites/drnancydoyle/2021/01/16/is-everyone-a-little-autistic/?sh=2435dcb35666)
+
 [Consciousness, High Probability of Afterlife, and the Evolution of the Intelligence in the Universe/s](https://www.cambridge.org/engage/coe/article-details/654f64812c3c11ed7131e8e2)
 
 [What Is a Lisp?](https://www.webmd.com/children/what-is-a-lisp)
