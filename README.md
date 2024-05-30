@@ -69,6 +69,8 @@
 
 [Where Is Justice When Someone With Schizophrenia is Wronged?](https://www.huffpost.com/archive/ca/entry/where-is-justice-when-someone-with-schizophrenia-is-wronged_b_3377642)
 
+[Saints, Scholars, and Schizophrenics](https://www.ucpress.edu/book/9780520224803/saints-scholars-and-schizophrenics)
+
 [Consciousness, High Probability of Afterlife, and the Evolution of the Intelligence in the Universe/s](https://www.cambridge.org/engage/coe/article-details/654f64812c3c11ed7131e8e2)
 
 [What Is a Lisp?](https://www.webmd.com/children/what-is-a-lisp)
