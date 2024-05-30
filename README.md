@@ -71,6 +71,8 @@
 
 [Saints, Scholars, and Schizophrenics](https://www.ucpress.edu/book/9780520224803/saints-scholars-and-schizophrenics)
 
+[Autism’s Competitive Advantage, and Challenge, in the Workplace](https://hbr.org/2013/05/autisms-competitive-advantage)
+
 [Consciousness, High Probability of Afterlife, and the Evolution of the Intelligence in the Universe/s](https://www.cambridge.org/engage/coe/article-details/654f64812c3c11ed7131e8e2)
 
 [What Is a Lisp?](https://www.webmd.com/children/what-is-a-lisp)
