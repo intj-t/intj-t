@@ -27,6 +27,14 @@
         <li>11. certmgr.msc, go to Trusted Root Certification Authorities\Certificates and remove the Microsoft Test Root Authority certificate, Sign out and Sign in again.</li>
 </ul>-->
 
+[My Windows 2003 Build Lab](https://github.com/jonathanlyonmoore/jonathanlyonmoore/blob/master/images/VirtualBox_WindowsXPProfessional32-Bit_04_05_2024_19_43_34.png)
+
+[My Virtual Machines](https://github.com/jonathanlyonmoore/jonathanlyonmoore/blob/master/images/Untitledvm.png)
+
+<a href="https://sphinxlogic.azurewebsites.net/w2k3.aspx">How to Build Windows My Instructions</a>
+
+[My Windows Source Code](https://github.com/jonathanlyonmoore/jonathanlyonmoore/blob/master/images/Untitled.png)
+
 ## Price Discrimination
 
 According to price discrimination law the more the unit of a product that can be produced the lower the cost per unit. Also the larger the company the more sesitive the pricing.
