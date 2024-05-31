@@ -48,7 +48,7 @@
 According to price discrimination law the more the unit of a product that can be produced the lower the cost per unit. Also the larger the company the more sesitive the pricing.
 ## Jonathan Moore Bio
 
-The founder is Irish, Spanish, Native American and Mediterranean I'm a Moore, Chapman, Little, Vaughn, Turner, Spencer, Lyon, Hathaway, and McCaulley. Jonathan tested as a INTJ-T top 1% personality of the population and Royal Society of the Arts Fellow. Went to Sullins Academy and St Annes Catholic School starting in 1984. Went to Hollins Communications in 1989 in Roanoake Va, right next door the a entertainment law firm. Now Anglican, Computer Science
+The founder is Irish, Spanish, Jewish Egytian and Mediterranean I'm a Moore, Chapman, Little, Vaughn, Turner, Spencer, Lyon, Hathaway, and McCaulley. Jonathan tested as a INTJ-T top 1% personality of the population and Royal Society of the Arts Fellow. Went to Sullins Academy and St Annes Catholic School starting in 1984. Went to Hollins Communications in 1989 in Roanoake Va, right next door the a entertainment law firm. Now Anglican, Computer Science
 
 In compliance with shared source law whe are are taking Microsoft to court at thier own Microsoft Legal with 15 years of customer reciepts. In the following excert of shared source law. "In response to the demands of its customers for access to source code, Microsoft created its shared source licensing program. This program allows Microsoft customers to read and
 examine certain of the company’s source code."
