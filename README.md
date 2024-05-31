@@ -35,6 +35,14 @@
 
 [My Windows Source Code](https://github.com/jonathanlyonmoore/jonathanlyonmoore/blob/master/images/Untitled.png)
 
+<a href="https://windows-never-released.fandom.com/wiki/">Windows Never Released</a>
+
+<a href="https://windows-never-released.fandom.com/wiki/Magnesium_3.0">Magnesium 3.0 (Codename ENIAC) Release date August 31, 2995</a>
+
+<a href="https://betawiki.net/wiki/Main_Page">Beta Wiki</a>
+
+<a href="https://betawiki.net/wiki/Build_lab">Beta Wiki Build Lab</a>
+
 ## Price Discrimination
 
 According to price discrimination law the more the unit of a product that can be produced the lower the cost per unit. Also the larger the company the more sesitive the pricing.
