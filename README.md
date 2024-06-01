@@ -27,6 +27,8 @@
         <li>11. certmgr.msc, go to Trusted Root Certification Authorities\Certificates and remove the Microsoft Test Root Authority certificate, Sign out and Sign in again.</li>
 </ul>-->
 
+[My Net Worth](https://github.com/jonathanlyonmoore/jonathanlyonmoore/blob/master/images/MyNetworth.png)
+
 [My Windows 2003 Build Lab](https://github.com/jonathanlyonmoore/jonathanlyonmoore/blob/master/images/VirtualBox_WindowsXPProfessional32-Bit_04_05_2024_19_43_34.png)
 
 [My Virtual Machines](https://github.com/jonathanlyonmoore/jonathanlyonmoore/blob/master/images/Untitledvm.png)
