@@ -41,6 +41,8 @@
 
 <a href="https://windows-never-released.fandom.com/wiki/Magnesium_3.0">Magnesium 3.0 (Codename ENIAC) Release date August 31, 2995</a>
 
+<a href="https://en.wikipedia.org/wiki/ENIAC">ENIAC</a>
+
 <a href="https://betawiki.net/wiki/Main_Page">Beta Wiki</a>
 
 <a href="https://betawiki.net/wiki/Build_lab">Beta Wiki Build Lab</a>
