@@ -1,7 +1,5 @@
 ﻿<!--<img src="images/magnesium-blog-banner.jpg">-->
-<div data-menutext="load"></div> <div id="main-video" data-playstate="playing"> <div class="overlay"></div>
-         <!-- Video Partial -->   <!--[if IE]> <video id="video" class="ta-video video video-fill"  preload="auto" style="background-image: url(.jpg);" autoplay loop muted> <source src="0334_blacksticks_1.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2"> <source src=".webm" type="video/webm; codecs=vp8,vorbis"> </video> <![endif]--> <!--[if !IE]--> 
-         <video id="video" class="ta-video video video-fill" preload="auto" poster="assets/images/blacsticks.png" autoplay="autoplay" loop="" muted="muted"> <source src="0334_blacksticks_1.mp4" type="video/mp4; codecs=avc1.42E01E,mp4a.40.2"> <source src="This%20Also_files/video.webm" type="video/webm; codecs=vp8,vorbis"> </video> <!--[endif]-->
+<video src='0334_blacksticks_1.mp4' width=360/>
 
 <!--<img align="right" width="500" src="images/VirtualBox_Windows XP Professional_14_04_2023_09_58_41.png">
 <img align="right" width="500" src="images/octo.jpg">-->
