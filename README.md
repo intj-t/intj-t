@@ -1,5 +1,5 @@
-﻿<!--<img src="images/magnesium-blog-banner.jpg">-->
-<video src='0334_blacksticks_1.mp4' width=360/>
+﻿<img src="images/magnesium-blog-banner.jpg">
+<!--<video src='0334_blacksticks_1.mp4' width=360/>-->
 
 <!--<img align="right" width="500" src="images/VirtualBox_Windows XP Professional_14_04_2023_09_58_41.png">
 <img align="right" width="500" src="images/octo.jpg">-->
