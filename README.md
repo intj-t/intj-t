@@ -43,6 +43,8 @@
 
 <a href="https://en.wikipedia.org/wiki/ENIAC">ENIAC</a>
 
+<a href="https://medium.com/book-of-paul/i-am-from-the-year-3000-bb8aa83f15a5">I am from the Year 3000</a>
+
 <a href="https://betawiki.net/wiki/Main_Page">Beta Wiki</a>
 
 <a href="https://betawiki.net/wiki/Build_lab">Beta Wiki Build Lab</a>
