@@ -45,6 +45,8 @@
 
 <a href="https://medium.com/book-of-paul/i-am-from-the-year-3000-bb8aa83f15a5">I am from the Year 3000</a>
 
+<a href="https://www.forbes.com/sites/allenstjohn/2012/07/08/higgs-boson-why-you-should-care-about-the-god-particle-and-sadly-why-you-dont/?sh=6bb372b67b99">The Higgs Boson: Why You Should Care About the God Particle. And, Sadly, Why You Don't</a>
+
 <a href="https://betawiki.net/wiki/Main_Page">Beta Wiki</a>
 
 <a href="https://betawiki.net/wiki/Build_lab">Beta Wiki Build Lab</a>
