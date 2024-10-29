@@ -1,9 +1,9 @@
-﻿alt="SimonDarksideJ's GitHub stats"/></div>
+﻿
 
 <img src="images/magnesium-blog-banner.jpg">
 <!--<video src='0334_blacksticks_1.mp4' width=360/>-->
-<br/>
-<div align=center><img src="https://github-readme-stats.vercel.app/api?username=jonathanlyonmoore&show_icons=true&theme=dark" title="GitHub Stats" alt="Jonathan Lyon Moore's GitHub stats"/></div>
+
+
 <!--<img align="right" width="500" src="images/VirtualBox_Windows XP Professional_14_04_2023_09_58_41.png">
 <img align="right" width="500" src="images/octo.jpg">-->
 <ul>
