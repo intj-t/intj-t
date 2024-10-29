@@ -56,7 +56,7 @@
 
 Shared Source, Eventual Source, and Other Licensing Models Alternatives to Open Source
 
-There are many ways to license software. None is legally privileged. Contract law allows parties to license software under almost any terms and conditions that people can dream up. Copyright and patent law acts as a backstop, preventing anyone from copying, modifying, distributing, making, using, or selling protected software without the licensor’s permission—but otherwise leaving to the parties themselves the terms and conditions of their licenses.
+There are many ways to license software. None is legally privileged. Contract law allows parties to license software under almost any terms and conditions that people can dream up. Copyright and patent law acts as a backstop, preventing anyone from copying, modifying, distributing, making, using, or selling protected software without the licensor's permission—but otherwise leaving to the parties themselves the terms and conditions of their licenses.
 Open source software distribution is a young but maturing business model. Enormously successful software has been created and is available worldwide, usually for free. Despite this success, companies often refuse to “go all the way” with open source, afraid that giving software away for free is contrary to
 their profit motive. 
  
@@ -67,7 +67,7 @@ In between fully proprietary and fully open source models there are other softwa
 Each of the licenses described in this chapter provides source code to licensees. You will remember from Chapter 1 that source code is but the means to an end; it is not an end itself. (Open Source Principle #4.) The real goal is software freedom, as reflected in the right to use for any purpose, to
 copy without payment of royalties, and to freely create and distribute derivative works. (Open Source Principles # 1, 2, and 3.) 
 
-The problem with all of the licenses described in this chapter is that they fail to fully promote software freedom. Their terms are far more reasonable than typical proprietary software licenses, but the software they license is not truly free. That doesn’t mean that you shouldn’t accept software under
+The problem with all of the licenses described in this chapter is that they fail to fully promote software freedom. Their terms are far more reasonable than typical proprietary software licenses, but the software they license is not truly free. That doesn’t mean that you shouldn't accept software under
 them. Some of them are good licenses, just not good enough to be open source. 
 
 Shared Source
