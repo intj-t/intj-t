@@ -55,7 +55,7 @@
 
 <a href="https://betawiki.net/wiki/Build_lab">Beta Wiki Build Lab</a>
 
-I'm Anne Hathaway the Actress older cousin.
+I'm Anne Hathaway the actress older cousin.
 
 ## Shared Source Law
 
